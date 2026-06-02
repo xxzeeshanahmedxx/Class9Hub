@@ -4,7 +4,7 @@ window.__STUDY_APP_LOADED__=true;
 let subjects=[];let subjectCache={};let state={view:'home',subject:null,chapter:null,section:null};
 const root=document.getElementById('screen'),back=document.getElementById('back'),h=document.getElementById('headTitle'),sub=document.getElementById('headSub'),searchWrap=document.getElementById('searchWrap'),search=document.getElementById('search');
 async function fetchJson(file){const urls=[`/data/${file}`,`./data/${file}`];let last;for(const u of urls){try{const r=await fetch(u,{cache:'no-store'});if(r.ok)return await r.json();last=new Error(r.status+' '+u)}catch(e){last=e}}throw last}
-function setTheme(meta){document.documentElement.style.setProperty('--bg',meta?.bg||'#0b0f17');document.documentElement.style.setProperty('--accent',meta?.accent||'#6ea8ff');document.documentElement.style.setProperty('--accent2',meta?.accent2||'#8b5cf6')}
+function setTheme(meta){const root=document.documentElement;const defaults={bg:'#070a1a',bg2:'#10143a',bg3:'#2a1558',card:'#11182d',card2:'#17213d',line:'#2a3a66',soft:'#1a2544',accent:'#8cb4ff',accent2:'#a78bfa'};for(const k in defaults){root.style.setProperty('--'+k,meta?.[k]||defaults[k])}}
 function setHeader(title,subtitle,canBack=false,showSearch=false){h.textContent=title;sub.textContent=subtitle||'';back.classList.toggle('show',canBack);searchWrap.classList.toggle('show',showSearch);if(!showSearch)search.value=''}
 function routeParts(){let p=location.pathname.replace(/^\/site\/?/,'/').replace(/^\/+|\/+$/g,'');return p?p.split('/'):[]}
 function go(path){history.pushState(null,'',path);render()}
