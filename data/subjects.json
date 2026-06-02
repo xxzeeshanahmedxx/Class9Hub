@@ -5,9 +5,15 @@
     "subtitle": "New Book",
     "emoji": "M",
     "data": "math.json",
-    "accent": "#6ea8ff",
-    "accent2": "#8b5cf6",
-    "bg": "#0b0f17"
+    "accent": "#8cb4ff",
+    "accent2": "#a78bfa",
+    "bg": "#070a1a",
+    "bg2": "#10143a",
+    "bg3": "#2a1558",
+    "card": "#11182d",
+    "card2": "#17213d",
+    "line": "#2a3a66",
+    "soft": "#1a2544"
   },
   {
     "id": "physics",
@@ -15,9 +21,15 @@
     "subtitle": "New Book 2025",
     "emoji": "PH",
     "data": "physics.json",
-    "accent": "#42d67d",
-    "accent2": "#14945b",
-    "bg": "#07130d"
+    "accent": "#7cff9b",
+    "accent2": "#24c875",
+    "bg": "#03150f",
+    "bg2": "#083522",
+    "bg3": "#0e4b2f",
+    "card": "#0d2217",
+    "card2": "#123520",
+    "line": "#27533a",
+    "soft": "#163b27"
   },
   {
     "id": "chemistry",
@@ -25,9 +37,15 @@
     "subtitle": "New Book 2025",
     "emoji": "CH",
     "data": "chemistry.json",
-    "accent": "#49e0c2",
-    "accent2": "#0b9a78",
-    "bg": "#081112"
+    "accent": "#6fffe0",
+    "accent2": "#19b7a2",
+    "bg": "#041416",
+    "bg2": "#06303a",
+    "bg3": "#01454d",
+    "card": "#0d2226",
+    "card2": "#12343a",
+    "line": "#27535a",
+    "soft": "#17383e"
   },
   {
     "id": "urdu",
@@ -35,9 +53,15 @@
     "subtitle": "New Book 2025",
     "emoji": "UR",
     "data": "urdu.json",
-    "accent": "#f5c542",
-    "accent2": "#b9820d",
-    "bg": "#151103"
+    "accent": "#ffd166",
+    "accent2": "#d97706",
+    "bg": "#150d02",
+    "bg2": "#2b1a04",
+    "bg3": "#4a2b05",
+    "card": "#241907",
+    "card2": "#35250b",
+    "line": "#574016",
+    "soft": "#3b2a0d"
   },
   {
     "id": "computer",
@@ -45,8 +69,14 @@
     "subtitle": "New Book 2026",
     "emoji": "CS",
     "data": "computer.json",
-    "accent": "#63d4ff",
-    "accent2": "#4067ff",
-    "bg": "#080d18"
+    "accent": "#67e8f9",
+    "accent2": "#4f46e5",
+    "bg": "#050b1d",
+    "bg2": "#081d3c",
+    "bg3": "#1d1b5f",
+    "card": "#101a2e",
+    "card2": "#142745",
+    "line": "#2b426d",
+    "soft": "#192d4f"
   }
 ]
