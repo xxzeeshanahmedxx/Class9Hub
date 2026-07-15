@@ -455,6 +455,61 @@ button { font-family: inherit; cursor: pointer; }
   .home-title { font-size: 24px; letter-spacing: -0.96px; }
 }
 
+/* ─── Stagger Entrance ─── */
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.stagger-item {
+  animation: fadeSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.row-list .row {
+  opacity: 0;
+  animation: fadeSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.row-list .row:nth-child(1) { animation-delay: 0.03s; }
+.row-list .row:nth-child(2) { animation-delay: 0.06s; }
+.row-list .row:nth-child(3) { animation-delay: 0.09s; }
+.row-list .row:nth-child(4) { animation-delay: 0.12s; }
+.row-list .row:nth-child(5) { animation-delay: 0.15s; }
+.row-list .row:nth-child(6) { animation-delay: 0.18s; }
+.row-list .row:nth-child(7) { animation-delay: 0.21s; }
+.row-list .row:nth-child(8) { animation-delay: 0.24s; }
+.row-list .row:nth-child(9) { animation-delay: 0.27s; }
+.row-list .row:nth-child(10) { animation-delay: 0.3s; }
+
+/* ─── Footer ─── */
+.foot {
+  margin-top: 32px;
+  text-align: center;
+  color: var(--mute);
+  font-size: 12px;
+  font-family: var(--mono);
+  padding: 20px 0;
+  border-top: 1px solid var(--hairline);
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 640px) {
+  .app { padding: 8px 8px 28px; }
+  .heading h1 { font-size: 18px; letter-spacing: -0.72px; }
+  .home-card { padding: 22px 14px; }
+  .home-icon { width: 48px; height: 48px; font-size: 22px; border-radius: 12px; }
+  .home-title { font-size: 18px; letter-spacing: -0.54px; }
+  .row { padding: 12px 14px; border-radius: var(--radius-sm); }
+  .row-body b { font-size: 15px; }
+  .video { padding: 10px; }
+  .video h2 { font-size: 15px; letter-spacing: -0.45px; }
+  .cw-card { flex: 0 0 180px; padding: 10px; }
+  .cw-thumb { width: 44px; height: 44px; }
+}
+@media (min-width: 900px) {
+  .app { padding: 20px 20px 48px; }
+  .top { padding: 14px 0 18px; }
+  .heading h1 { font-size: 26px; letter-spacing: -1.04px; }
+  .screen { padding-top: 16px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: 0.01ms !important;
