@@ -97,6 +97,94 @@ button { font-family: inherit; cursor: pointer; }
 ::-webkit-scrollbar-thumb:hover { background: var(--hairline-strong); }
 
 /* Reduced motion */
+/* ─── Row Component (Chapters, Sections) ─── */
+.row-list { display: flex; flex-direction: column; gap: 10px; }
+.row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 18px;
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  color: var(--ink);
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  position: relative;
+  transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+  text-decoration: none;
+  font-family: inherit;
+}
+.row:hover {
+  transform: translateY(-1px);
+  border-color: var(--hairline-strong);
+  box-shadow: var(--shadow-card);
+}
+.row-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-sm);
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  font-size: 18px;
+  background: var(--canvas-soft-2);
+  color: var(--body);
+}
+.row-body { flex: 1; min-width: 0; }
+.row-body b {
+  display: block;
+  font-family: var(--display);
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.51px;
+  line-height: 1.25;
+}
+.row-body span {
+  display: block;
+  font-size: 12px;
+  color: var(--body);
+  margin-top: 3px;
+  font-family: var(--mono);
+  letter-spacing: 0;
+}
+.row-arrow {
+  font-size: 20px;
+  color: var(--mute);
+  flex-shrink: 0;
+  transition: transform 0.2s;
+}
+.row:hover .row-arrow { transform: translateX(2px); }
+
+/* Progress bar */
+.progress-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 6px;
+}
+.progress-track {
+  flex: 1;
+  height: 3px;
+  background: var(--hairline);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.progress-fill {
+  height: 100%;
+  border-radius: 4px;
+  width: 0%;
+  transition: width 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.progress-label {
+  font-size: 11px;
+  font-family: var(--mono);
+  color: var(--mute);
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
 /* ─── Continue Watching Row ─── */
 .cw-section { margin-bottom: 24px; }
 .cw-header {
