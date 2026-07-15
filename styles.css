@@ -315,34 +315,6 @@ button { font-family: inherit; cursor: pointer; }
 }
 .row:hover .row-arrow { transform: translateX(2px); }
 
-/* Progress bar */
-.progress-wrap {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  margin-top: 6px;
-}
-.progress-track {
-  flex: 1;
-  height: 3px;
-  background: var(--hairline);
-  border-radius: 4px;
-  overflow: hidden;
-}
-.progress-fill {
-  height: 100%;
-  border-radius: 4px;
-  width: 0%;
-  transition: width 0.8s cubic-bezier(0.16, 1, 0.3, 1);
-}
-.progress-label {
-  font-size: 11px;
-  font-family: var(--mono);
-  color: var(--mute);
-  flex-shrink: 0;
-  white-space: nowrap;
-}
-
 /* ─── Continue Watching Row ─── */
 .cw-section { margin-bottom: 24px; }
 .cw-header {
