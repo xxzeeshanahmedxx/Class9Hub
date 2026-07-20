@@ -1,0 +1,34 @@
+---
+export interface Props {
+  videoId: string;
+  title: string;
+  subtitle?: string;
+  duration?: string;
+  thumb: string;
+}
+
+const { videoId, title, subtitle, duration, thumb } = Astro.props;
+---
+
+<div class="group">
+  <button
+    data-video-id={videoId}
+    class="video-trigger relative w-full aspect-video rounded-xl overflow-hidden border transition-all duration-200 hover:scale-[1.02] hover:shadow-lg focus:outline-none focus-visible:ring-2"
+    style="border-color: var(--line, #1e2a4a);"
+    aria-label={`Play ${title}`}
+  >
+    <img src={thumb} alt={title} class="absolute inset-0 w-full h-full object-cover" loading="lazy" />
+    {duration && (
+      <span class="absolute bottom-2 right-2 bg-black/70 text-white text-xs px-1.5 py-0.5 rounded font-mono">
+        {duration}
+      </span>
+    )}
+    <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-200 bg-black/20">
+      <span class="w-12 h-12 rounded-full bg-white/90 flex items-center justify-center">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="#000"><polygon points="5,3 19,12 5,21"/></svg>
+      </span>
+    </div>
+  </button>
+  <h3 class="text-sm font-medium mt-2 line-clamp-2">{title}</h3>
+  {subtitle && <p class="text-xs mt-0.5 opacity-50 line-clamp-1">{subtitle}</p>}
+</div>
