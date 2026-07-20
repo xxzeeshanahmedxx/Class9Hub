@@ -1,5 +1,5 @@
 ---
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
 import ThemeStyles from '../components/ThemeStyles.astro';
 
@@ -21,7 +21,7 @@ const { title, subtitle, colors, backUrl } = Astro.props;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <ViewTransitions />
+    <ClientRouter />
     <title>{title}</title>
     <meta name="description" content="Study lectures for 9th grade students across Pakistan — Mathematics, Physics, Chemistry, Computer, Urdu." />
     <meta name="theme-color" content={colors?.bg || '#070a1a'} />

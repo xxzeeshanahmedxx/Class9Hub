@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SubjectCard from '../components/SubjectCard.astro';
+import subjects from '../data/subjects.json';
+---
+
+<Layout title="Class 9 · Punjab Curriculum">
+  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+    {subjects.map((s) => (
+      <SubjectCard id={s.id} title={s.title} emoji={s.emoji} accent={s.accent} />
+    ))}
+  </div>
+</Layout>
