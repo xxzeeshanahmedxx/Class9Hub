@@ -1,0 +1,33 @@
+---
+export interface Props {
+  colors: {
+    accent: string;
+    accent2: string;
+    bg: string;
+    bg2: string;
+    bg3: string;
+    card: string;
+    card2: string;
+    line: string;
+    soft: string;
+  } | null;
+}
+
+const { colors } = Astro.props;
+---
+
+{colors && (
+  <style>
+    :root {
+      --accent: {colors.accent};
+      --accent2: {colors.accent2};
+      --bg: {colors.bg};
+      --bg2: {colors.bg2};
+      --bg3: {colors.bg3};
+      --card: {colors.card};
+      --card2: {colors.card2};
+      --line: {colors.line};
+      --soft: {colors.soft};
+    }
+  </style>
+)}

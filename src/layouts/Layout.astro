@@ -1,0 +1,52 @@
+---
+import { ViewTransitions } from 'astro:transitions';
+import '../styles/global.css';
+import ThemeStyles from '../components/ThemeStyles.astro';
+
+export interface Props {
+  title: string;
+  subtitle?: string;
+  colors?: {
+    accent: string; accent2: string; bg: string; bg2: string; bg3: string;
+    card: string; card2: string; line: string; soft: string;
+  } | null;
+  backUrl?: string;
+}
+
+const { title, subtitle, colors, backUrl } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <ViewTransitions />
+    <title>{title}</title>
+    <meta name="description" content="Study lectures for 9th grade students across Pakistan — Mathematics, Physics, Chemistry, Computer, Urdu." />
+    <meta name="theme-color" content={colors?.bg || '#070a1a'} />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23fff'><polygon points='5,3 19,12 5,21'/></svg>" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <ThemeStyles colors={colors} />
+  </head>
+  <body class="min-h-screen flex flex-col" style="background-color: var(--bg, #070a1a); color: #f2f6ff;">
+    <header class="sticky top-0 z-40 backdrop-blur-md" style="background: color-mix(in srgb, var(--bg, #070a1a) 80%, transparent); border-bottom: 1px solid var(--line, #1e2a4a);">
+      <div class="flex items-center gap-3 px-4 h-12 max-w-4xl mx-auto">
+        {backUrl && (
+          <a href={backUrl} class="flex items-center justify-center w-8 h-8 rounded-lg text-lg font-mono hover:opacity-70 transition-opacity" style="color: var(--accent, #8cb4ff);" data-astro-transition-persist>&lsaquo;</a>
+        )}
+        <div class="min-w-0">
+          <h1 class="text-sm font-semibold truncate">{title}</h1>
+          {subtitle && <p class="text-xs truncate opacity-60">{subtitle}</p>}
+        </div>
+      </div>
+    </header>
+    <main class="flex-1 max-w-4xl mx-auto w-full px-4 py-6">
+      <slot />
+    </main>
+    <footer class="text-center text-xs py-4 opacity-40 px-4">
+      Made by Zeeshan Ahmed (17) for 9th grade students across Pakistan
+    </footer>
+  </body>
+</html>
