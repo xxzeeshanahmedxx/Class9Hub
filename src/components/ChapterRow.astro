@@ -15,8 +15,8 @@ const { number, title, count, countLabel, href, colors } = Astro.props;
 
 <a
   href={href}
-  class="flex items-center gap-3 px-3 sm:px-4 min-h-[48px] touch-min transition-all duration-150 active:scale-[0.99] hover:[background:var(--surface-hover)]"
-  style="border-bottom: 1px solid var(--hairline);"
+  class="flex items-center gap-3 px-3 sm:px-4 min-h-[52px] rounded-xl border transition-all duration-150 active:scale-[0.99] hover:[background:var(--surface-hover)]"
+  style="border-color: var(--hairline);"
 >
   <span class="flex items-center justify-center w-7 h-7 rounded text-xs font-semibold flex-shrink-0 gradient-brand" style="color: #fff;">
     {number}

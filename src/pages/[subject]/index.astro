@@ -27,7 +27,7 @@ const isExercises = data.kind === 'exercises';
 ---
 
 <Layout title={subject.title} subtitle="Select a chapter" colors={subject} backUrl="/">
-  <div class="flex flex-col">
+  <div class="flex flex-col gap-3">
     {chapters.map((ch, i) => {
       const num = ch.number || ch.chapterNumber || i + 1;
       const chTitle = ch.title || 'Chapter ' + num;

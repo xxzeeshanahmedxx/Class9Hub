@@ -43,7 +43,7 @@ const displayTitle = num ? `Chapter ${num}` : chTitle;
   showPWA={true}
 >
   {isExercises ? (
-    <div class="flex flex-col">
+    <div class="flex flex-col gap-3">
       {(chapter.sections || []).map((sec, i) => (
         <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>
           <SectionRow
