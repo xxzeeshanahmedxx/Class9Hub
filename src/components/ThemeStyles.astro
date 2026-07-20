@@ -17,17 +17,17 @@ const { colors } = Astro.props;
 ---
 
 {colors && (
-  <style>
+  <style set:html={`
     :root {
-      --accent: {colors.accent};
-      --accent2: {colors.accent2};
-      --bg: {colors.bg};
-      --bg2: {colors.bg2};
-      --bg3: {colors.bg3};
-      --card: {colors.card};
-      --card2: {colors.card2};
-      --line: {colors.line};
-      --soft: {colors.soft};
+      --accent: ${colors.accent};
+      --accent2: ${colors.accent2};
+      --bg: ${colors.bg};
+      --bg2: ${colors.bg2};
+      --bg3: ${colors.bg3};
+      --card: ${colors.card};
+      --card2: ${colors.card2};
+      --line: ${colors.line};
+      --soft: ${colors.soft};
     }
-  </style>
+  `} />
 )}
