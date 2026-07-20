@@ -29,6 +29,13 @@ const { title, subtitle, colors, backUrl } = Astro.props;
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23fff'><polygon points='5,3 19,12 5,21'/></svg>" />
     <link rel="apple-touch-icon" href="/icon-192.png" />
     <ThemeStyles colors={colors} />
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js');
+        });
+      }
+    </script>
   </head>
   <body class="min-h-screen flex flex-col" style="background-color: var(--bg, #070a1a); color: #f2f6ff;">
     <header class="sticky top-0 z-40 backdrop-blur-md" style="background: color-mix(in srgb, var(--bg, #070a1a) 80%, transparent); border-bottom: 1px solid var(--line, #1e2a4a);">
