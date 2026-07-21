@@ -15,15 +15,15 @@ const { number, title, count, countLabel, href, colors } = Astro.props;
 
 <a
   href={href}
-  class="flex items-center gap-3 px-3 sm:px-4 min-h-[52px] rounded-xl border transition-all duration-150 active:scale-[0.99] hover:[background:var(--surface-hover)]"
+  class="flex items-center gap-3 px-4 min-h-[60px] sm:min-h-[68px] rounded-xl border transition-all duration-150 active:scale-[0.99] hover:[background:var(--surface-hover)]"
   style="border-color: var(--hairline);"
 >
-  <span class="flex items-center justify-center w-7 h-7 rounded text-xs font-semibold flex-shrink-0 gradient-brand" style="color: #fff;">
+  <span class="flex items-center justify-center w-8 h-8 rounded text-sm font-semibold flex-shrink-0 gradient-brand" style="color: #fff;">
     {number}
   </span>
   <div class="min-w-0 flex-1">
-    <div class="text-[15px] font-medium truncate" style="color: var(--text);">{title}</div>
-    <span class="text-[13px]" style="color: var(--text-secondary);">{count} {countLabel}</span>
+    <div class="text-[16px] sm:text-[17px] font-medium truncate" style="color: var(--text);">{title}</div>
+    <span class="text-[14px]" style="color: var(--text-secondary);">{count} {countLabel}</span>
   </div>
-  <span class="text-sm" style="color: var(--text-muted);">&rarr;</span>
+  <span class="text-base" style="color: var(--text-muted);">&rarr;</span>
 </a>
