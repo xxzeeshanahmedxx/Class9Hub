@@ -11,9 +11,8 @@ const { id, title, accent } = Astro.props;
 
 <a
   href={`/${id}/`}
-  class="group relative rounded-xl overflow-hidden aspect-square block active:scale-[0.95] touch-min"
+  class="relative rounded-xl overflow-hidden aspect-square block active:scale-[0.95] touch-min"
   aria-label={title}
-  style={`--card-from: ${accent};`}
 >
   <img
     src={`/assets/${id}.webp`}
@@ -22,7 +21,4 @@ const { id, title, accent } = Astro.props;
     loading="lazy"
     decoding="async"
   />
-  <!-- Gradient overlay bottom for text readability -->
-  <div class="absolute inset-x-0 bottom-0 h-1/3" style="background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, transparent 100%);"></div>
-  <span class="absolute bottom-2.5 left-2.5 text-[16px] sm:text-[18px] font-semibold" style="color: #fff; text-shadow: 0 1px 3px rgba(0,0,0,0.5);">{title}</span>
 </a>
