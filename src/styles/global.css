@@ -43,9 +43,15 @@ body::before {
   content: '';
   position: fixed;
   inset: 0;
-  background: radial-gradient(ellipse 80% 60% at 50% 0%, color-mix(in srgb, var(--accent) 3%, transparent), transparent);
+  background: linear-gradient(to top, rgba(0,0,0,0.3), rgba(255,255,255,0.7));
   pointer-events: none;
   z-index: 0;
+  animation: breathe 6s ease-in-out infinite;
+}
+
+@keyframes breathe {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.5; }
 }
 
 main, header, footer { position: relative; z-index: 1; }
