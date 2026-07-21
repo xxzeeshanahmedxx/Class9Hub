@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "search-console": {
+      "command": "npx",
+      "args": ["-y", "search-console-mcp"],
+      "type": "local"
+    }
+  }
+}
