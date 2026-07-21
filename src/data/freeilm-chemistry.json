@@ -1,0 +1,106 @@
+{
+  "ch1": {
+    "title": "States of Matter and Phase Changes",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1WW--BZ_b3-lPnDxLRw85H0OcPHMxSyr4" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1XIpO45HIQH_AnK48mX9_M1YnGYBKSIIm" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=18jPhW_BMOkjiIxMN1rFIj7u5ICAFkBMk" }
+    ]
+  },
+  "ch2": {
+    "title": "Atomic Structure",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=15VBdH2zEyR3zkWKDyBz3E1IeFYqTJuFh" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1XkC9HzTzbzKcmyElZfoSnoY0CAugT12z" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1fiO8JCsoOzK1c3G9Jbh152xfhlMbwxha" }
+    ]
+  },
+  "ch3": {
+    "title": "Chemical Bonding",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1CDA7oPGYX8zh8kJipGlqq_oeCC7XAaHu" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1OkONSpxXQknb17TN6uy94mkWfoDcTcOf" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1xb72asI9DZfCxZCvEKpPmjmv0n2WZagH" }
+    ]
+  },
+  "ch4": {
+    "title": "Stoichiometry",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=161gN28GgITy3t8XANuL6iuKJoYf6e11h" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=18MoVej17wz00BQn_tUXIKE66IuICKK37" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=14pp203MXkaJnCl8VAP73G_-PBCn6KQud" }
+    ]
+  },
+  "ch5": {
+    "title": "Energetics",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1e0mSo06Nxc7qJx8CgECXH_9d56fFWW9E" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1IgoEuhXkfvpFdlUeLkuo-ML1WvQLSexH" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1Jxyw_gwETC3EujkixGoH3e6fBzcVU87I" }
+    ]
+  },
+  "ch6": {
+    "title": "Equilibria",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=12OPg7UwX-1waDhoL85LMVIY9xr87rodW" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1o5aWLEQFfE-F4zPZu0vaLpbowFc3IBhk" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1wrkEfi6kLC-Ai83cEiiF9pjH8Uh1dvsq" }
+    ]
+  },
+  "ch7": {
+    "title": "Acid Base Chemistry",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1iFuc7-2ufYWJLdkylT5fg0pTY2P-Z1p6" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=11b2bcwxRZWxZS4TeQWCXRMKTNwvlo1Hy" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1SsD6RxwXx4SXvKL6v1Eic8zFtHj9ATyV" }
+    ]
+  },
+  "ch8": {
+    "title": "Periodic Table & Periodicity",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1mUGhJttX4Y6u6DFzJhsy4eG9yO2Tvvck" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1RnnijZ4WqY8VCCCSDaxqpmeoJuKCeNYL" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1GPqwmEQVEz-Imln7A9r37Go_qSAtxmPq" }
+    ]
+  },
+  "ch9": {
+    "title": "Group Properties & Elements",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1eeO7ueqc8rBJpN5OQtiulDuPm0YWM3dE" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1on5hC6qCcB-u1hcLDjbc9hIcstrjaGyc" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1KE08MSI16onL4ZsivljZMTA6viFx3vGs" }
+    ]
+  },
+  "ch10": {
+    "title": "Environmental Chemistry",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1wvdtSDUkt1La9UvB-aVgRKsxk2YPiesH" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1r0d-31aQZttsftskWuadUOy9L8dvy-bV" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1HQJQifhuCG3fukgOwO4k5jZezPnI81h4" }
+    ]
+  },
+  "ch11": {
+    "title": "Hydrocarbons",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1vA-sDxi4vaONO8eBMZXILJEjTt46QSR1" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=1dnZ9XfwH5Pn7rsQ4Ewh9H6Y-VmgbFHtQ" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1Z7S1GT--P3PxiIlvaQ0dRknaCJRhobMD" }
+    ]
+  },
+  "ch12": {
+    "title": "Empirical Data Collection and Analysis",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1ZHhClNrpy4kfr7t7fSy-VDfwQbJRcbvG" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=14t519P824Xn0q4iDov-ODR1vVSL7grnm" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=13Mki5WafES5JOubnFZ_WhlEo7yX6HJ95" }
+    ]
+  },
+  "ch13": {
+    "title": "Laboratory and Practical Skills",
+    "files": [
+      { "label": "Long Questions", "url": "https://drive.google.com/uc?export=download&id=1T057cCvn5euvp7LEjE2nyZ-3wkIol5iz" },
+      { "label": "MCQ's", "url": "https://drive.google.com/uc?export=download&id=19WRxn5i0LQ_9HAKrec9iYW5rfUixJNrG" },
+      { "label": "Short Questions", "url": "https://drive.google.com/uc?export=download&id=1LRgBT1K7cQmb6ZuLjeX1Z3Ci5UGBVkhL" }
+    ]
+  }
+}

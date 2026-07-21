@@ -9,6 +9,14 @@ import chemistryData from '../../../data/chemistry.json';
 import urduData from '../../../data/urdu.json';
 import computerData from '../../../data/computer.json';
 import freeilmPhysics from '../../../data/freeilm-physics.json';
+import freeilmChemistry from '../../../data/freeilm-chemistry.json';
+import freeilmMath from '../../../data/freeilm-math.json';
+
+const freeilmMap = {
+  physics: freeilmPhysics,
+  chemistry: freeilmChemistry,
+  math: freeilmMath,
+};
 
 export async function getStaticPaths() {
   const dataMap = {
@@ -42,6 +50,7 @@ function extractTopics(videos) {
 }
 
 const { subject, chapter, dataKind } = Astro.props;
+const freeilmData = freeilmMap[subject.id];
 const isExercises = dataKind === 'exercises';
 const num = chapter.number || chapter.chapterNumber || '';
 const chTitle = chapter.title || '';
@@ -115,7 +124,7 @@ const breadcrumbs = [
       ))}
     </div>
   )}
-  {subject.id === 'physics' && freeilmPhysics[chapter.id] && (
+  {freeilmData && freeilmData[chapter.id] && (
       <div class="mt-10 p-5 rounded-xl border" style="border-color: var(--card-border); background: var(--card-bg);">
       <div class="flex items-center gap-3 mb-4">
         <svg class="w-6 h-6 shrink-0" style="color: #34a853;" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/></svg>
@@ -123,7 +132,7 @@ const breadcrumbs = [
       </div>
       <p class="text-sm mb-4" style="color: #9e9eb8;">PDF notes by Freeilm.com for {subject.title} Class 9 Chapter {chapter.number} – {chapter.title}. Includes MCQs, short questions, long questions, and numerical problems.</p>
       <div class="flex flex-col gap-2">
-        {freeilmPhysics[chapter.id].files.map((f, i) => (
+        {freeilmData[chapter.id].files.map((f, i) => (
           <a
             href={f.url}
             target="_blank"
