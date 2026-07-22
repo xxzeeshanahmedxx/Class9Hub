@@ -1,4 +1,4 @@
-const CACHE = '9lectures-v4';
+const CACHE = '9lectures-v5';
 const STATIC = [
   '/',
   '/manifest.json',
