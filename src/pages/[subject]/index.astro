@@ -1,19 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ChapterRow from '../../components/ChapterRow.astro';
-import subjects from '../../data/subjects.json';
-import mathData from '../../data/math.json';
-import physicsData from '../../data/physics.json';
-import chemistryData from '../../data/chemistry.json';
-import urduData from '../../data/urdu.json';
-import computerData from '../../data/computer.json';
-import biologyData from '../../data/biology.json';
-import englishData from '../../data/english.json';
-
-const dataMap = {
-  math: mathData, physics: physicsData, chemistry: chemistryData,
-  urdu: urduData, computer: computerData, biology: biologyData, english: englishData,
-};
+import { subjects, getData } from '../../lib/data';
+import { SITE_URL } from '../../lib/constants';
 
 export async function getStaticPaths() {
   return subjects.map((s) => ({
@@ -23,11 +12,11 @@ export async function getStaticPaths() {
 }
 
 const { subject } = Astro.props;
-const data = dataMap[subject.id];
+const data = getData(subject.id);
 const chapters = data.chapters || [];
 const isExercises = data.kind === 'exercises';
 const chNames = chapters.map((ch, i) => ch.title || `Chapter ${ch.number || i + 1}`);
-const siteUrl = 'https://class9hub.com';
+const siteUrl = SITE_URL;
 const pageUrl = siteUrl + '/' + subject.id + '/';
 
 const subjectDesc = `Free ${subject.id} class 9 lectures for Punjab Board 2026 new book. Watch all ${chapters.length} chapters including ${chNames.slice(0, 3).join(', ')}${chNames.length > 3 ? ' and more' : ''}. Full video course online.`;
@@ -53,35 +42,32 @@ const visibleLine = subjLines[subject.id] || `Free ${subject.title} class 9 lect
   title={`${subject.title} Class 9 – Full Course | Free Lectures Punjab Board`}
   subtitle="Select a chapter"
   desc={subjectDesc}
-  colors={subject}
+  accent={subject.accent}
   backUrl="/"
   canonical={pageUrl}
   breadcrumbs={breadcrumbs}
-  currentSubject={subject.id}
 >
-  <p class="mb-5 text-[14px] leading-relaxed" style="color: var(--text-secondary);">{visibleLine}</p>
+  <p class="mb-5 font-body text-[14px] leading-relaxed" style="color: var(--text-secondary);">{visibleLine}</p>
   <div class="flex flex-col gap-3">
     {chapters.map((ch, i) => {
       const num = ch.number || ch.chapterNumber || i + 1;
       const chTitle = ch.title || 'Chapter ' + num;
-      const row = isExercises ? (
-        <ChapterRow
-          number={num}
-          title={chTitle}
-          count={(ch.sections || []).length}
-          countLabel="sections"
-          href={`/${subject.id}/${ch.id}/`}
-        />
-      ) : (
-        <ChapterRow
-          number={num}
-          title={chTitle}
-          count={ch.videos ? ch.videos.length : 0}
-          countLabel="videos"
-          href={`/${subject.id}/${ch.id}/`}
-        />
+      const count = isExercises
+        ? (ch.sections || []).length
+        : (ch.videos ? ch.videos.length : 0);
+      const label = isExercises ? 'sections' : 'videos';
+      return (
+        <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>
+          <ChapterRow
+            number={num}
+            title={chTitle}
+            count={count}
+            label={label}
+            href={`/${subject.id}/${ch.id}/`}
+            accent={subject.accent}
+          />
+        </div>
       );
-      return <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>{row}</div>;
     })}
   </div>
 </Layout>
