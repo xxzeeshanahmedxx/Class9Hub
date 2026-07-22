@@ -1,0 +1,51 @@
+---
+export interface Props {
+  show?: boolean;
+}
+const { show } = Astro.props;
+---
+
+{show && (
+<div id="pwa-banner" class="fixed bottom-0 left-0 right-0 z-30 translate-y-full transition-transform duration-300" style="background: var(--surface); border-top: 1px solid var(--border);">
+  <div class="flex items-center gap-3 px-4 py-3 max-w-4xl mx-auto" style="padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));">
+    <div class="w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0" style="background: linear-gradient(135deg, var(--accent, #8cb4ff), var(--accent2, #a78bfa)); color: white; font-family: var(--font-display); font-weight: 800; font-size: 13px;">9</div>
+    <div class="min-w-0 flex-1">
+      <div class="font-body text-[13px] font-medium" style="color: var(--text-primary);" data-lang="installApp">Install App</div>
+      <div class="font-body text-[11px]" style="color: var(--text-secondary);" data-lang="installDesc">Open lectures faster from your home screen</div>
+    </div>
+    <button id="pwa-install" class="touch-min px-4 h-8 rounded-lg font-body text-[12px] font-medium flex-shrink-0" style="background: linear-gradient(135deg, var(--accent, #8cb4ff), var(--accent2, #a78bfa)); color: white;" data-lang="install">Install</button>
+    <button id="pwa-dismiss" class="touch-min w-7 h-7 flex items-center justify-center flex-shrink-0 active:opacity-50" style="color: var(--text-muted);" aria-label="Dismiss">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg>
+    </button>
+  </div>
+</div>
+)}
+
+<script is:inline>
+(function() {
+  var banner = document.getElementById('pwa-banner');
+  if (!banner) return;
+  if (window.matchMedia('(display-mode: standalone)').matches) return;
+  if (localStorage.getItem('c9-pwa-dismissed')) return;
+
+  var deferredPrompt;
+  window.addEventListener('beforeinstallprompt', function(e) {
+    e.preventDefault();
+    deferredPrompt = e;
+    banner.classList.remove('translate-y-full');
+  });
+
+  document.getElementById('pwa-install')?.addEventListener('click', async function() {
+    if (!deferredPrompt) return;
+    deferredPrompt.prompt();
+    var result = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    if (result.outcome === 'accepted') banner.classList.add('translate-y-full');
+  });
+
+  document.getElementById('pwa-dismiss')?.addEventListener('click', function() {
+    localStorage.setItem('c9-pwa-dismissed', '1');
+    banner.classList.add('translate-y-full');
+  });
+})();
+</script>

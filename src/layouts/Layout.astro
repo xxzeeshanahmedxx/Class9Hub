@@ -1,17 +1,18 @@
 ---
 import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
-import ThemeStyles from '../components/ThemeStyles.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PWAInstall from '../components/PWAInstall.astro';
+import BottomNav from '../components/BottomNav.astro';
 import i18n from '../data/i18n.json';
+import { SITE_URL, SITE_NAME, DEFAULT_DESC, OG_IMAGE } from '../lib/constants';
 
 export interface Props {
   title: string;
   subtitle?: string;
   desc?: string;
-  colors?: {
-    accent: string; accent2: string; bg: string; bg2: string; bg3: string;
-    card: string; card2: string; line: string; soft: string;
-  } | null;
+  accent?: string;
   backUrl?: string;
   canonical?: string;
   showPWA?: boolean;
@@ -19,26 +20,25 @@ export interface Props {
   breadcrumbs?: { name: string; url: string }[];
 }
 
-const { title, subtitle, colors, backUrl, canonical, showPWA, noHeader, breadcrumbs, currentSubject } = Astro.props;
-const accentColor = colors?.accent || '#8cb4ff';
-const siteName = 'Class 9 · Punjab Curriculum';
-const siteUrl = 'https://class9hub.com';
-const defaultDesc = 'Free study lectures for 9th grade Punjab board students — Mathematics, Physics, Chemistry, Computer, Urdu, Biology, English.';
-const desc = Astro.props.desc || defaultDesc;
-const ogImage = siteUrl + '/apple-touch-icon.png';
+const { title, subtitle, accent, backUrl, canonical, showPWA, noHeader, breadcrumbs } = Astro.props;
+const pageTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`;
+const pageDesc = Astro.props.desc || DEFAULT_DESC;
+const siteUrl = SITE_URL;
+const ogImage = OG_IMAGE;
+const themeColor = accent || '#07070d';
 ---
 
 <!doctype html>
-<html lang="en" class="scroll-smooth">
+<html lang="en" class="scroll-smooth dark">
   <head>
     <meta charset="utf-8" />
     <meta name="google-site-verification" content="9wMIiVm55vRQLteCGqw9691RYnVIVzSzlrZRvj8tupQ" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <ClientRouter />
-    <title>{title === siteName ? title : `${title} · ${siteName}`}</title>
-    <meta name="description" content={desc} />
-    <meta name="theme-color" content="#f8f9fc" />
-    <meta name="application-name" content={siteName} />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDesc} />
+    <meta name="theme-color" content={themeColor} />
+    <meta name="application-name" content={SITE_NAME} />
     <link rel="manifest" href="/manifest.json" />
     <link rel="canonical" href={canonical || Astro.url.href} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -47,26 +47,26 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content={siteName} />
-    <meta property="og:title" content={title === siteName ? title : `${title} · ${siteName}`} />
-    <meta property="og:description" content={desc} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDesc} />
     <meta property="og:url" content={canonical || Astro.url.href} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:locale" content="en_US" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title === siteName ? title : `${title} · ${siteName}`} />
-    <meta name="twitter:description" content={desc} />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDesc} />
     <meta name="twitter:image" content={ogImage} />
 
     <!-- Structured Data -->
     <script type="application/ld+json" set:html={JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": siteName,
+      "name": SITE_NAME,
       "url": siteUrl,
-      "description": desc,
+      "description": pageDesc,
       "potentialAction": {
         "@type": "SearchAction",
         "target": { "@type": "EntryPoint", "urlTemplate": siteUrl + "/search/?q={search_term_string}" },
@@ -87,146 +87,25 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
     })}></script>
     )}
 
-    <ThemeStyles colors={colors} />
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
           navigator.serviceWorker.register('/sw.js');
         });
       }
-
-      // PWA install prompt
-      let deferredPrompt = null;
-      const banner = document.getElementById('pwa-banner');
-      const installBtn = document.getElementById('pwa-install');
-      const dismissBtn = document.getElementById('pwa-dismiss');
-
-      // Hide banner initially
-      if (banner) banner.style.display = 'none';
-
-      window.addEventListener('beforeinstallprompt', (e) => {
-        e.preventDefault();
-        deferredPrompt = e;
-        if (banner && !localStorage.getItem('pwa-dismissed')) {
-          banner.style.display = 'block';
-          requestAnimationFrame(() => banner.classList.remove('translate-y-full'));
-        }
-      });
-
-      if (installBtn) {
-        installBtn.addEventListener('click', async () => {
-          if (!deferredPrompt) return;
-          deferredPrompt.prompt();
-          const result = await deferredPrompt.userChoice;
-          deferredPrompt = null;
-          if (banner) {
-            banner.classList.add('translate-y-full');
-            setTimeout(() => { banner.style.display = 'none'; }, 300);
-          }
-        });
-      }
-
-      if (dismissBtn) {
-        dismissBtn.addEventListener('click', () => {
-          if (banner) {
-            banner.classList.add('translate-y-full');
-            setTimeout(() => { banner.style.display = 'none'; }, 300);
-          }
-          localStorage.setItem('pwa-dismissed', '1');
-        });
-      }
-
-      // Check if already installed (display-mode: standalone)
-      if (window.matchMedia('(display-mode: standalone)').matches) {
-        if (banner) banner.style.display = 'none';
-      }
     </script>
   </head>
-  <body class="min-h-screen flex flex-col" style="background: var(--page);">
-    {!noHeader && (
-    <header class="sticky top-0 z-40 animate-fade-in" style="background: var(--header-bg); border-bottom: 1px solid var(--card-border); backdrop-filter: blur(var(--blur-md));">
-      <div class="flex items-center gap-3 px-4 h-[70px] sm:h-20 max-w-4xl mx-auto">
-        {backUrl ? (
-          <a href={backUrl} class="flex items-center justify-center w-10 h-10 -ml-1 rounded-xl active:opacity-50 flex-shrink-0" style="color: var(--color-muted);" aria-label="Back">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
-          </a>
-        ) : (
-          <div class="flex items-center gap-1.5 flex-shrink-0">
-            <span class="text-[24px] sm:text-[26px] font-bold leading-none gradient-brand" style="-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">9</span>
-          </div>
-        )}
-        <div class="min-w-0 flex-1">
-          <h1 class="text-[18px] sm:text-[20px] font-semibold truncate leading-tight" style="color: var(--color-title);">{title}</h1>
-          {subtitle && <p class="text-[13px] sm:text-[14px] leading-tight truncate" style="color: var(--color-secondary);" data-lang="selectChapter">{subtitle}</p>}
-        </div>
-        <a href="/search/" class="flex items-center justify-center w-10 h-10 rounded-xl active:opacity-50 flex-shrink-0" style="color: var(--color-muted);" aria-label="Search lectures">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-        </a>
-        <button id="lang-toggle" class="flex items-center justify-center w-10 h-10 rounded-xl active:opacity-50 flex-shrink-0 text-[12px] font-bold" style="color: var(--color-muted);" aria-label="Toggle language">EN</button>
-      </div>
-    </header>
-    )}
+  <body class="min-h-screen flex flex-col">
+    {!noHeader && <Header title={title} subtitle={subtitle} backUrl={backUrl} accent={accent} />}
     <main class="flex-1 max-w-4xl mx-auto w-full px-3 sm:px-4 py-4 sm:py-6 animate-fade-in-up">
       <slot />
     </main>
-    <div class="max-w-4xl mx-auto px-3 sm:px-4 mb-2">
-      <div class="border-t pt-4 pb-2 text-center" style="border-color: var(--hairline);">
-        {currentSubject === 'physics' ? (
-          <p class="text-[13px] leading-relaxed" style="color: var(--text-secondary);">
-            📘 Also explore <a href="/math/" class="font-medium underline underline-offset-2 hover:opacity-80" style="color: var(--accent);">Math Class 9</a> – free Punjab Board video lectures →
-          </p>
-        ) : (
-          <p class="text-[13px] leading-relaxed" style="color: var(--text-secondary);">
-            📘 Also explore <a href="/physics/" class="font-medium underline underline-offset-2 hover:opacity-80" style="color: var(--accent);">Physics Class 9</a> – free Punjab Board video lectures →
-          </p>
-        )}
-      </div>
-    </div>
-    {showPWA && (
-    <div id="pwa-banner" class="fixed bottom-0 left-0 right-0 z-30 translate-y-full transition-transform duration-300" style="background: var(--surface); border-top: 1px solid var(--hairline);">
-      <div class="flex items-center gap-3 px-4 py-3 max-w-4xl mx-auto">
-        <div class="w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0 gradient-brand text-white text-[13px] font-bold">9</div>
-        <div class="min-w-0 flex-1">
-          <div class="text-[13px] font-medium" style="color: var(--text);" data-lang="installApp">Install App</div>
-          <div class="text-[11px]" style="color: var(--text-secondary);" data-lang="installDesc">Open lectures faster from your home screen</div>
-        </div>
-        <button id="pwa-install" class="px-4 h-8 rounded-lg text-[12px] font-medium flex-shrink-0 gradient-brand text-white active:scale-95" data-lang="install">Install</button>
-        <button id="pwa-dismiss" class="w-7 h-7 flex items-center justify-center flex-shrink-0 active:opacity-50" style="color: var(--text-muted);" aria-label="Dismiss">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg>
-        </button>
-      </div>
-    </div>
-    )}
-    <script is:inline>
-      (function() {
-        const banner = document.getElementById('pwa-banner');
-        if (!banner) return;
-        const installBtn = document.getElementById('pwa-install');
-        const dismissBtn = document.getElementById('pwa-dismiss');
-        if (window.matchMedia('(display-mode: standalone)').matches) return;
-        if (localStorage.getItem('pwa-dismissed')) return;
+    <Footer showPWA={showPWA} />
+    <PWAInstall show={showPWA} />
+    <BottomNav />
 
-        let deferredPrompt;
-        window.addEventListener('beforeinstallprompt', (e) => {
-          e.preventDefault();
-          deferredPrompt = e;
-          banner.classList.remove('translate-y-full');
-        });
+    <script type="application/json" id="i18n-data">{JSON.stringify(i18n)}</script>
 
-        installBtn.addEventListener('click', async () => {
-          if (!deferredPrompt) return;
-          deferredPrompt.prompt();
-          const result = await deferredPrompt.userChoice;
-          deferredPrompt = null;
-          if (result.outcome === 'accepted') banner.classList.add('translate-y-full');
-        });
-
-        dismissBtn.addEventListener('click', () => {
-          localStorage.setItem('pwa-dismissed', '1');
-          banner.classList.add('translate-y-full');
-        });
-      })();
-    </script>
     <script is:inline>
       (function() {
         var KEY = 'class9-lang';
@@ -261,27 +140,34 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
         });
       })();
     </script>
-    <script type="application/json" id="i18n-data">{JSON.stringify(i18n)}</script>
+
     <style is:global>
       html.urdu { direction: rtl; }
       html.urdu .gradient-brand { background: linear-gradient(135deg, #a78bfa, #8cb4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
     </style>
 
-    <footer class={`text-center text-[11px] leading-relaxed py-4 px-4 space-y-0.5${showPWA ? ' pb-20' : ''}`} style="color: var(--text-secondary);">
-      <p data-lang="footer">Lectures belong to their respective teachers.</p>
-      <p><span data-lang="footerMade">Made by Zeeshan Ahmed</span> · <a href="https://class9hub.com" class="underline underline-offset-2 hover:opacity-80" style="color: var(--text-secondary);">Class 9 Hub</a></p>
-    </footer>
     <script>
       import PlayerOverlay from '../components/PlayerOverlay.js';
+      import { markViewed } from '../lib/progress.js';
 
       document.addEventListener('click', (e) => {
         const btn = e.target.closest('.video-trigger');
         if (btn) {
           const videoId = btn.dataset.videoId;
+          const title = btn.getAttribute('aria-label')?.replace('Play ', '') || '';
+          const subject = btn.dataset.subject || '';
+          const chapter = btn.dataset.chapter || '';
+          const chapterId = btn.dataset.chapterId || '';
           if (videoId) {
             e.preventDefault();
             const player = new PlayerOverlay();
-            player.open(videoId);
+            player.open(videoId, {
+              subject, chapter, title,
+              accent: btn.dataset.accent || '#8cb4ff',
+            });
+            if (subject && chapterId) {
+              markViewed(subject, chapterId, videoId, title);
+            }
           }
         }
       });
