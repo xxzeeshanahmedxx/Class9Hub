@@ -24,16 +24,17 @@ const lucideSvgs: Record<string, string> = {
   style="--accent: {accent}; background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);"
 >
   <div
-    class="absolute inset-0 flex flex-col items-center justify-center subject-icon"
-    style={`background: linear-gradient(145deg, ${accent}25 0%, ${accent}08 60%, var(--card-bg) 100%);`}
-    set:html={lucideSvgs[id] || ''}
+    class="absolute inset-0"
+    style={`background: linear-gradient(145deg, ${accent}40 0%, ${accent}15 60%, var(--card-bg) 100%);`}
   />
+  <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent pointer-events-none" />
 
-  <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent pointer-events-none" />
-
-  <span class="absolute bottom-0 left-0 p-3 sm:p-4 font-display text-[14px] sm:text-[15px] font-bold leading-tight text-white">
-    {title}
-  </span>
+  <div class="relative flex flex-col items-center justify-center h-full -translate-y-2 p-3">
+    <div class="subject-icon" set:html={lucideSvgs[id] || ''} />
+    <span class="mt-4 font-display text-[14px] sm:text-[15px] font-bold leading-tight text-white text-center">
+      {title}
+    </span>
+  </div>
 
   <div
     class="absolute inset-0 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
@@ -42,10 +43,14 @@ const lucideSvgs: Record<string, string> = {
 </a>
 
 <style is:global>
+  .subject-icon svg {
+    width: 48px;
+    height: 48px;
+  }
   @media (hover: hover) {
     .subject-card:hover {
       scale: 1.03;
-      box-shadow: 0 0 20px color-mix(in srgb, var(--accent, #8cb4ff) 25%, transparent), 0 0 40px color-mix(in srgb, var(--accent, #8cb4ff) 10%, transparent) !important;
+      box-shadow: 0 0 20px color-mix(in srgb, var(--accent, #8cb4ff) 35%, transparent), 0 0 40px color-mix(in srgb, var(--accent, #8cb4ff) 18%, transparent) !important;
     }
     .subject-card:hover .subject-icon svg {
       transform: rotate(-6deg) scale(1.12);
