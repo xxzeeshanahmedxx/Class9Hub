@@ -108,7 +108,7 @@ const initialResults = q
                 <div class="min-w-0 flex-1">
                   <div class="font-body text-[14px] font-medium leading-snug truncate" style="color: var(--text-primary);">{v.title}{v.subtitle ? ` — ${v.subtitle}` : ''}</div>
                   <div class="font-body text-[12px] mt-0.5" style="color: var(--text-muted);">
-                    <span class="font-medium" style="color: {subjects.find(s => s.id === v.subject)?.accent || 'var(--text-secondary)'};">{v.subjectTitle}</span>
+                    <span class="font-medium" style={`color: ${subjects.find(s => s.id === v.subject)?.accent || 'var(--text-secondary)'};`}>{v.subjectTitle}</span>
                     <span class="mx-1">·</span>
                     {v.chapterTitle}
                   </div>

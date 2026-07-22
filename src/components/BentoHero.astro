@@ -66,7 +66,7 @@ const totalSubjects = subjects.length;
       <a
         href={`/${s.id}/`}
         class="inline-flex items-center px-3 py-1.5 rounded-lg text-[13px] font-medium transition-all active:scale-95"
-        style="background: {s.accent}15; color: {s.accent};"
+        style={`background: ${s.accent}15; color: ${s.accent};`}
         aria-label={`${s.title} – class 9 full course`}
       >
         {s.title}

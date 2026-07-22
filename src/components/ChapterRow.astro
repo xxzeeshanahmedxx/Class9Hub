@@ -19,7 +19,7 @@ const { number, title, count, label, href, accent = '#8cb4ff' } = Astro.props;
 >
   <span
     class="flex items-center justify-center w-8 h-8 rounded font-mono text-sm flex-shrink-0"
-    style="background: {accent}20; color: {accent};"
+    style={`background: ${accent}20; color: ${accent};`}
   >
     {number}
   </span>
