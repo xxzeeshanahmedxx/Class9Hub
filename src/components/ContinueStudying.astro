@@ -1,0 +1,41 @@
+---
+import subjects from '../data/subjects.json';
+
+const accentMap = {};
+for (const s of subjects) {
+  accentMap[s.id] = { title: s.title, accent: s.accent };
+}
+---
+
+<section class="continue-studying animate-fade-in-up" data-accents={JSON.stringify(accentMap)}>
+  <h2 class="text-[17px] sm:text-[19px] font-bold mb-3" style="color: var(--color-title);" data-lang="continueStudying">Continue Studying</h2>
+  <div class="flex gap-3 overflow-x-auto no-scrollbar pb-2" id="continue-scroll"></div>
+</section>
+
+<script>
+import { getRecent } from '../lib/progress.js';
+
+const section = document.querySelector('.continue-studying');
+const scroll = document.getElementById('continue-scroll');
+const accentMap = JSON.parse(section.dataset.accents);
+const recent = getRecent();
+
+if (recent.length === 0) {
+  section.style.display = 'none';
+} else {
+  const fragment = document.createDocumentFragment();
+  for (const item of recent) {
+    const info = accentMap[item.subject];
+    if (!info) continue;
+    const card = document.createElement('a');
+    card.href = `/${item.subject}/${item.chapterId}/`;
+    card.className =
+      'flex-shrink-0 rounded-xl border overflow-hidden active:scale-[0.97] touch-min transition-transform';
+    card.style.cssText =
+      'width:176px;background:var(--card-bg);border-color:var(--card-border)';
+    card.innerHTML = `<div class="p-3 flex flex-col gap-1.5"><span class="font-mono text-[11px] font-medium" style="color:${info.accent}">${info.title}</span><span class="font-body text-[13px] leading-snug line-clamp-2" style="color:var(--color-title)">${item.title}</span></div>`;
+    fragment.appendChild(card);
+  }
+  scroll.appendChild(fragment);
+}
+</script>
