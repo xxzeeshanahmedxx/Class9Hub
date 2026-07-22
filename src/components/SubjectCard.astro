@@ -15,17 +15,14 @@ const { id, title, emoji, accent } = Astro.props;
   aria-label={title}
   style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);"
 >
-  <img
-    src={`/assets/${id}.webp`}
-    alt={title}
-    class="absolute inset-0 w-full h-full object-cover"
-    loading="lazy"
-    decoding="async"
-    onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
-  />
-  <span class="absolute inset-0 items-center justify-center text-[32px]" style="display:none;">{emoji}</span>
+  <div
+    class="absolute inset-0 flex flex-col items-center justify-center"
+    style={`background: linear-gradient(145deg, ${accent}25 0%, ${accent}08 60%, var(--card-bg) 100%);`}
+  >
+    <span class="text-[52px] sm:text-[64px] leading-none mb-1">{emoji}</span>
+  </div>
 
-  <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent pointer-events-none" />
+  <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent pointer-events-none" />
 
   <span class="absolute bottom-0 left-0 p-3 sm:p-4 font-display text-[14px] sm:text-[15px] font-bold leading-tight text-white">
     {title}
