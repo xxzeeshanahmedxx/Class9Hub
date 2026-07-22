@@ -22,8 +22,8 @@ const { number, title, count, countLabel, href, colors } = Astro.props;
     {number}
   </span>
   <div class="min-w-0 flex-1">
-    <div class="text-[16px] sm:text-[17px] font-medium truncate" style="color: #e8e8f0;">{title}</div>
-    <span class="text-[14px]" style="color: #9e9eb8;">{count} <span data-lang={countLabel}>{countLabel}</span></span>
+    <div class="text-[16px] sm:text-[17px] font-medium truncate" style="color: var(--color-title);">{title}</div>
+    <span class="text-[14px]" style="color: var(--color-secondary);">{count} <span data-lang={countLabel}>{countLabel}</span></span>
   </div>
-  <span class="text-base" style="color: #6b6b85;">&rarr;</span>
+  <span class="text-base" style="color: var(--color-muted);">&rarr;</span>
 </a>

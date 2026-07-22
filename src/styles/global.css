@@ -23,6 +23,10 @@
   --accent2: #a78bfa;
   --brand-from: var(--accent);
   --brand-to: var(--accent2);
+  --color-title: #e8e8f0;
+  --color-secondary: #9e9eb8;
+  --color-muted: #6b6b85;
+  --header-bg: #0d0d14;
 }
 
 * {

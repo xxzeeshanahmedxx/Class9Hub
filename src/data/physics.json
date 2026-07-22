@@ -1,1289 +1,937 @@
-﻿{
-    "id":  "physics",
-    "title":  "Physics",
-    "kind":  "chapters",
-    "chapters":  [
-                     {
-                         "id":  "ch1",
-                         "number":  1,
-                         "title":  "Physical Quantities \u0026 Measurement",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "yxdVSgRjCjI",
-                                            "title":  "Complete Introduction",
-                                            "subtitle":  "New Book Introduction",
-                                            "duration":  "14:36",
-                                            "url":  "https://www.youtube.com/watch?v=yxdVSgRjCjI\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics New Book 2025 | Complete Introduction | 9th Class Physics New Book Introduction"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "p2GS0jGMXM8",
-                                            "title":  "Physical \u0026 Non Physical Quantities",
-                                            "subtitle":  "Base \u0026 Derived Physical Quantities",
-                                            "duration":  "14:03",
-                                            "url":  "https://www.youtube.com/watch?v=p2GS0jGMXM8\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics Chapter 1 Physical \u0026 Non Physical Quantities | Based \u0026 Drived Physical Quantities"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "-RZzE6rhw9g",
-                                            "title":  "International System of Unit",
-                                            "subtitle":  "",
-                                            "duration":  "13:25",
-                                            "url":  "https://www.youtube.com/watch?v=-RZzE6rhw9g\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Physics Chapter 1 | International System of Unit | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "_kVoxnrCrK4",
-                                            "title":  "Scientific Notation",
-                                            "subtitle":  "",
-                                            "duration":  "14:04",
-                                            "url":  "https://www.youtube.com/watch?v=_kVoxnrCrK4\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 |  Scientific Notation | 9th Class New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "1fOQfc7_MFY",
-                                            "title":  "Length Measuring Instrument",
-                                            "subtitle":  "",
-                                            "duration":  "13:04",
-                                            "url":  "https://www.youtube.com/watch?v=1fOQfc7_MFY\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 |  Length Measuring Instrument | 9th Class New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "LiOMBapYnI4",
-                                            "title":  "Vernier Callipers",
-                                            "subtitle":  "",
-                                            "duration":  "15:14",
-                                            "url":  "https://www.youtube.com/watch?v=LiOMBapYnI4\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Vernier Callipers | 9th Class New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "vJTXoFZ1QBI",
-                                            "title":  "Micrometer Screw Gauge",
-                                            "subtitle":  "",
-                                            "duration":  "14:18",
-                                            "url":  "https://www.youtube.com/watch?v=vJTXoFZ1QBI\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Physics  Micrometer Screw Gauge | 9th Class New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "DIDsVcE7ueA",
-                                            "title":  "Mass Measuring Instruments Physical Balance",
-                                            "subtitle":  "",
-                                            "duration":  "9:22",
-                                            "url":  "https://www.youtube.com/watch?v=DIDsVcE7ueA\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Mass Measuring Instruments Physical Balance | New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "5Y5XF4YIN8Y",
-                                            "title":  "Time Measuring Instrument (Stop Watch)",
-                                            "subtitle":  "",
-                                            "duration":  "9:47",
-                                            "url":  "https://www.youtube.com/watch?v=5Y5XF4YIN8Y\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Time Measuring Instrument (Stop Watch)| New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "Xq0wpTD3EPc",
-                                            "title":  "Volume Measuring Instrument - Measuring Cylinder",
-                                            "subtitle":  "",
-                                            "duration":  "11:17",
-                                            "url":  "https://www.youtube.com/watch?v=Xq0wpTD3EPc\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Volume Measuring Instrument - Measuring Cylinder | New Book 2025"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "aonG-owdFbc",
-                                            "title":  "Errors in Measurements",
-                                            "subtitle":  "",
-                                            "duration":  "19:14",
-                                            "url":  "https://www.youtube.com/watch?v=aonG-owdFbc\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Errors in Measurements | New Book 2025"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "WJT2h63oqUM",
-                                            "title":  "Uncertainty in a Measurement",
-                                            "subtitle":  "",
-                                            "duration":  "8:11",
-                                            "url":  "https://www.youtube.com/watch?v=WJT2h63oqUM\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Uncertainity in a Measurement | New Book 2025"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "adpQf7hKtAc",
-                                            "title":  "Significant Figures",
-                                            "subtitle":  "",
-                                            "duration":  "11:07",
-                                            "url":  "https://www.youtube.com/watch?v=adpQf7hKtAc\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Significant Figures | New Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "GxaTyuBUoM8",
-                                            "title":  "Precision \u0026 Accuracy",
-                                            "subtitle":  "",
-                                            "duration":  "11:31",
-                                            "url":  "https://www.youtube.com/watch?v=GxaTyuBUoM8\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Precision \u0026 Accuracy | New Book 2025"
-                                        },
-                                        {
-                                            "order":  15,
-                                            "playlistIndex":  15,
-                                            "videoId":  "I3sXwUVScOA",
-                                            "title":  "Rounding of the Digits",
-                                            "subtitle":  "",
-                                            "duration":  "8:25",
-                                            "url":  "https://www.youtube.com/watch?v=I3sXwUVScOA\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Rounding of the Digits| New Book 2025"
-                                        },
-                                        {
-                                            "order":  16,
-                                            "playlistIndex":  16,
-                                            "videoId":  "N8jLICitqUo",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "8:02",
-                                            "url":  "https://www.youtube.com/watch?v=N8jLICitqUo\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics Chapter 1 | Exercise | 9th Physics New Book 2025"
-                                        },
-                                        {
-                                            "order":  17,
-                                            "playlistIndex":  17,
-                                            "videoId":  "4LELxxXlAMk",
-                                            "title":  "Numerical Problems 1.1 To 1.5",
-                                            "subtitle":  "",
-                                            "duration":  "25:50",
-                                            "url":  "https://www.youtube.com/watch?v=4LELxxXlAMk\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Numerical Problems 1.1 To 1.5 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  18,
-                                            "playlistIndex":  18,
-                                            "videoId":  "A5oWFTbMFO8",
-                                            "title":  "Numerical Problems 1.5 To 1.10",
-                                            "subtitle":  "",
-                                            "duration":  "23:15",
-                                            "url":  "https://www.youtube.com/watch?v=A5oWFTbMFO8\u0026list=PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I",
-                                            "originalTitle":  "9th Class Physics | Chapter 1 | Numerical Problems 1.5 To 1.10 | New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  18
-                     },
-                     {
-                         "id":  "ch2",
-                         "number":  2,
-                         "title":  "Kinematics",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "bqdqY5Awb5I",
-                                            "title":  "Kinematics",
-                                            "subtitle":  "",
-                                            "duration":  "9:48",
-                                            "url":  "https://www.youtube.com/watch?v=bqdqY5Awb5I\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Kinematics | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "m-20Mg_te3A",
-                                            "title":  "Scalars and Vectors",
-                                            "subtitle":  "",
-                                            "duration":  "15:46",
-                                            "url":  "https://www.youtube.com/watch?v=m-20Mg_te3A\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2  | Scalars and Vectors | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "mWtiN88dpyQ",
-                                            "title":  "Representation Of Vectors",
-                                            "subtitle":  "",
-                                            "duration":  "11:39",
-                                            "url":  "https://www.youtube.com/watch?v=mWtiN88dpyQ\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2  | Representation Of Vactors | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "7ZJJBIEomBw",
-                                            "title":  "Resultant Vector",
-                                            "subtitle":  "",
-                                            "duration":  "13:28",
-                                            "url":  "https://www.youtube.com/watch?v=7ZJJBIEomBw\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2  | Resultant Vactor | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "d7CRcdhgFow",
-                                            "title":  "Rest And Motion",
-                                            "subtitle":  "",
-                                            "duration":  "8:47",
-                                            "url":  "https://www.youtube.com/watch?v=d7CRcdhgFow\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2  | Rest And Motion | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "dzhYOm_zyDg",
-                                            "title":  "Kinematics Types of Motion",
-                                            "subtitle":  "",
-                                            "duration":  "10:49",
-                                            "url":  "https://www.youtube.com/watch?v=dzhYOm_zyDg\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Kinematics Types of Motion | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "K3Q19QAYLCU",
-                                            "title":  "Distance \u0026 Displacement",
-                                            "subtitle":  "",
-                                            "duration":  "11:18",
-                                            "url":  "https://www.youtube.com/watch?v=K3Q19QAYLCU\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Distance \u0026 Displacement | New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "vrmmYleOQSQ",
-                                            "title":  "Kinematics Speed \u0026 Velocity",
-                                            "subtitle":  "",
-                                            "duration":  "16:23",
-                                            "url":  "https://www.youtube.com/watch?v=vrmmYleOQSQ\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Kinematics Speed \u0026 Velocity | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "frymvzzPO4M",
-                                            "title":  "Kinematics Acceleration",
-                                            "subtitle":  "",
-                                            "duration":  "10:04",
-                                            "url":  "https://www.youtube.com/watch?v=frymvzzPO4M\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Kinematics Acceleration | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "7luTprwmJ2Y",
-                                            "title":  "Graphical Analysis of Motion, Gradient of a Distance Time Graph",
-                                            "subtitle":  "",
-                                            "duration":  "18:15",
-                                            "url":  "https://www.youtube.com/watch?v=7luTprwmJ2Y\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Graphical Analisis of Motion, Gradient of a Distance Time Graph"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "stxf_dJBg8s",
-                                            "title":  "Speed Time Graph, Gradient of a Speed Time Graph, Area Under Speed Time Graph",
-                                            "subtitle":  "",
-                                            "duration":  "14:17",
-                                            "url":  "https://www.youtube.com/watch?v=stxf_dJBg8s\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9 Class Physics Ch 2 | Speed Time Graph, Gradient of a Speed Time Graph, Area Under Speed Time Graph"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "ZM0L_yL-bQg",
-                                            "title":  "Solving Problems for Motion Under Gravity, Free Fall Acceleration",
-                                            "subtitle":  "",
-                                            "duration":  "11:16",
-                                            "url":  "https://www.youtube.com/watch?v=ZM0L_yL-bQg\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Solving Problems for Motion Under Gravity, Free Fall Acceleration"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "nRrZ4X1kWt0",
-                                            "title":  "Numerical Problems 2.1 To 2.5",
-                                            "subtitle":  "",
-                                            "duration":  "18:42",
-                                            "url":  "https://www.youtube.com/watch?v=nRrZ4X1kWt0\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Numerical Problems 2.1 To 2.5 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "8oGfhGJpyqc",
-                                            "title":  "Numerical Problems 2.6 To 2.10",
-                                            "subtitle":  "",
-                                            "duration":  "21:39",
-                                            "url":  "https://www.youtube.com/watch?v=8oGfhGJpyqc\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2 | Numerical Problems 2.6 To 2.10 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  15,
-                                            "playlistIndex":  15,
-                                            "videoId":  "fpsV4BNGg9M",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "8:36",
-                                            "url":  "https://www.youtube.com/watch?v=fpsV4BNGg9M\u0026list=PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB",
-                                            "originalTitle":  "9th Class Physics Chapter 2  | Exercise | 9th Class Physics New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  15
-                     },
-                     {
-                         "id":  "ch3",
-                         "number":  3,
-                         "title":  "Dynamics",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "pklBkYpBNc0",
-                                            "title":  "Concept of force \u0026 Types of force",
-                                            "subtitle":  "",
-                                            "duration":  "17:10",
-                                            "url":  "https://www.youtube.com/watch?v=pklBkYpBNc0\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Consept of force \u0026 Types of force | New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "bRxrA7GayTU",
-                                            "title":  "Fundamental forces",
-                                            "subtitle":  "",
-                                            "duration":  "10:41",
-                                            "url":  "https://www.youtube.com/watch?v=bRxrA7GayTU\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Fundamental forces | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "3fN5-bxDxT0",
-                                            "title":  "Forces in a Free Body Diagram",
-                                            "subtitle":  "",
-                                            "duration":  "8:39",
-                                            "url":  "https://www.youtube.com/watch?v=3fN5-bxDxT0\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Forces in a Free  Body Diagram | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "EYIVggUyt38",
-                                            "title":  "Newton\u0027s First Law of Motion",
-                                            "subtitle":  "",
-                                            "duration":  "13:17",
-                                            "url":  "https://www.youtube.com/watch?v=EYIVggUyt38\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Newton\u0027s First Law of Motion | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "-_IKjU0uhwk",
-                                            "title":  "Newton\u0027s Second Law of Motion",
-                                            "subtitle":  "",
-                                            "duration":  "9:45",
-                                            "url":  "https://www.youtube.com/watch?v=-_IKjU0uhwk\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Newton\u0027s Second Law of Motion | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "XnUVJN8ap40",
-                                            "title":  "Newton\u0027s 3rd Law \u0026 Limitation of Newton\u0027s Law of Motion",
-                                            "subtitle":  "",
-                                            "duration":  "15:20",
-                                            "url":  "https://www.youtube.com/watch?v=XnUVJN8ap40\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Newton\u0027s 3rd Law \u0026 Limitation of Newton\u0027s Law of Motion |New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "7vYRqHT9S6s",
-                                            "title":  "Mass and Weight, Gravitational Field",
-                                            "subtitle":  "",
-                                            "duration":  "10:58",
-                                            "url":  "https://www.youtube.com/watch?v=7vYRqHT9S6s\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Mass and Weight , Gravitational Field |New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "7GQ3NhpPlHE",
-                                            "title":  "Mechanical and Electronic Balances",
-                                            "subtitle":  "",
-                                            "duration":  "9:14",
-                                            "url":  "https://www.youtube.com/watch?v=7GQ3NhpPlHE\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Mechanical and Electronic Balances |New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "ilvlnnX3UrQ",
-                                            "title":  "Mechanical and Electronic Balances (Force Meter)",
-                                            "subtitle":  "",
-                                            "duration":  "7:13",
-                                            "url":  "https://www.youtube.com/watch?v=ilvlnnX3UrQ\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Mechanical and Electronic Balances (Force Meter) |New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "9Api-SSTTVo",
-                                            "title":  "Friction (Dissipative Effect, Sliding Friction)",
-                                            "subtitle":  "",
-                                            "duration":  "13:11",
-                                            "url":  "https://www.youtube.com/watch?v=9Api-SSTTVo\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 |  Friction (Dissipative Effect, Sliding Friction) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "Zu1UNtTZJQY",
-                                            "title":  "Friction (Terminal Velocity, Rolling Friction)",
-                                            "subtitle":  "",
-                                            "duration":  "13:54",
-                                            "url":  "https://www.youtube.com/watch?v=Zu1UNtTZJQY\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 |  Friction (Terminal Velocity, Rolling Friction) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "5hv9ntmrBz4",
-                                            "title":  "Momentum and Impulse",
-                                            "subtitle":  "",
-                                            "duration":  "12:46",
-                                            "url":  "https://www.youtube.com/watch?v=5hv9ntmrBz4\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Momentum and Impulse | New Book 2025"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "o52APTLHgvM",
-                                            "title":  "Principle of Conservation of Momentum",
-                                            "subtitle":  "",
-                                            "duration":  "12:45",
-                                            "url":  "https://www.youtube.com/watch?v=o52APTLHgvM\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Principle of Conservation of Momentum | New Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "mkmShtaCMc4",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "7:21",
-                                            "url":  "https://www.youtube.com/watch?v=mkmShtaCMc4\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Exercise | 9th Class Physics New Book 2025"
-                                        },
-                                        {
-                                            "order":  15,
-                                            "playlistIndex":  15,
-                                            "videoId":  "xTodC7aE9A0",
-                                            "title":  "Numerical Problem (3.1 to 3.4)",
-                                            "subtitle":  "",
-                                            "duration":  "10:33",
-                                            "url":  "https://www.youtube.com/watch?v=xTodC7aE9A0\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Numerical Problem (3.1 to 3.4) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  16,
-                                            "playlistIndex":  16,
-                                            "videoId":  "oZnd1-qAnNA",
-                                            "title":  "Numerical Problem (3.5 to 3.7)",
-                                            "subtitle":  "",
-                                            "duration":  "12:16",
-                                            "url":  "https://www.youtube.com/watch?v=oZnd1-qAnNA\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Numerical Problem (3.5 to 3.7) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  17,
-                                            "playlistIndex":  17,
-                                            "videoId":  "UZa22w42ciI",
-                                            "title":  "Numerical Problem (3.8 to 3.9)",
-                                            "subtitle":  "",
-                                            "duration":  "9:14",
-                                            "url":  "https://www.youtube.com/watch?v=UZa22w42ciI\u0026list=PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-",
-                                            "originalTitle":  "9th Class Physics Chapter 3 | Numerical Problem (3.8 to 3.9) | New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  17
-                     },
-                     {
-                         "id":  "ch4",
-                         "number":  4,
-                         "title":  "Turning Effect of Forces",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "yK-5FIjdc_0",
-                                            "title":  "Like and Unlike Parallel Forces, Addition of Forces",
-                                            "subtitle":  "",
-                                            "duration":  "10:00",
-                                            "url":  "https://www.youtube.com/watch?v=yK-5FIjdc_0\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Like and Unlike Parallel Forces, Addition of Forces | New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "Ua1Ul86FpgQ",
-                                            "title":  "Turning Effect of a Force",
-                                            "subtitle":  "",
-                                            "duration":  "19:48",
-                                            "url":  "https://www.youtube.com/watch?v=Ua1Ul86FpgQ\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Turning Effect of a Force | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "wIVPliF4yjA",
-                                            "title":  "Resolution Of Vectors",
-                                            "subtitle":  "",
-                                            "duration":  "8:50",
-                                            "url":  "https://www.youtube.com/watch?v=wIVPliF4yjA\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Resolution Of Vectors | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "zunfRI1ME5E",
-                                            "title":  "Determination of a Force from its Perpendicular Components",
-                                            "subtitle":  "",
-                                            "duration":  "8:08",
-                                            "url":  "https://www.youtube.com/watch?v=zunfRI1ME5E\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Ch 4 | Determination of a Force from its Prependicular Components | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "Ll4yxq4rKp0",
-                                            "title":  "Principle of Moments",
-                                            "subtitle":  "",
-                                            "duration":  "8:21",
-                                            "url":  "https://www.youtube.com/watch?v=Ll4yxq4rKp0\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Principle of Moments | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "YzilEjdVG4s",
-                                            "title":  "Centre of Gravity and Centre of Mass",
-                                            "subtitle":  "",
-                                            "duration":  "11:01",
-                                            "url":  "https://www.youtube.com/watch?v=YzilEjdVG4s\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Centre of Gravity and Centre of Mass | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "qOuhnA7pSbg",
-                                            "title":  "Equilibrium",
-                                            "subtitle":  "",
-                                            "duration":  "10:54",
-                                            "url":  "https://www.youtube.com/watch?v=qOuhnA7pSbg\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Equilibrium | New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "4XQ_uQ4fIzI",
-                                            "title":  "Conditions of Equilibrium",
-                                            "subtitle":  "",
-                                            "duration":  "9:51",
-                                            "url":  "https://www.youtube.com/watch?v=4XQ_uQ4fIzI\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Conditions of Equilibrium | New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "9oxoINI5l9M",
-                                            "title":  "States of Equilibrium",
-                                            "subtitle":  "",
-                                            "duration":  "9:40",
-                                            "url":  "https://www.youtube.com/watch?v=9oxoINI5l9M\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | States of Equilibrium | New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "1BsZGnFv12Y",
-                                            "title":  "Improvement of Stability, Application of Stability in Real Life",
-                                            "subtitle":  "",
-                                            "duration":  "9:55",
-                                            "url":  "https://www.youtube.com/watch?v=1BsZGnFv12Y\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Improvement of Stability, Application of Stability in Real Life"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "-_QK5IxmhTo",
-                                            "title":  "Centripetal Force",
-                                            "subtitle":  "",
-                                            "duration":  "7:46",
-                                            "url":  "https://www.youtube.com/watch?v=-_QK5IxmhTo\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Centripetal Force | New Book 2025"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "vZ1R1Z2cgSY",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "7:04",
-                                            "url":  "https://www.youtube.com/watch?v=vZ1R1Z2cgSY\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Exercise | 9th Class Physics New Book 2025"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "vRRBFvzMcnw",
-                                            "title":  "Numerical Problems 4.1 to 4.3",
-                                            "subtitle":  "",
-                                            "duration":  "11:30",
-                                            "url":  "https://www.youtube.com/watch?v=vRRBFvzMcnw\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Numerical Problems 4.1 to 4.3 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "feo0CVskGpo",
-                                            "title":  "Numerical Problems 4.4 to 4.6",
-                                            "subtitle":  "",
-                                            "duration":  "13:56",
-                                            "url":  "https://www.youtube.com/watch?v=feo0CVskGpo\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Numerical Problems 4.4 to 4.6 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  15,
-                                            "playlistIndex":  15,
-                                            "videoId":  "e8CyaBzMUkw",
-                                            "title":  "Numerical Problems 4.7 to 4.10",
-                                            "subtitle":  "",
-                                            "duration":  "17:06",
-                                            "url":  "https://www.youtube.com/watch?v=e8CyaBzMUkw\u0026list=PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9",
-                                            "originalTitle":  "9th Class Physics Chapter 4 | Numerical Problems 4.7 to 4.10 | New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  15
-                     },
-                     {
-                         "id":  "ch5",
-                         "number":  5,
-                         "title":  "Work, Energy \u0026 Power",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "iwzJP_Xprf4",
-                                            "title":  "Work, Energy and power",
-                                            "subtitle":  "",
-                                            "duration":  "14:56",
-                                            "url":  "https://www.youtube.com/watch?v=iwzJP_Xprf4\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "Physics New Book 2025 | Chapter 5 Work, Energy and power |  9th Class new Playlist"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "ssbo_wUdUlI",
-                                            "title":  "Energy, Kinetic Energy",
-                                            "subtitle":  "",
-                                            "duration":  "13:44",
-                                            "url":  "https://www.youtube.com/watch?v=ssbo_wUdUlI\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Energy, Kinetic Energy | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "DAdtyRoJPA8",
-                                            "title":  "Energy, Potential Energy",
-                                            "subtitle":  "",
-                                            "duration":  "9:17",
-                                            "url":  "https://www.youtube.com/watch?v=DAdtyRoJPA8\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Energy, Potential Energy | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "fAnGZrUeXBM",
-                                            "title":  "Work, Energy and Power, Conservation of Energy",
-                                            "subtitle":  "",
-                                            "duration":  "10:12",
-                                            "url":  "https://www.youtube.com/watch?v=fAnGZrUeXBM\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Conservation of Energy  | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "svKYURqNkg4",
-                                            "title":  "Work, Energy and Power, Sources of Energy Part 1",
-                                            "subtitle":  "",
-                                            "duration":  "9:30",
-                                            "url":  "https://www.youtube.com/watch?v=svKYURqNkg4\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Sources of Energy Part 1 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "8vIjio3uMEE",
-                                            "title":  "Work, Energy and Power, Sources of Energy Part 2",
-                                            "subtitle":  "",
-                                            "duration":  "10:19",
-                                            "url":  "https://www.youtube.com/watch?v=8vIjio3uMEE\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Sources of Energy Part 2 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "avZ9Ei3ObW8",
-                                            "title":  "Renewable and Non-Renewable Sources",
-                                            "subtitle":  "",
-                                            "duration":  "8:06",
-                                            "url":  "https://www.youtube.com/watch?v=avZ9Ei3ObW8\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Renewable and Non-Renewable Sources | New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "sEy21m1vQU8",
-                                            "title":  "The Advantages and Disadvantages of Methods Energy Production",
-                                            "subtitle":  "",
-                                            "duration":  "6:05",
-                                            "url":  "https://www.youtube.com/watch?v=sEy21m1vQU8\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Ch 5 | The Advantages and Disadvantages of Methods Energy Production | Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "FpCGNxyZ1Hw",
-                                            "title":  "Work, Energy and Power",
-                                            "subtitle":  "",
-                                            "duration":  "7:06",
-                                            "url":  "https://www.youtube.com/watch?v=FpCGNxyZ1Hw\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 Work, Energy and Power | Power | Class 9th New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "kI776MBKz4Q",
-                                            "title":  "Work, Energy and Power, Efficiency",
-                                            "subtitle":  "",
-                                            "duration":  "8:00",
-                                            "url":  "https://www.youtube.com/watch?v=kI776MBKz4Q\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Efficiency | New Book 2025"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "QUKoQFLLoL4",
-                                            "title":  "Numerical Problems 5.1, 5.2, 5.3",
-                                            "subtitle":  "",
-                                            "duration":  "7:39",
-                                            "url":  "https://www.youtube.com/watch?v=QUKoQFLLoL4\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Numerical Numbers 5.1, 5.2,5.3 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "wRK7vd2VlcU",
-                                            "title":  "Numerical Problems 5.4, 5.5, 5.6",
-                                            "subtitle":  "",
-                                            "duration":  "10:14",
-                                            "url":  "https://www.youtube.com/watch?v=wRK7vd2VlcU\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Numerical Numbers 5.4, 5.5, 5.6 | New Book2025"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "JpCETwC4c0I",
-                                            "title":  "Numerical Problems 5.7, 5.8, 5.9",
-                                            "subtitle":  "",
-                                            "duration":  "13:15",
-                                            "url":  "https://www.youtube.com/watch?v=JpCETwC4c0I\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy and Power, Numerical Numbers 5.7, 5.8,5.9 | New Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "_bqHI3ldG-8",
-                                            "title":  "Numerical Problems 5.10, 5.11, 5.13",
-                                            "subtitle":  "",
-                                            "duration":  "10:12",
-                                            "url":  "https://www.youtube.com/watch?v=_bqHI3ldG-8\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Work, Energy, Power | Numerical Numbers 5.10, 5.11,5.13| New Book 2025"
-                                        },
-                                        {
-                                            "order":  15,
-                                            "playlistIndex":  15,
-                                            "videoId":  "ibBlVby3KyQ",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "11:18",
-                                            "url":  "https://www.youtube.com/watch?v=ibBlVby3KyQ\u0026list=PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI",
-                                            "originalTitle":  "9th Class Physics Chapter 5 | Exercise | Class 9th Physics New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  15
-                     },
-                     {
-                         "id":  "ch6",
-                         "number":  6,
-                         "title":  "Mechanical Properties of Matter",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "knkT8pfoaFw",
-                                            "title":  "Deformation of Solids",
-                                            "subtitle":  "",
-                                            "duration":  "12:46",
-                                            "url":  "https://www.youtube.com/watch?v=knkT8pfoaFw\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Deformation of Solids |New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "INxr4slz9IY",
-                                            "title":  "Hooke\u0027s Law",
-                                            "subtitle":  "",
-                                            "duration":  "16:14",
-                                            "url":  "https://www.youtube.com/watch?v=INxr4slz9IY\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Hooke\u0027s Law | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "aARm2hCIhfQ",
-                                            "title":  "Density",
-                                            "subtitle":  "",
-                                            "duration":  "11:31",
-                                            "url":  "https://www.youtube.com/watch?v=aARm2hCIhfQ\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Density | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "eOYLqZ0nfA0",
-                                            "title":  "Pressure",
-                                            "subtitle":  "",
-                                            "duration":  "10:01",
-                                            "url":  "https://www.youtube.com/watch?v=eOYLqZ0nfA0\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Pressure | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "OU_XyKD5jNE",
-                                            "title":  "Pressure in Liquids",
-                                            "subtitle":  "",
-                                            "duration":  "6:17",
-                                            "url":  "https://www.youtube.com/watch?v=OU_XyKD5jNE\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Pressure in Liquids | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "dF-WQzHPiBM",
-                                            "title":  "Atmospheric Pressure",
-                                            "subtitle":  "",
-                                            "duration":  "14:17",
-                                            "url":  "https://www.youtube.com/watch?v=dF-WQzHPiBM\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Atmospheric Pressure | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "4vjCL5f3bbc",
-                                            "title":  "Measurement of Atmospheric Pressure",
-                                            "subtitle":  "",
-                                            "duration":  "11:55",
-                                            "url":  "https://www.youtube.com/watch?v=4vjCL5f3bbc\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6  | Measurement of Atmospheric Pressure | New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "qsUYdQRbcIU",
-                                            "title":  "Measurement of Pressure Manometer",
-                                            "subtitle":  "",
-                                            "duration":  "6:54",
-                                            "url":  "https://www.youtube.com/watch?v=qsUYdQRbcIU\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mearsurement of Pressure Manometer | New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "nuo1Sw2Bky8",
-                                            "title":  "Pascal\u0027s Law",
-                                            "subtitle":  "",
-                                            "duration":  "15:08",
-                                            "url":  "https://www.youtube.com/watch?v=nuo1Sw2Bky8\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Mechanical Properties of Matter | Pascal\u0027s Law | New Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "8jZSuk1WfUc",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "11:02",
-                                            "url":  "https://www.youtube.com/watch?v=8jZSuk1WfUc\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9th Class Physics Chapter 6 | Exercise | Class 9th Physics New Book 2025"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "0N28Uhzbsm4",
-                                            "title":  "Numerical Problem 6.1, 6.2, 6.3",
-                                            "subtitle":  "",
-                                            "duration":  "11:51",
-                                            "url":  "https://www.youtube.com/watch?v=0N28Uhzbsm4\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9 Class Physics Ch 6 | Mechanical Properties of Matter | Numerical Problem 6.1, 6.2, 6.3 | Book 2025"
-                                        },
-                                        {
-                                            "order":  12,
-                                            "playlistIndex":  12,
-                                            "videoId":  "NEu1SwX4i08",
-                                            "title":  "Numerical Problem 6.4, 6.5, 6.6",
-                                            "subtitle":  "",
-                                            "duration":  "13:57",
-                                            "url":  "https://www.youtube.com/watch?v=NEu1SwX4i08\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9 Class Physics Ch 6 | Mechanical Properties of Matter | Numerical Problem 6.4, 6.5, 6.6 | Book 2025"
-                                        },
-                                        {
-                                            "order":  13,
-                                            "playlistIndex":  13,
-                                            "videoId":  "EaSZb03zcU4",
-                                            "title":  "Numerical Problem 6.7, 6.8, 6.9",
-                                            "subtitle":  "",
-                                            "duration":  "12:17",
-                                            "url":  "https://www.youtube.com/watch?v=EaSZb03zcU4\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9 Class Physics Chapter 6 | Numerical Problem 6.7, 6.8, 6.9 | Book 2025"
-                                        },
-                                        {
-                                            "order":  14,
-                                            "playlistIndex":  14,
-                                            "videoId":  "x6iY2MVMzUk",
-                                            "title":  "Numerical Problem 6.9, 6.10, 6.11, 6.12",
-                                            "subtitle":  "",
-                                            "duration":  "12:54",
-                                            "url":  "https://www.youtube.com/watch?v=x6iY2MVMzUk\u0026list=PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv",
-                                            "originalTitle":  "9 Class Physics Chapter 6 | Numerical Problem 6.9, 6.10, 6.11, 6.12 | Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  14
-                     },
-                     {
-                         "id":  "ch7",
-                         "number":  7,
-                         "title":  "Thermal Properties of Matter",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "txqEYWKT_Q0",
-                                            "title":  "Kinetic Molecular Theory of Matter",
-                                            "subtitle":  "",
-                                            "duration":  "14:10",
-                                            "url":  "https://www.youtube.com/watch?v=txqEYWKT_Q0\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Ch 7 | Thermal Properties of Matter | Kinetic Molecular Theory of Matter | 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "9VV8qPHOatA",
-                                            "title":  "Temperature and Heat",
-                                            "subtitle":  "",
-                                            "duration":  "9:34",
-                                            "url":  "https://www.youtube.com/watch?v=9VV8qPHOatA\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Ch 7 | Thermal Properties of Matter | Temperature and Heat | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "GNugBeNVsVM",
-                                            "title":  "Thermometer",
-                                            "subtitle":  "",
-                                            "duration":  "14:56",
-                                            "url":  "https://www.youtube.com/watch?v=GNugBeNVsVM\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Ch 7 | Thermal Properties of Matter | Thermometer | new Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "RFsO61BvENs",
-                                            "title":  "Thermometer (7.3), Temperature Scales",
-                                            "subtitle":  "",
-                                            "duration":  "11:52",
-                                            "url":  "https://www.youtube.com/watch?v=RFsO61BvENs\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Thermometer (7.3), Temperature Scales | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "nCv9T4cCkBw",
-                                            "title":  "Thermometers (7.3), Thermocouple Thermometer",
-                                            "subtitle":  "",
-                                            "duration":  "8:22",
-                                            "url":  "https://www.youtube.com/watch?v=nCv9T4cCkBw\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Thermometers (7.3), Thermocouple Thermometer | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "63l385KCcgQ",
-                                            "title":  "Sensitivity, Range and Linearity of Thermometer (7.4)",
-                                            "subtitle":  "",
-                                            "duration":  "8:00",
-                                            "url":  "https://www.youtube.com/watch?v=63l385KCcgQ\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Sensitivity, Range and Linearity of Thermometer (7.4) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "_XcMnGiS8eA",
-                                            "title":  "Structure of a Liquid in Glass Thermometer (7.5)",
-                                            "subtitle":  "",
-                                            "duration":  "6:10",
-                                            "url":  "https://www.youtube.com/watch?v=_XcMnGiS8eA\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Structure of a Liquid in Glass Thermometer (7.5) | New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "Koc0KY_zaRQ",
-                                            "title":  "Numerical Problems",
-                                            "subtitle":  "",
-                                            "duration":  "14:16",
-                                            "url":  "https://www.youtube.com/watch?v=Koc0KY_zaRQ\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Exercise | Numerical Problems | New Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "Pxaw1SOPu68",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "10:36",
-                                            "url":  "https://www.youtube.com/watch?v=Pxaw1SOPu68\u0026list=PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh",
-                                            "originalTitle":  "9th Class Physics Chapter 7 | Exercise | Class 9th Physics New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  9
-                     },
-                     {
-                         "id":  "ch8",
-                         "number":  8,
-                         "title":  "Magnetism",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "FZ8Tf5AhpIQ",
-                                            "title":  "Magnetic Materials, Properties of Magnets",
-                                            "subtitle":  "",
-                                            "duration":  "13:44",
-                                            "url":  "https://www.youtube.com/watch?v=FZ8Tf5AhpIQ\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Magnetic Meterials, Properties of Megnets | New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "wCUfa0LvAEM",
-                                            "title":  "Induced Magnetism, Temporary and Permanent Magnet",
-                                            "subtitle":  "",
-                                            "duration":  "8:01",
-                                            "url":  "https://www.youtube.com/watch?v=wCUfa0LvAEM\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Induced Magnetism, Temporary and Parmanent Magnet"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "wns66nUcG90",
-                                            "title":  "Magnetic Fields",
-                                            "subtitle":  "",
-                                            "duration":  "13:51",
-                                            "url":  "https://www.youtube.com/watch?v=wns66nUcG90\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Megnetic Fields | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "XsvLbYbZCOc",
-                                            "title":  "Use of Permanent Magnets",
-                                            "subtitle":  "",
-                                            "duration":  "6:35",
-                                            "url":  "https://www.youtube.com/watch?v=XsvLbYbZCOc\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Use of Permanent Magnets| New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "HPCEnKAzf0w",
-                                            "title":  "Electromagnets",
-                                            "subtitle":  "",
-                                            "duration":  "11:40",
-                                            "url":  "https://www.youtube.com/watch?v=HPCEnKAzf0w\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Electromagnets | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "SvTMN_0Xx4Q",
-                                            "title":  "Domain Theory of Magnetism",
-                                            "subtitle":  "",
-                                            "duration":  "5:56",
-                                            "url":  "https://www.youtube.com/watch?v=SvTMN_0Xx4Q\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Domain Theory of Magnetism | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "A5fPaprJS_k",
-                                            "title":  "Magnetisation and Demagnetisation (8.9)",
-                                            "subtitle":  "",
-                                            "duration":  "14:43",
-                                            "url":  "https://www.youtube.com/watch?v=A5fPaprJS_k\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetisation and Demagnetisation (8.9) | 9th Physics New Book 2025"
-                                        },
-                                        {
-                                            "order":  8,
-                                            "playlistIndex":  8,
-                                            "videoId":  "pV8k5ByfIpM",
-                                            "title":  "Application of Magnets in Recording Tech, Magnetic Tape Recording",
-                                            "subtitle":  "",
-                                            "duration":  "5:27",
-                                            "url":  "https://www.youtube.com/watch?v=pV8k5ByfIpM\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9 Class Physics Ch 8 | Application of Magnets in Recording Tech, Magnetic Tape Recording | Book 2025"
-                                        },
-                                        {
-                                            "order":  9,
-                                            "playlistIndex":  9,
-                                            "videoId":  "03eMV9-7Sas",
-                                            "title":  "Application of Magnets in Recording Tech, Hard Disk Recording",
-                                            "subtitle":  "",
-                                            "duration":  "6:08",
-                                            "url":  "https://www.youtube.com/watch?v=03eMV9-7Sas\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9 Class Physics Ch 8 | Application of Magnets in Recording Tech, Hard Disk Recording | Book 2025"
-                                        },
-                                        {
-                                            "order":  10,
-                                            "playlistIndex":  10,
-                                            "videoId":  "d-72mjh0T0E",
-                                            "title":  "Soft as Magnetic Shield",
-                                            "subtitle":  "",
-                                            "duration":  "9:06",
-                                            "url":  "https://www.youtube.com/watch?v=d-72mjh0T0E\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Magnetism | Soft as Magnetic Shield | New Book 2025"
-                                        },
-                                        {
-                                            "order":  11,
-                                            "playlistIndex":  11,
-                                            "videoId":  "41mLHVol-d0",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "11:34",
-                                            "url":  "https://www.youtube.com/watch?v=41mLHVol-d0\u0026list=PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK",
-                                            "originalTitle":  "9th Class Physics Chapter 8 | Exercise | Class 9th Physics New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  11
-                     },
-                     {
-                         "id":  "ch9",
-                         "number":  9,
-                         "title":  "Nature of Science",
-                         "videos":  [
-                                        {
-                                            "order":  1,
-                                            "playlistIndex":  1,
-                                            "videoId":  "1ImDWfqe9XQ",
-                                            "title":  "Scope of Physics",
-                                            "subtitle":  "",
-                                            "duration":  "10:25",
-                                            "url":  "https://www.youtube.com/watch?v=1ImDWfqe9XQ\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Nature of Science | Scope of Physics | New Book 2025"
-                                        },
-                                        {
-                                            "order":  2,
-                                            "playlistIndex":  2,
-                                            "videoId":  "x3_oIiyC_pI",
-                                            "title":  "Branches of Physics",
-                                            "subtitle":  "",
-                                            "duration":  "11:42",
-                                            "url":  "https://www.youtube.com/watch?v=x3_oIiyC_pI\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Nature of Science | Branches of Physics | New Book 2025"
-                                        },
-                                        {
-                                            "order":  3,
-                                            "playlistIndex":  3,
-                                            "videoId":  "cRfjmkA1YYk",
-                                            "title":  "Interdisciplinary Nature of Physics",
-                                            "subtitle":  "",
-                                            "duration":  "12:21",
-                                            "url":  "https://www.youtube.com/watch?v=cRfjmkA1YYk\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9 Class Physics Chapter 9 | Nature of Science | Interdisciplinary Nature of Physics | New Book 2025"
-                                        },
-                                        {
-                                            "order":  4,
-                                            "playlistIndex":  4,
-                                            "videoId":  "hKfuH5o9CRg",
-                                            "title":  "Interdisciplinary Research",
-                                            "subtitle":  "",
-                                            "duration":  "7:53",
-                                            "url":  "https://www.youtube.com/watch?v=hKfuH5o9CRg\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Nature of Science | Interdisciplinary Research | New Book 2025"
-                                        },
-                                        {
-                                            "order":  5,
-                                            "playlistIndex":  5,
-                                            "videoId":  "LJHZ6aueJKs",
-                                            "title":  "Scientific Method",
-                                            "subtitle":  "",
-                                            "duration":  "11:51",
-                                            "url":  "https://www.youtube.com/watch?v=LJHZ6aueJKs\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Nature of Science | Scintific Method | New Book 2025"
-                                        },
-                                        {
-                                            "order":  6,
-                                            "playlistIndex":  6,
-                                            "videoId":  "DqtPN5zCiRU",
-                                            "title":  "Scientific Basis of Technologies And Engineering",
-                                            "subtitle":  "",
-                                            "duration":  "8:17",
-                                            "url":  "https://www.youtube.com/watch?v=DqtPN5zCiRU\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Scientific Bass of Technologies And Engineering | New Book 2025"
-                                        },
-                                        {
-                                            "order":  7,
-                                            "playlistIndex":  7,
-                                            "videoId":  "UPuMViGhcJ4",
-                                            "title":  "Exercise",
-                                            "subtitle":  "",
-                                            "duration":  "10:56",
-                                            "url":  "https://www.youtube.com/watch?v=UPuMViGhcJ4\u0026list=PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH",
-                                            "originalTitle":  "9th Class Physics Chapter 9 | Exercise | Class 9th Physics New Book 2025"
-                                        }
-                                    ],
-                         "videoCount":  7
-                     }
-                 ]
+{
+  "id": "physics",
+  "title": "Physics",
+  "kind": "chapters",
+  "chapters": [
+    {
+      "id": "ch1",
+      "number": 1,
+      "title": "Physical Quantities & Measurement",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "yxdVSgRjCjI",
+          "title": "Complete Introduction",
+          "subtitle": "New Book Introduction",
+          "duration": "14:36"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "p2GS0jGMXM8",
+          "title": "Physical & Non Physical Quantities",
+          "subtitle": "Base & Derived Physical Quantities",
+          "duration": "14:03"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "-RZzE6rhw9g",
+          "title": "International System of Unit",
+          "duration": "13:25"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "_kVoxnrCrK4",
+          "title": "Scientific Notation",
+          "duration": "14:04"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "1fOQfc7_MFY",
+          "title": "Length Measuring Instrument",
+          "duration": "13:04"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "LiOMBapYnI4",
+          "title": "Vernier Callipers",
+          "duration": "15:14"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "vJTXoFZ1QBI",
+          "title": "Micrometer Screw Gauge",
+          "duration": "14:18"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "DIDsVcE7ueA",
+          "title": "Mass Measuring Instruments Physical Balance",
+          "duration": "9:22"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "5Y5XF4YIN8Y",
+          "title": "Time Measuring Instrument (Stop Watch)",
+          "duration": "9:47"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "Xq0wpTD3EPc",
+          "title": "Volume Measuring Instrument - Measuring Cylinder",
+          "duration": "11:17"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "aonG-owdFbc",
+          "title": "Errors in Measurements",
+          "duration": "19:14"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "WJT2h63oqUM",
+          "title": "Uncertainty in a Measurement",
+          "duration": "8:11"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "adpQf7hKtAc",
+          "title": "Significant Figures",
+          "duration": "11:07"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "GxaTyuBUoM8",
+          "title": "Precision & Accuracy",
+          "duration": "11:31"
+        },
+        {
+          "order": 15,
+          "playlistIndex": 15,
+          "videoId": "I3sXwUVScOA",
+          "title": "Rounding of the Digits",
+          "duration": "8:25"
+        },
+        {
+          "order": 16,
+          "playlistIndex": 16,
+          "videoId": "N8jLICitqUo",
+          "title": "Exercise",
+          "duration": "8:02"
+        },
+        {
+          "order": 17,
+          "playlistIndex": 17,
+          "videoId": "4LELxxXlAMk",
+          "title": "Numerical Problems 1.1 To 1.5",
+          "duration": "25:50"
+        },
+        {
+          "order": 18,
+          "playlistIndex": 18,
+          "videoId": "A5oWFTbMFO8",
+          "title": "Numerical Problems 1.5 To 1.10",
+          "duration": "23:15"
+        }
+      ],
+      "videoCount": 18,
+      "playlistId": "PLI-NxcTUPiPyXeattNrYBYRQiuyuD1n0I"
+    },
+    {
+      "id": "ch2",
+      "number": 2,
+      "title": "Kinematics",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "bqdqY5Awb5I",
+          "title": "Kinematics",
+          "duration": "9:48"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "m-20Mg_te3A",
+          "title": "Scalars and Vectors",
+          "duration": "15:46"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "mWtiN88dpyQ",
+          "title": "Representation Of Vectors",
+          "duration": "11:39"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "7ZJJBIEomBw",
+          "title": "Resultant Vector",
+          "duration": "13:28"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "d7CRcdhgFow",
+          "title": "Rest And Motion",
+          "duration": "8:47"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "dzhYOm_zyDg",
+          "title": "Kinematics Types of Motion",
+          "duration": "10:49"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "K3Q19QAYLCU",
+          "title": "Distance & Displacement",
+          "duration": "11:18"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "vrmmYleOQSQ",
+          "title": "Kinematics Speed & Velocity",
+          "duration": "16:23"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "frymvzzPO4M",
+          "title": "Kinematics Acceleration",
+          "duration": "10:04"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "7luTprwmJ2Y",
+          "title": "Graphical Analysis of Motion, Gradient of a Distance Time Graph",
+          "duration": "18:15"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "stxf_dJBg8s",
+          "title": "Speed Time Graph, Gradient of a Speed Time Graph, Area Under Speed Time Graph",
+          "duration": "14:17"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "ZM0L_yL-bQg",
+          "title": "Solving Problems for Motion Under Gravity, Free Fall Acceleration",
+          "duration": "11:16"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "nRrZ4X1kWt0",
+          "title": "Numerical Problems 2.1 To 2.5",
+          "duration": "18:42"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "8oGfhGJpyqc",
+          "title": "Numerical Problems 2.6 To 2.10",
+          "duration": "21:39"
+        },
+        {
+          "order": 15,
+          "playlistIndex": 15,
+          "videoId": "fpsV4BNGg9M",
+          "title": "Exercise",
+          "duration": "8:36"
+        }
+      ],
+      "videoCount": 15,
+      "playlistId": "PLI-NxcTUPiPwSAi9ZwqRu5sIwOlLawrCB"
+    },
+    {
+      "id": "ch3",
+      "number": 3,
+      "title": "Dynamics",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "pklBkYpBNc0",
+          "title": "Concept of force & Types of force",
+          "duration": "17:10"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "bRxrA7GayTU",
+          "title": "Fundamental forces",
+          "duration": "10:41"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "3fN5-bxDxT0",
+          "title": "Forces in a Free Body Diagram",
+          "duration": "8:39"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "EYIVggUyt38",
+          "title": "Newton's First Law of Motion",
+          "duration": "13:17"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "-_IKjU0uhwk",
+          "title": "Newton's Second Law of Motion",
+          "duration": "9:45"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "XnUVJN8ap40",
+          "title": "Newton's 3rd Law & Limitation of Newton's Law of Motion",
+          "duration": "15:20"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "7vYRqHT9S6s",
+          "title": "Mass and Weight, Gravitational Field",
+          "duration": "10:58"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "7GQ3NhpPlHE",
+          "title": "Mechanical and Electronic Balances",
+          "duration": "9:14"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "ilvlnnX3UrQ",
+          "title": "Mechanical and Electronic Balances (Force Meter)",
+          "duration": "7:13"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "9Api-SSTTVo",
+          "title": "Friction (Dissipative Effect, Sliding Friction)",
+          "duration": "13:11"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "Zu1UNtTZJQY",
+          "title": "Friction (Terminal Velocity, Rolling Friction)",
+          "duration": "13:54"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "5hv9ntmrBz4",
+          "title": "Momentum and Impulse",
+          "duration": "12:46"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "o52APTLHgvM",
+          "title": "Principle of Conservation of Momentum",
+          "duration": "12:45"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "mkmShtaCMc4",
+          "title": "Exercise",
+          "duration": "7:21"
+        },
+        {
+          "order": 15,
+          "playlistIndex": 15,
+          "videoId": "xTodC7aE9A0",
+          "title": "Numerical Problem (3.1 to 3.4)",
+          "duration": "10:33"
+        },
+        {
+          "order": 16,
+          "playlistIndex": 16,
+          "videoId": "oZnd1-qAnNA",
+          "title": "Numerical Problem (3.5 to 3.7)",
+          "duration": "12:16"
+        },
+        {
+          "order": 17,
+          "playlistIndex": 17,
+          "videoId": "UZa22w42ciI",
+          "title": "Numerical Problem (3.8 to 3.9)",
+          "duration": "9:14"
+        }
+      ],
+      "videoCount": 17,
+      "playlistId": "PLI-NxcTUPiPzK1i12o4TAd1iC6lIRw5_-"
+    },
+    {
+      "id": "ch4",
+      "number": 4,
+      "title": "Turning Effect of Forces",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "yK-5FIjdc_0",
+          "title": "Like and Unlike Parallel Forces, Addition of Forces",
+          "duration": "10:00"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "Ua1Ul86FpgQ",
+          "title": "Turning Effect of a Force",
+          "duration": "19:48"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "wIVPliF4yjA",
+          "title": "Resolution Of Vectors",
+          "duration": "8:50"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "zunfRI1ME5E",
+          "title": "Determination of a Force from its Perpendicular Components",
+          "duration": "8:08"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "Ll4yxq4rKp0",
+          "title": "Principle of Moments",
+          "duration": "8:21"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "YzilEjdVG4s",
+          "title": "Centre of Gravity and Centre of Mass",
+          "duration": "11:01"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "qOuhnA7pSbg",
+          "title": "Equilibrium",
+          "duration": "10:54"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "4XQ_uQ4fIzI",
+          "title": "Conditions of Equilibrium",
+          "duration": "9:51"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "9oxoINI5l9M",
+          "title": "States of Equilibrium",
+          "duration": "9:40"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "1BsZGnFv12Y",
+          "title": "Improvement of Stability, Application of Stability in Real Life",
+          "duration": "9:55"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "-_QK5IxmhTo",
+          "title": "Centripetal Force",
+          "duration": "7:46"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "vZ1R1Z2cgSY",
+          "title": "Exercise",
+          "duration": "7:04"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "vRRBFvzMcnw",
+          "title": "Numerical Problems 4.1 to 4.3",
+          "duration": "11:30"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "feo0CVskGpo",
+          "title": "Numerical Problems 4.4 to 4.6",
+          "duration": "13:56"
+        },
+        {
+          "order": 15,
+          "playlistIndex": 15,
+          "videoId": "e8CyaBzMUkw",
+          "title": "Numerical Problems 4.7 to 4.10",
+          "duration": "17:06"
+        }
+      ],
+      "videoCount": 15,
+      "playlistId": "PLI-NxcTUPiPxE6NJw8C0NJ_uC5rVQi1V9"
+    },
+    {
+      "id": "ch5",
+      "number": 5,
+      "title": "Work, Energy & Power",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "iwzJP_Xprf4",
+          "title": "Work, Energy and power",
+          "duration": "14:56"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "ssbo_wUdUlI",
+          "title": "Energy, Kinetic Energy",
+          "duration": "13:44"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "DAdtyRoJPA8",
+          "title": "Energy, Potential Energy",
+          "duration": "9:17"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "fAnGZrUeXBM",
+          "title": "Work, Energy and Power, Conservation of Energy",
+          "duration": "10:12"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "svKYURqNkg4",
+          "title": "Work, Energy and Power, Sources of Energy Part 1",
+          "duration": "9:30"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "8vIjio3uMEE",
+          "title": "Work, Energy and Power, Sources of Energy Part 2",
+          "duration": "10:19"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "avZ9Ei3ObW8",
+          "title": "Renewable and Non-Renewable Sources",
+          "duration": "8:06"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "sEy21m1vQU8",
+          "title": "The Advantages and Disadvantages of Methods Energy Production",
+          "duration": "6:05"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "FpCGNxyZ1Hw",
+          "title": "Work, Energy and Power",
+          "duration": "7:06"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "kI776MBKz4Q",
+          "title": "Work, Energy and Power, Efficiency",
+          "duration": "8:00"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "QUKoQFLLoL4",
+          "title": "Numerical Problems 5.1, 5.2, 5.3",
+          "duration": "7:39"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "wRK7vd2VlcU",
+          "title": "Numerical Problems 5.4, 5.5, 5.6",
+          "duration": "10:14"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "JpCETwC4c0I",
+          "title": "Numerical Problems 5.7, 5.8, 5.9",
+          "duration": "13:15"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "_bqHI3ldG-8",
+          "title": "Numerical Problems 5.10, 5.11, 5.13",
+          "duration": "10:12"
+        },
+        {
+          "order": 15,
+          "playlistIndex": 15,
+          "videoId": "ibBlVby3KyQ",
+          "title": "Exercise",
+          "duration": "11:18"
+        }
+      ],
+      "videoCount": 15,
+      "playlistId": "PLI-NxcTUPiPwcGw6WYBAaJeurH8IHs8GI"
+    },
+    {
+      "id": "ch6",
+      "number": 6,
+      "title": "Mechanical Properties of Matter",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "knkT8pfoaFw",
+          "title": "Deformation of Solids",
+          "duration": "12:46"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "INxr4slz9IY",
+          "title": "Hooke's Law",
+          "duration": "16:14"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "aARm2hCIhfQ",
+          "title": "Density",
+          "duration": "11:31"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "eOYLqZ0nfA0",
+          "title": "Pressure",
+          "duration": "10:01"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "OU_XyKD5jNE",
+          "title": "Pressure in Liquids",
+          "duration": "6:17"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "dF-WQzHPiBM",
+          "title": "Atmospheric Pressure",
+          "duration": "14:17"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "4vjCL5f3bbc",
+          "title": "Measurement of Atmospheric Pressure",
+          "duration": "11:55"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "qsUYdQRbcIU",
+          "title": "Measurement of Pressure Manometer",
+          "duration": "6:54"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "nuo1Sw2Bky8",
+          "title": "Pascal's Law",
+          "duration": "15:08"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "8jZSuk1WfUc",
+          "title": "Exercise",
+          "duration": "11:02"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "0N28Uhzbsm4",
+          "title": "Numerical Problem 6.1, 6.2, 6.3",
+          "duration": "11:51"
+        },
+        {
+          "order": 12,
+          "playlistIndex": 12,
+          "videoId": "NEu1SwX4i08",
+          "title": "Numerical Problem 6.4, 6.5, 6.6",
+          "duration": "13:57"
+        },
+        {
+          "order": 13,
+          "playlistIndex": 13,
+          "videoId": "EaSZb03zcU4",
+          "title": "Numerical Problem 6.7, 6.8, 6.9",
+          "duration": "12:17"
+        },
+        {
+          "order": 14,
+          "playlistIndex": 14,
+          "videoId": "x6iY2MVMzUk",
+          "title": "Numerical Problem 6.9, 6.10, 6.11, 6.12",
+          "duration": "12:54"
+        }
+      ],
+      "videoCount": 14,
+      "playlistId": "PLI-NxcTUPiPyFOAohX4uRnV1mjxMmn1Dv"
+    },
+    {
+      "id": "ch7",
+      "number": 7,
+      "title": "Thermal Properties of Matter",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "txqEYWKT_Q0",
+          "title": "Kinetic Molecular Theory of Matter",
+          "duration": "14:10"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "9VV8qPHOatA",
+          "title": "Temperature and Heat",
+          "duration": "9:34"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "GNugBeNVsVM",
+          "title": "Thermometer",
+          "duration": "14:56"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "RFsO61BvENs",
+          "title": "Thermometer (7.3), Temperature Scales",
+          "duration": "11:52"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "nCv9T4cCkBw",
+          "title": "Thermometers (7.3), Thermocouple Thermometer",
+          "duration": "8:22"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "63l385KCcgQ",
+          "title": "Sensitivity, Range and Linearity of Thermometer (7.4)",
+          "duration": "8:00"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "_XcMnGiS8eA",
+          "title": "Structure of a Liquid in Glass Thermometer (7.5)",
+          "duration": "6:10"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "Koc0KY_zaRQ",
+          "title": "Numerical Problems",
+          "duration": "14:16"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "Pxaw1SOPu68",
+          "title": "Exercise",
+          "duration": "10:36"
+        }
+      ],
+      "videoCount": 9,
+      "playlistId": "PLI-NxcTUPiPz-lgEGADCp4XEnG89XSweh"
+    },
+    {
+      "id": "ch8",
+      "number": 8,
+      "title": "Magnetism",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "FZ8Tf5AhpIQ",
+          "title": "Magnetic Materials, Properties of Magnets",
+          "duration": "13:44"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "wCUfa0LvAEM",
+          "title": "Induced Magnetism, Temporary and Permanent Magnet",
+          "duration": "8:01"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "wns66nUcG90",
+          "title": "Magnetic Fields",
+          "duration": "13:51"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "XsvLbYbZCOc",
+          "title": "Use of Permanent Magnets",
+          "duration": "6:35"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "HPCEnKAzf0w",
+          "title": "Electromagnets",
+          "duration": "11:40"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "SvTMN_0Xx4Q",
+          "title": "Domain Theory of Magnetism",
+          "duration": "5:56"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "A5fPaprJS_k",
+          "title": "Magnetisation and Demagnetisation (8.9)",
+          "duration": "14:43"
+        },
+        {
+          "order": 8,
+          "playlistIndex": 8,
+          "videoId": "pV8k5ByfIpM",
+          "title": "Application of Magnets in Recording Tech, Magnetic Tape Recording",
+          "duration": "5:27"
+        },
+        {
+          "order": 9,
+          "playlistIndex": 9,
+          "videoId": "03eMV9-7Sas",
+          "title": "Application of Magnets in Recording Tech, Hard Disk Recording",
+          "duration": "6:08"
+        },
+        {
+          "order": 10,
+          "playlistIndex": 10,
+          "videoId": "d-72mjh0T0E",
+          "title": "Soft as Magnetic Shield",
+          "duration": "9:06"
+        },
+        {
+          "order": 11,
+          "playlistIndex": 11,
+          "videoId": "41mLHVol-d0",
+          "title": "Exercise",
+          "duration": "11:34"
+        }
+      ],
+      "videoCount": 11,
+      "playlistId": "PLI-NxcTUPiPwsxcOyrqRzbzpkL8XYjYQK"
+    },
+    {
+      "id": "ch9",
+      "number": 9,
+      "title": "Nature of Science",
+      "videos": [
+        {
+          "order": 1,
+          "playlistIndex": 1,
+          "videoId": "1ImDWfqe9XQ",
+          "title": "Scope of Physics",
+          "duration": "10:25"
+        },
+        {
+          "order": 2,
+          "playlistIndex": 2,
+          "videoId": "x3_oIiyC_pI",
+          "title": "Branches of Physics",
+          "duration": "11:42"
+        },
+        {
+          "order": 3,
+          "playlistIndex": 3,
+          "videoId": "cRfjmkA1YYk",
+          "title": "Interdisciplinary Nature of Physics",
+          "duration": "12:21"
+        },
+        {
+          "order": 4,
+          "playlistIndex": 4,
+          "videoId": "hKfuH5o9CRg",
+          "title": "Interdisciplinary Research",
+          "duration": "7:53"
+        },
+        {
+          "order": 5,
+          "playlistIndex": 5,
+          "videoId": "LJHZ6aueJKs",
+          "title": "Scientific Method",
+          "duration": "11:51"
+        },
+        {
+          "order": 6,
+          "playlistIndex": 6,
+          "videoId": "DqtPN5zCiRU",
+          "title": "Scientific Basis of Technologies And Engineering",
+          "duration": "8:17"
+        },
+        {
+          "order": 7,
+          "playlistIndex": 7,
+          "videoId": "UPuMViGhcJ4",
+          "title": "Exercise",
+          "duration": "10:56"
+        }
+      ],
+      "videoCount": 7,
+      "playlistId": "PLI-NxcTUPiPxlBBruJWeywO0QiG2JywbH"
+    }
+  ]
 }
