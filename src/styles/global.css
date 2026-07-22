@@ -27,6 +27,9 @@
   --color-secondary: #9e9eb8;
   --color-muted: #6b6b85;
   --header-bg: #0d0d14;
+  --overlay: rgba(0,0,0,0.7);
+  --blur-sm: 4px;
+  --blur-md: 12px;
 }
 
 * {

@@ -23,7 +23,7 @@ const { title, subtitle, colors, backUrl, canonical, showPWA, noHeader, breadcru
 const accentColor = colors?.accent || '#8cb4ff';
 const siteName = 'Class 9 · Punjab Curriculum';
 const siteUrl = 'https://class9hub.com';
-const defaultDesc = 'Free study lectures for 9th grade Punjab board students — Mathematics, Physics, Chemistry, Computer, Urdu.';
+const defaultDesc = 'Free study lectures for 9th grade Punjab board students — Mathematics, Physics, Chemistry, Computer, Urdu, Biology, English.';
 const desc = Astro.props.desc || defaultDesc;
 const ogImage = siteUrl + '/apple-touch-icon.png';
 ---
@@ -144,7 +144,7 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
   </head>
   <body class="min-h-screen flex flex-col" style="background: var(--page);">
     {!noHeader && (
-    <header class="sticky top-0 z-40 animate-fade-in" style="background: var(--header-bg); border-bottom: 1px solid var(--card-border); backdrop-filter: blur(12px);">
+    <header class="sticky top-0 z-40 animate-fade-in" style="background: var(--header-bg); border-bottom: 1px solid var(--card-border); backdrop-filter: blur(var(--blur-md));">
       <div class="flex items-center gap-3 px-4 h-[70px] sm:h-20 max-w-4xl mx-auto">
         {backUrl ? (
           <a href={backUrl} class="flex items-center justify-center w-10 h-10 -ml-1 rounded-xl active:opacity-50 flex-shrink-0" style="color: var(--color-muted);" aria-label="Back">

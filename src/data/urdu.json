@@ -9,43 +9,31 @@
       "title": "Hamd",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "YXyeo5qWT6U",
           "title": "Tashreeh Part 1",
           "duration": "13:03"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "V4PhxgnfbeQ",
           "title": "Tashreeh Part 2",
           "duration": "15:16"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "GRXpCLfBmKQ",
           "title": "Tashreeh Part 3",
           "duration": "15:34"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "OBF_6qW_WmQ",
           "title": "Exercise (Mashk)",
           "duration": "11:47"
         },
         {
-          "order": 5,
-          "playlistIndex": 5,
           "videoId": "FpyINo11YOY",
           "title": "Khulasa",
           "duration": "2:57"
         },
         {
-          "order": 6,
-          "playlistIndex": 6,
           "videoId": "Q9-TZdKeV2M",
           "title": "Markazi Khayal",
           "duration": "3:46"
@@ -60,43 +48,31 @@
       "title": "Naat",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "o651iy3HtNc",
           "title": "Tashreeh (Part 1)",
           "duration": "10:15"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "JSCSDDgQHQo",
           "title": "Tashreeh (Part 2)",
           "duration": "9:42"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "OojjsaWJDhU",
           "title": "Tashreeh (Part 3)",
           "duration": "14:15"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "gIM_tjHIigM",
           "title": "Mashaq",
           "duration": "16:10"
         },
         {
-          "order": 5,
-          "playlistIndex": 5,
           "videoId": "B6Zll83Jms4",
           "title": "Markazi Khayal",
           "duration": "7:54"
         },
         {
-          "order": 6,
-          "playlistIndex": 6,
           "videoId": "r5o45ew9wyU",
           "title": "Khulasa",
           "duration": "3:03"
@@ -111,29 +87,21 @@
       "title": "Ikhlaq-e-Hasanah",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "fZonmPP-J-g",
           "title": "Aham Nakat, Musannif ka Taruf",
           "duration": "10:53"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "BdPrX8ePBPI",
           "title": "Sabaq ka Khulasa",
           "duration": "6:42"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "v2IRPHZKOwc",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "11:48"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "p-oXUxZnliA",
           "title": "Mashqi Sawalat",
           "duration": "15:33"
@@ -148,22 +116,16 @@
       "title": "Apni Madad Aap",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "GlF9q6L4QJw",
           "title": "Aham Nakat & Khulasa",
           "duration": "10:08"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "eg32YaxCjSM",
           "title": "Mashaq",
           "duration": "17:58"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "oKqn98Qnc6o",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "8:47"
@@ -178,22 +140,16 @@
       "title": "Kaleem aur Mirza Zahir Dar Baig",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "Dp4oe5NtIik",
           "title": "Aham Nakat, Sabaq ka Khulasa",
           "duration": "16:10"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "dhGmU9OZoPE",
           "title": "Mashaq",
           "duration": "10:42"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "CEHAYU-2h7A",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "6:47"
@@ -208,22 +164,16 @@
       "title": "Naam Dev Maali",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "q1Rj3bv2HQw",
           "title": "Overview",
           "duration": "13:06"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "i52bHOguXPE",
           "title": "Mashaq",
           "duration": "11:41"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "VP5KFlKifQs",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "7:12"
@@ -238,22 +188,16 @@
       "title": "Aram-o-Sakoon",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "TTZa2s0_8js",
           "title": "Aham Nakat",
           "duration": "13:28"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "puIyjzlfvLA",
           "title": "Mashaq",
           "duration": "10:24"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "qNs8d-6YOSM",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "6:35"
@@ -268,22 +212,16 @@
       "title": "Katbah",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "kN7ILjtP78g",
           "title": "Aham Nakat & Khulasa",
           "duration": "14:31"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "TpIF6skW1hk",
           "title": "Mashaq",
           "duration": "16:06"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "lBIZKD7Q03E",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "7:31"
@@ -298,22 +236,16 @@
       "title": "Ibtadai Hisaab",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "wBxFS_JCOgU",
           "title": "Aham Nakat & Khulasa",
           "duration": "20:07"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "km5U3A3ahYw",
           "title": "Mashaq",
           "duration": "18:07"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "74yfqjkHhFY",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "4:46"
@@ -328,22 +260,16 @@
       "title": "Lari Mein Peroy Huwe Manzar",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "3X7uIolTlYA",
           "title": "Aham Nakat & Khulasa",
           "duration": "7:39"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "0zt8JO1aSXk",
           "title": "Mashaq",
           "duration": "11:14"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "YE6xajUrILc",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "4:06"
@@ -358,22 +284,16 @@
       "title": "Bheriya",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "dNMe2wLDbrE",
           "title": "Aham Nakat & Khulasa",
           "duration": "5:36"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "WcLEaafkogw",
           "title": "Mashaq",
           "duration": "8:29"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "ySd1GsZXkrg",
           "title": "Iqtibaas ki Tashreeh",
           "duration": "6:07"
@@ -388,22 +308,16 @@
       "title": "Mehnat ki Barkaat",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "zcXrJBUWi9I",
           "title": "Tashreeh",
           "duration": "9:49"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "uKISXjHEHME",
           "title": "Markazi Khayal, Khulasa",
           "duration": "11:49"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "vOYRIi69hmc",
           "title": "Mashaq",
           "duration": "5:34"
@@ -418,29 +332,21 @@
       "title": "Nazam Javed ke Naam",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "ixQiU18pWgc",
           "title": "Alfaaz Maani",
           "duration": "13:51"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "u2ahlj86Vdo",
           "title": "Tashreeh",
           "duration": "15:34"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "Tp0AsfPLFwM",
           "title": "Markazi Khayal, Khulasa",
           "duration": "16:20"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "oznnD_SIuM8",
           "title": "Mashaq",
           "duration": "6:35"
@@ -455,29 +361,21 @@
       "title": "Nazam Payam e Latif",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "d4iCZ_l3OeU",
           "title": "Alfaaz Maani",
           "duration": "3:36"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "h91Pw3GSeh4",
           "title": "Tashreeh",
           "duration": "20:54"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "I3-rEMcYEeg",
           "title": "Markazi Khayal, Khulasa",
           "duration": "11:26"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "Fqo9tTzK31g",
           "title": "Mashaq",
           "duration": "19:28"
@@ -492,36 +390,26 @@
       "title": "Nazam Cricket aur Mushaira",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "iYCZEu-KORA",
           "title": "Alfaaz Maani",
           "duration": "11:57"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "_ess-2xnPIc",
           "title": "Markazi Khayal, Khulasa",
           "duration": "8:21"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "WPXskvdJru0",
           "title": "Tashreeh Part 1",
           "duration": "13:54"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "5v3d5kBBzBI",
           "title": "Tashreeh Part 2",
           "duration": "29:31"
         },
         {
-          "order": 5,
-          "playlistIndex": 5,
           "videoId": "ZlZzPNlM_d0",
           "title": "Mashaq",
           "duration": "16:13"
@@ -536,29 +424,21 @@
       "title": "Ghazal Faqirana aae sada kar chale",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "mqfqj5t5bpI",
           "title": "Alfaaz Maani",
           "duration": "8:30"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "9WKPqrEEjKc",
           "title": "Tashreeh Part 1",
           "duration": "17:55"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "oiFdQ9pwcQo",
           "title": "Tashreeh Part 2",
           "duration": "22:36"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "GOlgZOptp4Q",
           "title": "Mashaq",
           "duration": "17:21"
@@ -573,29 +453,21 @@
       "title": "Ghazal Sun To Sahi Jahaan Mein Hai Tera Fasana",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "v_tChR8w4kc",
           "title": "Alfaaz Maani",
           "duration": "9:21"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "zjGEYjdj-s4",
           "title": "Tashreeh Part 1",
           "duration": "17:27"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "sl7znzkWuPk",
           "title": "Tashreeh Part 2",
           "duration": "18:56"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "L6ulcK03RQw",
           "title": "Mashaq",
           "duration": "16:24"
@@ -610,29 +482,21 @@
       "title": "Ghazal Gham Hai Ya Khushi Hai Tu",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "HCFUeQvN0JI",
           "title": "Alfaaz Maani",
           "duration": "7:45"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "YSTp3WF9KJU",
           "title": "Tashreeh Part 1",
           "duration": "22:42"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "b7o2d6kQRGY",
           "title": "Tashreeh Part 2",
           "duration": "22:24"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "f-7goI0UyNc",
           "title": "Mashaq",
           "duration": "12:18"
@@ -647,29 +511,21 @@
       "title": "Ghazal Kash Taufaan Mein Safeene Ko Utara Hota",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "cn8lnE9NNho",
           "title": "Alfaaz Maani",
           "duration": "8:49"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "a7ZblinwUn4",
           "title": "Tashreeh Part 1",
           "duration": "16:09"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "IQCLzfsY6cc",
           "title": "Tashreeh Part 2",
           "duration": "13:53"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "qmzTQWmS3Mw",
           "title": "Mashaq",
           "duration": "13:49"

@@ -89,7 +89,7 @@ const initialResults = q
           type="text"
           name="q"
           value={q}
-          placeholder="Search lectures..."
+          placeholder="Search lectures..." data-lang="searchPlaceholder"
           autofocus
           class="w-full h-12 pl-11 pr-4 rounded-xl border text-[15px] outline-none transition-all"
           style="background: var(--surface); border-color: var(--hairline); color: var(--text);"
@@ -101,13 +101,13 @@ const initialResults = q
     <div id="results">
       {q && initialResults.length === 0 && (
         <div class="text-center py-12">
-          <p class="text-[15px]" style="color: var(--text-muted);">No lectures found for "{q}"</p>
-          <p class="text-[13px] mt-1" style="color: var(--text-muted);">Try different keywords like "kinematics", "logarithms", "poetry"</p>
+          <p class="text-[15px]" style="color: var(--text-muted);"><span data-lang="noResults">No lectures found for</span> "{q}"</p>
+          <p class="text-[13px] mt-1" style="color: var(--text-muted);" data-lang="tryDiff">Try different keywords like "kinematics", "logarithms", "poetry"</p>
         </div>
       )}
       {initialResults.length > 0 && (
         <>
-          <p class="text-[13px] mb-3" style="color: var(--text-muted);">{initialResults.length} lecture{initialResults.length !== 1 ? 's' : ''} found</p>
+          <p class="text-[13px] mb-3" style="color: var(--text-muted);">{initialResults.length} <span data-lang="lecturesFound">lecture(s) found</span></p>
           <div class="flex flex-col gap-2">
             {initialResults.map(v => (
               <a href={v.url} class="flex items-center gap-3 p-3 rounded-xl transition-colors active:scale-[0.98]" style="background: var(--card); border: 1px solid var(--card-border);">
@@ -128,7 +128,7 @@ const initialResults = q
       )}
       {!q && (
         <div class="text-center py-12">
-          <p class="text-[15px]" style="color: var(--text-muted);">Search across {allVideos.length} lectures from {subjects.length} subjects</p>
+          <p class="text-[15px]" style="color: var(--text-muted);"><span data-lang="searchAll">Search across {allVideos.length} lectures from {subjects.length} subjects</span></p>
         </div>
       )}
     </div>
@@ -159,7 +159,7 @@ const initialResults = q
         }).slice(0, 50);
 
         if (filtered.length === 0) {
-          results.innerHTML = `<div class="text-center py-12"><p class="text-[15px]" style="color: var(--text-muted);">No lectures found for "${query}"</p><p class="text-[13px] mt-1" style="color: var(--text-muted);">Try different keywords like "kinematics", "logarithms", "poetry"</p></div>`;
+          results.innerHTML = `<div class="text-center py-12"><p class="text-[15px]" style="color: var(--text-muted);">No lectures found for "${escHtml(query)}"</p><p class="text-[13px] mt-1" style="color: var(--text-muted);">Try different keywords like "kinematics", "logarithms", "poetry"</p></div>`;
           return;
         }
 

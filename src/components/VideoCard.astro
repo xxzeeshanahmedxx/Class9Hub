@@ -18,7 +18,7 @@ const { videoId, title, subtitle, duration, thumb = `https://i.ytimg.com/vi/${vi
   >
     <img src={thumb} alt={title} class="absolute inset-0 w-full h-full object-cover" loading="lazy" decoding="async" />
     {duration && (
-      <span class="absolute bottom-2 right-2 text-[11px] font-medium px-1.5 py-0.5 rounded-md" style="background: rgba(0,0,0,0.7); color: var(--color-title); backdrop-filter: blur(4px);">
+      <span class="absolute bottom-2 right-2 text-[11px] font-medium px-1.5 py-0.5 rounded-md" style="background: var(--overlay); color: var(--color-title); backdrop-filter: blur(var(--blur-sm));">
         {duration}
       </span>
     )}

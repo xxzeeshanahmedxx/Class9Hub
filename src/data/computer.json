@@ -9,119 +9,87 @@
       "title": "Computer Systems & Logic",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 1,
           "videoId": "rGAwX1ILkjs",
           "title": "Review",
           "duration": "3:29"
         },
         {
-          "order": 2,
-          "playlistIndex": 2,
           "videoId": "XF6CAK3IpZ8",
           "title": "Theory of systems",
           "subtitle": "Objectives and components",
           "duration": "8:57"
         },
         {
-          "order": 3,
-          "playlistIndex": 3,
           "videoId": "tYrx3u5KXBc",
           "title": "Environment and communication of a system",
           "duration": "6:35"
         },
         {
-          "order": 4,
-          "playlistIndex": 4,
           "videoId": "Nj7htqzbFTQ",
           "title": "Software",
           "duration": "10:11"
         },
         {
-          "order": 5,
-          "playlistIndex": 5,
           "videoId": "5QOo1xv1nBA",
           "title": "Architecture of Von Neumann computers",
           "duration": "6:45"
         },
         {
-          "order": 6,
-          "playlistIndex": 6,
           "videoId": "FrmRnRNRdRQ",
           "title": "Working of Von Neumann architecture",
           "duration": "11:53"
         },
         {
-          "order": 7,
-          "playlistIndex": 7,
           "videoId": "oC1WqV5sWFQ",
           "title": "Number systems",
           "subtitle": "Number system conversions",
           "duration": "14:59"
         },
         {
-          "order": 8,
-          "playlistIndex": 8,
           "videoId": "7L5dX98izc0",
           "title": "Data representation in computer",
           "subtitle": "Whole numbers and integers",
           "duration": "15:30"
         },
         {
-          "order": 9,
-          "playlistIndex": 9,
           "videoId": "CuYqJnG3TLQ",
           "title": "Binary arithmetic operations",
           "duration": "12:28"
         },
         {
-          "order": 10,
-          "playlistIndex": 10,
           "videoId": "0_OU_Bk695U",
           "title": "Common text encoding schemes",
           "subtitle": "ASCII Unicode",
           "duration": "11:55"
         },
         {
-          "order": 11,
-          "playlistIndex": 11,
           "videoId": "T4FgO87QrmU",
           "title": "Digital systems and logic design",
           "subtitle": "ADC Â· DAC",
           "duration": "9:49"
         },
         {
-          "order": 12,
-          "playlistIndex": 12,
           "videoId": "AKszCxdNfgE",
           "title": "Boolean algebra and logic gates",
           "duration": "11:00"
         },
         {
-          "order": 13,
-          "playlistIndex": 13,
           "videoId": "lta4iqQZxjc",
           "title": "Construction of Boolean functions",
           "duration": "9:08"
         },
         {
-          "order": 14,
-          "playlistIndex": 14,
           "videoId": "Lbxo6jY4zQA",
           "title": "Logic gates and their functions",
           "duration": "8:52"
         },
         {
-          "order": 15,
-          "playlistIndex": 15,
           "videoId": "PvBRyO0TbCE",
           "title": "Simplification of Boolean functions",
           "subtitle": "Boolean algebra rules",
           "duration": "12:00"
         },
         {
-          "order": 16,
-          "playlistIndex": 16,
           "videoId": "jEeKW4ZkXM0",
           "title": "Creating logic diagrams",
           "subtitle": "Half adder Â· Full adder",
@@ -137,38 +105,28 @@
       "title": "Troubleshooting & Security",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 17,
           "videoId": "wUzGjhhQPg4",
           "title": "System troubleshooting",
           "subtitle": "Systematic process of troubleshooting",
           "duration": "13:23"
         },
         {
-          "order": 2,
-          "playlistIndex": 18,
           "videoId": "CdsxHO6riow",
           "title": "Importance of troubleshooting in computer system",
           "duration": "13:55"
         },
         {
-          "order": 3,
-          "playlistIndex": 19,
           "videoId": "PclpxOWEQGM",
           "title": "Basic hardware related issues",
           "subtitle": "Troubleshooting strategies",
           "duration": "5:59"
         },
         {
-          "order": 4,
-          "playlistIndex": 20,
           "videoId": "rHMXtCm694A",
           "title": "Hardware diagnosis and maintenance",
           "duration": "6:30"
         },
         {
-          "order": 5,
-          "playlistIndex": 21,
           "videoId": "80iGWtzAEKQ",
           "title": "Security and maintenance",
           "duration": "8:50"
@@ -183,78 +141,56 @@
       "title": "Computer Networks",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 22,
           "videoId": "7YPrjhrnTN4",
           "title": "Network as a system",
           "duration": "8:21"
         },
         {
-          "order": 2,
-          "playlistIndex": 23,
           "videoId": "uYlSHbK3QA8",
           "title": "Fundamental concepts of data communication",
           "duration": "3:38"
         },
         {
-          "order": 3,
-          "playlistIndex": 24,
           "videoId": "27vxeFdHNJo",
           "title": "Networking devices",
           "duration": "11:41"
         },
         {
-          "order": 4,
-          "playlistIndex": 25,
           "videoId": "edSLUi9DA9g",
           "title": "Network topologies",
           "duration": "10:06"
         },
         {
-          "order": 5,
-          "playlistIndex": 26,
           "videoId": "65JZSGi8v-4",
           "title": "Transmission modes",
           "duration": "3:45"
         },
         {
-          "order": 6,
-          "playlistIndex": 27,
           "videoId": "nKh7ZJH_A8M",
           "title": "The OSI Networking model",
           "duration": "14:10"
         },
         {
-          "order": 7,
-          "playlistIndex": 28,
           "videoId": "IZH3Mzfhtsk",
           "title": "IPv4 and IPv6",
           "duration": "6:10"
         },
         {
-          "order": 8,
-          "playlistIndex": 29,
           "videoId": "jt8FaAqaDas",
           "title": "Network Protocols",
           "duration": "4:06"
         },
         {
-          "order": 9,
-          "playlistIndex": 30,
           "videoId": "B6Hp3qaqUvU",
           "title": "Network security",
           "duration": "8:23"
         },
         {
-          "order": 10,
-          "playlistIndex": 31,
           "videoId": "0UBqS-frvfg",
           "title": "Types of networks",
           "duration": "4:30"
         },
         {
-          "order": 11,
-          "playlistIndex": 32,
           "videoId": "PYXuazO7DIo",
           "title": "Real world Applications of Computer Networks",
           "duration": "4:34"
@@ -269,52 +205,38 @@
       "title": "Computational Thinking",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 33,
           "videoId": "mTW2EIVDJoQ",
           "title": "Computational thinking",
           "duration": "13:21"
         },
         {
-          "order": 2,
-          "playlistIndex": 34,
           "videoId": "UqVs71maRVo",
           "title": "Principles of computational thinking",
           "duration": "5:59"
         },
         {
-          "order": 3,
-          "playlistIndex": 35,
           "videoId": "Aa3R7z4kIlU",
           "title": "Algorithm design methods",
           "subtitle": "Flowchart explained",
           "duration": "17:21"
         },
         {
-          "order": 4,
-          "playlistIndex": 36,
           "videoId": "a5GMKHd0qpc",
           "title": "Pseudocode",
           "duration": "13:59"
         },
         {
-          "order": 5,
-          "playlistIndex": 37,
           "videoId": "wMlfmN7Mpgk",
           "title": "Evaluation techniques for an algorithm",
           "subtitle": "Time complexity space complexity",
           "duration": "12:19"
         },
         {
-          "order": 6,
-          "playlistIndex": 38,
           "videoId": "LazNy2GqD18",
           "title": "Dry run of flowchart and pseudocode",
           "duration": "10:55"
         },
         {
-          "order": 7,
-          "playlistIndex": 39,
           "videoId": "wFrSvmRas5s",
           "title": "Simulations",
           "duration": "11:33"
@@ -329,85 +251,63 @@
       "title": "Web Development",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 41,
           "videoId": "k2yK5zx7PII",
           "title": "Web development",
           "duration": "8:19"
         },
         {
-          "order": 2,
-          "playlistIndex": 42,
           "videoId": "BtwODkS8J5E",
           "title": "Basic components of web development",
           "subtitle": "Front-end back-end full-stack",
           "duration": "8:56"
         },
         {
-          "order": 3,
-          "playlistIndex": 43,
           "videoId": "6okGACBWajA",
           "title": "Getting Started with HTML",
           "subtitle": "HTML basic structure Â· HTML Tags",
           "duration": "10:50"
         },
         {
-          "order": 4,
-          "playlistIndex": 44,
           "videoId": "GJBcC_S0WnY",
           "title": "Creating content with HTML",
           "subtitle": "List table comments",
           "duration": "10:12"
         },
         {
-          "order": 5,
-          "playlistIndex": 45,
           "videoId": "YOplUgTIdkA",
           "title": "Creating layouts and organizing content",
           "subtitle": "Divs and sections Â· Grids",
           "duration": "26:24"
         },
         {
-          "order": 6,
-          "playlistIndex": 46,
           "videoId": "S_huurIPnr0",
           "title": "Creating content with HTML",
           "subtitle": "Headings paragraphs links images",
           "duration": "11:56"
         },
         {
-          "order": 7,
-          "playlistIndex": 47,
           "videoId": "yV5iibr2uTg",
           "title": "Styling with CSS",
           "subtitle": "Basic structure of CSS",
           "duration": "12:24"
         },
         {
-          "order": 8,
-          "playlistIndex": 48,
           "videoId": "yftH9vnOK_Y",
           "title": "Integrating CSS in HTML",
           "subtitle": "Inline styles internal styles external styles",
           "duration": "10:46"
         },
         {
-          "order": 9,
-          "playlistIndex": 49,
           "videoId": "TpoXhURXvps",
           "title": "Styling HTML elements with fonts colors background styling fonts",
           "duration": "10:29"
         },
         {
-          "order": 10,
-          "playlistIndex": 50,
           "videoId": "NzIqYrqzwv8",
           "title": "Introduction to JavaScript",
           "duration": "13:34"
         },
         {
-          "order": 11,
-          "playlistIndex": 52,
           "videoId": "GbpI3mBLvJU",
           "title": "Functions in JavaScript",
           "duration": "10:22"
@@ -422,44 +322,32 @@
       "title": "Data Science",
       "videos": [
         {
-          "order": 1,
-          "playlistIndex": 53,
           "videoId": "TFea2Ndej54",
           "title": "Data & Data types",
           "subtitle": "Qualitative data Â· Quantitative data",
           "duration": "15:41"
         },
         {
-          "order": 2,
-          "playlistIndex": 54,
           "videoId": "2txygtPfv8A",
           "title": "Data types and data visualization",
           "duration": "5:32"
         },
         {
-          "order": 3,
-          "playlistIndex": 55,
           "videoId": "ytn14lyyPtA",
           "title": "Introduction to data science",
           "duration": "11:45"
         },
         {
-          "order": 4,
-          "playlistIndex": 56,
           "videoId": "v7duRvbHd6A",
           "title": "Cloud storage and data backups",
           "duration": "11:44"
         },
         {
-          "order": 5,
-          "playlistIndex": 57,
           "videoId": "Tz4evnHO4cs",
           "title": "Organizing and analysing data",
           "duration": "13:58"
         },
         {
-          "order": 6,
-          "playlistIndex": 58,
           "videoId": "hMLM8qu-O9I",
           "title": "Data pre-processing and analysis",
           "duration": "14:50"
