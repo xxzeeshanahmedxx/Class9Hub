@@ -8,11 +8,13 @@ import physicsData from '../../../data/physics.json';
 import chemistryData from '../../../data/chemistry.json';
 import urduData from '../../../data/urdu.json';
 import computerData from '../../../data/computer.json';
+import biologyData from '../../../data/biology.json';
+import englishData from '../../../data/english.json';
 
 export async function getStaticPaths() {
   const dataMap = {
     math: mathData, physics: physicsData, chemistry: chemistryData,
-    urdu: urduData, computer: computerData,
+    urdu: urduData, computer: computerData, biology: biologyData, english: englishData,
   };
   const paths = [];
   for (const s of subjects) {

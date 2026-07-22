@@ -2,6 +2,7 @@
 import { ClientRouter } from 'astro:transitions';
 import '../styles/global.css';
 import ThemeStyles from '../components/ThemeStyles.astro';
+import i18n from '../data/i18n.json';
 
 export interface Props {
   title: string;
@@ -156,8 +157,12 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
         )}
         <div class="min-w-0 flex-1">
           <h1 class="text-[18px] sm:text-[20px] font-semibold truncate leading-tight" style="color: #e8e8f0;">{title}</h1>
-          {subtitle && <p class="text-[13px] sm:text-[14px] leading-tight truncate" style="color: #9e9eb8;">{subtitle}</p>}
+          {subtitle && <p class="text-[13px] sm:text-[14px] leading-tight truncate" style="color: #9e9eb8;" data-lang="selectChapter">{subtitle}</p>}
         </div>
+        <a href="/search/" class="flex items-center justify-center w-10 h-10 rounded-xl active:opacity-50 flex-shrink-0" style="color: #6b6b85;" aria-label="Search lectures">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        </a>
+        <button id="lang-toggle" class="flex items-center justify-center w-10 h-10 rounded-xl active:opacity-50 flex-shrink-0 text-[12px] font-bold" style="color: #6b6b85;" aria-label="Toggle language">EN</button>
       </div>
     </header>
     )}
@@ -182,10 +187,10 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
       <div class="flex items-center gap-3 px-4 py-3 max-w-4xl mx-auto">
         <div class="w-9 h-9 rounded-xl flex items-center justify-center flex-shrink-0 gradient-brand text-white text-[13px] font-bold">9</div>
         <div class="min-w-0 flex-1">
-          <div class="text-[13px] font-medium" style="color: var(--text);">Install App</div>
-          <div class="text-[11px]" style="color: var(--text-secondary);">Open lectures faster from your home screen</div>
+          <div class="text-[13px] font-medium" style="color: var(--text);" data-lang="installApp">Install App</div>
+          <div class="text-[11px]" style="color: var(--text-secondary);" data-lang="installDesc">Open lectures faster from your home screen</div>
         </div>
-        <button id="pwa-install" class="px-4 h-8 rounded-lg text-[12px] font-medium flex-shrink-0 gradient-brand text-white active:scale-95">Install</button>
+        <button id="pwa-install" class="px-4 h-8 rounded-lg text-[12px] font-medium flex-shrink-0 gradient-brand text-white active:scale-95" data-lang="install">Install</button>
         <button id="pwa-dismiss" class="w-7 h-7 flex items-center justify-center flex-shrink-0 active:opacity-50" style="color: var(--text-muted);" aria-label="Dismiss">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg>
         </button>
@@ -222,10 +227,49 @@ const ogImage = siteUrl + '/apple-touch-icon.png';
         });
       })();
     </script>
+    <script is:inline>
+      (function() {
+        var KEY = 'class9-lang';
+        var TOGGLE = document.getElementById('lang-toggle');
+        var I18N = null;
+        try { I18N = JSON.parse(document.getElementById('i18n-data').textContent); } catch(e) {}
+        if (!TOGGLE || !I18N) return;
+
+        function translate(lang) {
+          var tr = I18N[lang];
+          if (!tr) return;
+          document.querySelectorAll('[data-lang]').forEach(function(el) {
+            var key = el.getAttribute('data-lang');
+            if (tr[key]) el.textContent = tr[key];
+          });
+        }
+
+        function applyLang(lang) {
+          var isUr = lang === 'ur';
+          document.documentElement.lang = lang;
+          document.documentElement.dir = isUr ? 'rtl' : 'ltr';
+          TOGGLE.textContent = isUr ? 'UR' : 'EN';
+          localStorage.setItem(KEY, lang);
+          document.documentElement.classList.toggle('urdu', isUr);
+          translate(lang);
+        }
+        var saved = localStorage.getItem(KEY);
+        if (saved === 'ur') applyLang('ur');
+        TOGGLE.addEventListener('click', function() {
+          var current = document.documentElement.lang;
+          applyLang(current === 'ur' ? 'en' : 'ur');
+        });
+      })();
+    </script>
+    <script type="application/json" id="i18n-data">{JSON.stringify(i18n)}</script>
+    <style is:global>
+      html.urdu { direction: rtl; }
+      html.urdu .gradient-brand { background: linear-gradient(135deg, #a78bfa, #8cb4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+    </style>
 
     <footer class={`text-center text-[11px] leading-relaxed py-4 px-4 space-y-0.5${showPWA ? ' pb-20' : ''}`} style="color: var(--text-secondary);">
-      <p>Lectures belong to their respective teachers.</p>
-      <p>Made by Zeeshan Ahmed · <a href="https://class9hub.com" class="underline underline-offset-2 hover:opacity-80" style="color: var(--text-secondary);">Class 9 Hub</a></p>
+      <p data-lang="footer">Lectures belong to their respective teachers.</p>
+      <p><span data-lang="footerMade">Made by Zeeshan Ahmed</span> · <a href="https://class9hub.com" class="underline underline-offset-2 hover:opacity-80" style="color: var(--text-secondary);">Class 9 Hub</a></p>
     </footer>
     <script>
       import PlayerOverlay from '../components/PlayerOverlay.js';

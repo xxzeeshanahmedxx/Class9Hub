@@ -7,10 +7,12 @@ import physicsData from '../../data/physics.json';
 import chemistryData from '../../data/chemistry.json';
 import urduData from '../../data/urdu.json';
 import computerData from '../../data/computer.json';
+import biologyData from '../../data/biology.json';
+import englishData from '../../data/english.json';
 
 const dataMap = {
   math: mathData, physics: physicsData, chemistry: chemistryData,
-  urdu: urduData, computer: computerData,
+  urdu: urduData, computer: computerData, biology: biologyData, english: englishData,
 };
 
 export async function getStaticPaths() {
@@ -41,6 +43,8 @@ const subjLines = {
   chemistry: `Chemistry Class 9 – Free online video lectures for Punjab Board 2026. Course covering structure of atom, chemical bonding, formulae and equations, energetics, equilibrium, acids and bases, periodic table, group properties, hydrocarbons and environmental chemistry.`,
   urdu: `Urdu Class 9 – Free online video lectures for Punjab Board 2026. Course covering hamd, naat, ikhlaq-e-hasanah, apni madad aap, nazam, ghazal, khatoot, tashreeh, grammar and essays.`,
   computer: `Computer Class 9 – Free online video lectures for Punjab Board 2026. Course covering computer systems and logic, troubleshooting and security, computer networks, computational thinking, web development and data science.`,
+  biology: `Biology Class 9 – Free online video lectures for Punjab Board 2026. Course covering the science of biology, solving a biological problem, biodiversity, cells and tissues, cell cycle, enzymes, bioenergetics, nutrition, transport and more.`,
+  english: `English Class 9 – Free online video lectures for Punjab Board 2026. Course covering prose, poetry, grammar, translation and comprehension.`,
 };
 const visibleLine = subjLines[subject.id] || `Free ${subject.title} class 9 lectures for Punjab Board 2026 new book – ${chapters.length} chapters. Watch full video course online.`;
 ---

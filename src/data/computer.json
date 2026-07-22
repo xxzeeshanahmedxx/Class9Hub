@@ -460,20 +460,9 @@
           "url": "https://www.youtube.com/watch?v=wFrSvmRas5s&list=PLqYMpw9p1cIofKjg7fFWvXy_ZyfdYawem",
           "thumb": "https://i.ytimg.com/vi/wFrSvmRas5s/hqdefault.jpg",
           "originalTitle": "Simulations | 9th computer chapter 4"
-        },
-        {
-          "order": 8,
-          "playlistIndex": 40,
-          "videoId": "OrS40aG8FD8",
-          "title": "Introduction to LARP",
-          "subtitle": "Types of errors in LARP",
-          "duration": "11:20",
-          "url": "https://www.youtube.com/watch?v=OrS40aG8FD8&list=PLqYMpw9p1cIofKjg7fFWvXy_ZyfdYawem",
-          "thumb": "https://i.ytimg.com/vi/OrS40aG8FD8/hqdefault.jpg",
-          "originalTitle": "Introduction to LARP | Types of errors in LARP"
         }
       ],
-      "videoCount": 8
+      "videoCount": 7
     },
     {
       "id": "ch5",
@@ -592,17 +581,6 @@
         },
         {
           "order": 11,
-          "playlistIndex": 51,
-          "videoId": "NRbSjiTPtw8",
-          "title": "Create website using ChatGPT in just 15 minutes",
-          "subtitle": "Website creation with AI",
-          "duration": "15:04",
-          "url": "https://www.youtube.com/watch?v=NRbSjiTPtw8&list=PLqYMpw9p1cIofKjg7fFWvXy_ZyfdYawem",
-          "thumb": "https://i.ytimg.com/vi/NRbSjiTPtw8/hqdefault.jpg",
-          "originalTitle": "Create website using chatgpt in just 15 minutes | website creation with ai"
-        },
-        {
-          "order": 12,
           "playlistIndex": 52,
           "videoId": "GbpI3mBLvJU",
           "title": "Functions in JavaScript",
@@ -613,7 +591,7 @@
           "originalTitle": "Functions in JavaScript | 9th computer new book 2026"
         }
       ],
-      "videoCount": 12
+      "videoCount": 11
     },
     {
       "id": "ch6",

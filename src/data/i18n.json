@@ -1,0 +1,52 @@
+{
+  "en": {
+    "siteName": "Class 9 · Punjab Curriculum",
+    "siteDesc": "Free study lectures for 9th grade Punjab board students — Mathematics, Physics, Chemistry, Computer, Urdu, Biology, English.",
+    "selectChapter": "Select a chapter",
+    "videos": "videos",
+    "sections": "sections",
+    "chapters": "chapters",
+    "search": "Search lectures...",
+    "home": "Home",
+    "back": "Back",
+    "installApp": "Install App",
+    "installDesc": "Open lectures faster from your home screen",
+    "install": "Install",
+    "footer": "Lectures belong to their respective teachers.",
+    "footerMade": "Made by Zeeshan Ahmed",
+    "subjects": {
+      "math": "Math",
+      "physics": "Physics",
+      "chemistry": "Chemistry",
+      "urdu": "Urdu",
+      "computer": "Computer",
+      "biology": "Biology",
+      "english": "English"
+    }
+  },
+  "ur": {
+    "siteName": "جماعت نہم · پنجاب نصاب",
+    "siteDesc": "جماعت نہم کے طلبہ کے لیے مفت اسباق — ریاضی، طبیعیات، کیمسٹری، کمپیوٹر، اردو، بائیولوجی، انگریزی",
+    "selectChapter": "باب منتخب کریں",
+    "videos": "ویڈیوز",
+    "sections": "سیکشنز",
+    "chapters": "ابواب",
+    "search": "اسباق تلاش کریں...",
+    "home": "صفحہ اول",
+    "back": "واپس",
+    "installApp": "ایپ انسٹال کریں",
+    "installDesc": "ہوم اسکرین سے تیزی سے اسباق دیکھیں",
+    "install": "انسٹال",
+    "footer": "اسباق متعلقہ اساتذہ کے ہیں۔",
+    "footerMade": "زیسان احمد نے بنایا",
+    "subjects": {
+      "math": "ریاضی",
+      "physics": "طبیعیات",
+      "chemistry": "کیمسٹری",
+      "urdu": "اردو",
+      "computer": "کمپیوٹر",
+      "biology": "بائیولوجی",
+      "english": "انگریزی"
+    }
+  }
+}

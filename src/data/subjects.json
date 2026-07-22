@@ -73,5 +73,35 @@
     "card2": "#1a1a28",
     "line": "#1e1e30",
     "soft": "#161624"
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "emoji": "BI",
+    "data": "biology.json",
+    "accent": "#4ade80",
+    "accent2": "#16a34a",
+    "bg": "#0a0a12",
+    "bg2": "#12121c",
+    "bg3": "#1a1a28",
+    "card": "#12121c",
+    "card2": "#1a1a28",
+    "line": "#1e1e30",
+    "soft": "#161624"
+  },
+  {
+    "id": "english",
+    "title": "English",
+    "emoji": "EN",
+    "data": "english.json",
+    "accent": "#fb923c",
+    "accent2": "#ea580c",
+    "bg": "#0a0a12",
+    "bg2": "#12121c",
+    "bg3": "#1a1a28",
+    "card": "#12121c",
+    "card2": "#1a1a28",
+    "line": "#1e1e30",
+    "soft": "#161624"
   }
 ]
