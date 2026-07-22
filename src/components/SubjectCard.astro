@@ -6,13 +6,14 @@ export interface Props {
   accent: string;
 }
 
-const { id, title, accent } = Astro.props;
+const { id, title, emoji, accent } = Astro.props;
 ---
 
 <a
   href={`/${id}/`}
   class="relative rounded-xl overflow-hidden aspect-square block active:scale-[0.95] touch-min"
   aria-label={title}
+  style="background: {accent}15;"
 >
   <img
     src={`/assets/${id}.webp`}
@@ -20,5 +21,7 @@ const { id, title, accent } = Astro.props;
     class="absolute inset-0 w-full h-full object-cover"
     loading="lazy"
     decoding="async"
+    onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
   />
+  <span class="absolute inset-0 items-center justify-center text-[32px] font-bold" style="display:none; color: {accent};">{emoji}</span>
 </a>
