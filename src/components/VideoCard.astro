@@ -4,10 +4,10 @@ export interface Props {
   title: string;
   subtitle?: string;
   duration?: string;
-  thumb: string;
+  thumb?: string;
 }
 
-const { videoId, title, subtitle, duration, thumb } = Astro.props;
+const { videoId, title, subtitle, duration, thumb = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` } = Astro.props;
 ---
 
 <div class="rounded-xl overflow-hidden" style="background: var(--card-bg);">
