@@ -4,12 +4,9 @@ export interface Props {
   title: string;
   videoCount: number;
   href: string;
-  colors: {
-    accent: string;
-  };
 }
 
-const { number, title, videoCount, href, colors } = Astro.props;
+const { number, title, videoCount, href } = Astro.props;
 ---
 
 <a

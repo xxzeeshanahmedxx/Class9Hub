@@ -5,12 +5,9 @@ export interface Props {
   count: number;
   countLabel: string;
   href: string;
-  colors: {
-    accent: string; soft: string;
-  };
 }
 
-const { number, title, count, countLabel, href, colors } = Astro.props;
+const { number, title, count, countLabel, href } = Astro.props;
 ---
 
 <a

@@ -71,7 +71,6 @@ const visibleLine = subjLines[subject.id] || `Free ${subject.title} class 9 lect
           count={(ch.sections || []).length}
           countLabel="sections"
           href={`/${subject.id}/${ch.id}/`}
-          colors={{ accent: subject.accent, soft: subject.soft }}
         />
       ) : (
         <ChapterRow
@@ -80,7 +79,6 @@ const visibleLine = subjLines[subject.id] || `Free ${subject.title} class 9 lect
           count={ch.videos ? ch.videos.length : 0}
           countLabel="videos"
           href={`/${subject.id}/${ch.id}/`}
-          colors={{ accent: subject.accent, soft: subject.soft }}
         />
       );
       return <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>{row}</div>;
