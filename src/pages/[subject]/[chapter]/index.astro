@@ -1,6 +1,6 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import SectionRow from '../../../components/SectionRow.astro';
+import ChapterRow from '../../../components/ChapterRow.astro';
 import VideoCard from '../../../components/VideoCard.astro';
 import subjects from '../../../data/subjects.json';
 import mathData from '../../../data/math.json';
@@ -91,10 +91,11 @@ const breadcrumbs = [
     <div class="flex flex-col gap-3">
       {(chapter.sections || []).map((sec, i) => (
         <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>
-          <SectionRow
+          <ChapterRow
             number={i + 1}
             title={sec.title}
-            videoCount={(sec.videos || []).length}
+            count={(sec.videos || []).length}
+            label="videos"
             href={`/${subject.id}/${chapter.id}/${sec.id}/`}
           />
         </div>
