@@ -1,24 +1,14 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import ChapterRow from '../../../components/ChapterRow.astro';
 import VideoCard from '../../../components/VideoCard.astro';
-import subjects from '../../../data/subjects.json';
-import mathData from '../../../data/math.json';
-import physicsData from '../../../data/physics.json';
-import chemistryData from '../../../data/chemistry.json';
-import urduData from '../../../data/urdu.json';
-import computerData from '../../../data/computer.json';
-import biologyData from '../../../data/biology.json';
-import englishData from '../../../data/english.json';
+import ChapterRow from '../../../components/ChapterRow.astro';
+import { subjects, getData } from '../../../lib/data';
+import { SITE_URL } from '../../../lib/constants';
 
 export async function getStaticPaths() {
-  const dataMap = {
-    math: mathData, physics: physicsData, chemistry: chemistryData,
-    urdu: urduData, computer: computerData, biology: biologyData, english: englishData,
-  };
   const paths = [];
   for (const s of subjects) {
-    const data = dataMap[s.id];
+    const data = getData(s.id);
     const chapters = data.chapters || [];
     for (const ch of chapters) {
       paths.push({
@@ -47,10 +37,9 @@ const isExercises = dataKind === 'exercises';
 const num = chapter.number || chapter.chapterNumber || '';
 const chTitle = chapter.title || '';
 const displayTitle = num ? `Chapter ${num}` : chTitle;
-const siteUrl = 'https://class9hub.com';
+const siteUrl = SITE_URL;
 const pageUrl = `${siteUrl}/${subject.id}/${chapter.id}/`;
 
-// Gather all videos for summary (from sections if exercises, else direct)
 const allVideos = isExercises
   ? (chapter.sections || []).flatMap(s => s.videos || [])
   : (chapter.videos || []);
@@ -77,26 +66,33 @@ const breadcrumbs = [
   title={`${subject.title} Class 9 ${displayTitle} – ${chTitle}`}
   subtitle={chTitle}
   desc={chapterDesc}
-  colors={subject}
+  accent={subject.accent}
   backUrl={`/${subject.id}/`}
   canonical={pageUrl}
   showPWA={true}
   breadcrumbs={breadcrumbs}
-  currentSubject={subject.id}
 >
   {topics.length > 0 && (
-    <p class="mb-5 text-[14px] leading-relaxed" style="color: var(--text-secondary);">{visibleLine}</p>
+    <p class="mb-5 font-body text-[14px] leading-relaxed" style="color: var(--text-secondary);">{visibleLine}</p>
   )}
   {isExercises ? (
     <div class="flex flex-col gap-3">
       {(chapter.sections || []).map((sec, i) => (
-        <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>
+        <div
+          class="animate-fade-in-up"
+          style={`animation-delay: ${i * 50}ms`}
+          data-subject={subject.id}
+          data-chapter={chapter.id}
+          data-chapter-id={sec.id}
+          data-accent={subject.accent}
+        >
           <ChapterRow
             number={i + 1}
             title={sec.title}
             count={(sec.videos || []).length}
             label="videos"
             href={`/${subject.id}/${chapter.id}/${sec.id}/`}
+            accent={subject.accent}
           />
         </div>
       ))}
@@ -104,17 +100,23 @@ const breadcrumbs = [
   ) : (
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {(chapter.videos || []).map((v, i) => (
-        <div class="animate-fade-in-up" style={`animation-delay: ${i * 50}ms`}>
+        <div
+          class="animate-fade-in-up"
+          style={`animation-delay: ${i * 50}ms`}
+          data-subject={subject.id}
+          data-chapter={chapter.id}
+          data-chapter-id={v.videoId}
+          data-accent={subject.accent}
+        >
           <VideoCard
             videoId={v.videoId}
             title={v.title}
             subtitle={v.subtitle}
             duration={v.duration}
-            thumb={v.thumb}
+            accent={subject.accent}
           />
         </div>
       ))}
     </div>
   )}
-
 </Layout>
