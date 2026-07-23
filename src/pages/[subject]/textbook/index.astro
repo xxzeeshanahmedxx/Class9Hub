@@ -31,24 +31,12 @@ const schema = {
   "@context": "https://schema.org",
   "@type": "Book",
   "name": pdfTitle,
-  "author": {
-    "@type": "Organization",
-    "name": "Punjab Curriculum & Textbook Board, Lahore"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Punjab Curriculum & Textbook Board"
-  },
+  "author": { "@type": "Organization", "name": "Punjab Curriculum & Textbook Board, Lahore" },
+  "publisher": { "@type": "Organization", "name": "Punjab Curriculum & Textbook Board" },
   "educationalLevel": "Class 9",
   "inLanguage": "en",
   "url": pageUrl,
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "PKR",
-    "availability": "https://schema.org/InStock",
-    "description": "Free PDF download"
-  },
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "PKR", "availability": "https://schema.org/InStock", "description": "Free PDF download" },
   "about": `Class 9 ${subject.title} textbook for Punjab Board students`
 };
 ---
@@ -67,9 +55,9 @@ const schema = {
 
   <!-- Breadcrumb -->
   <div class="flex items-center gap-1.5 text-[13px] mb-4 flex-wrap anim">
-    <a href="/" style="color: var(--text-muted); text-decoration: none; font-weight: 500;">Home</a>
+    <a href="/" style="color: var(--text-muted);">Home</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
-    <a href={`/${subject.id}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{subject.title}</a>
+    <a href={`/${subject.id}/`} style="color: var(--text-muted);">{subject.title}</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
     <span style="color: var(--text-secondary); font-weight: 600;">Textbook</span>
   </div>
@@ -101,8 +89,8 @@ const schema = {
           Class 9 · {chapterNames.length} Chapters
         </p>
 
-        <!-- Actions -->
-        <div class="anim d4 flex flex-wrap gap-3">
+        <!-- Actions aligned right -->
+        <div class="anim d4 flex flex-wrap gap-3 sm:justify-end">
           <a
             href={subject.pdfUrl}
             target="_blank"
@@ -128,20 +116,18 @@ const schema = {
     </div>
   </div>
 
-  <!-- Chapter List -->
+  <!-- Content: Chapter list (hidden mobile) + PDF viewer -->
   <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
-    <div class="lg:col-span-1">
+    <!-- Chapter list — hidden on mobile -->
+    <div class="hidden lg:block lg:col-span-1">
       <div class="rounded-2xl p-5 anim d5" style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);">
         <h2 class="text-[15px] font-bold mb-4 flex items-center gap-2" style="color: var(--text-primary);">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={accent} stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"/></svg>
-          Chapters in this Textbook
+          Chapters
         </h2>
         <div class="space-y-1">
           {chapterNames.map((ch, i) => (
-            <div
-              class="flex items-center gap-3 px-3 py-2 rounded-xl transition-all duration-150 text-[14px]"
-              style="color: var(--text-secondary);"
-            >
+            <div class="flex items-center gap-3 px-3 py-2 rounded-xl text-[14px]" style="color: var(--text-secondary);">
               <span class="w-7 h-7 rounded-lg flex items-center justify-center text-[12px] font-mono font-bold flex-shrink-0"
                 style={`background: ${accent}12; color: ${accent};`}
               >{ch.number}</span>
@@ -156,36 +142,181 @@ const schema = {
     <div class="lg:col-span-2">
       <div class="rounded-2xl overflow-hidden anim d5"
         style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);"
-        id="pdf-container"
       >
-        <div class="flex items-center justify-between px-5 py-3"
-          style="border-bottom: 1px solid var(--border);"
-        >
-          <div class="flex items-center gap-2 text-[13px] font-medium" style="color: var(--text-muted);">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-            {subject.title} Textbook PDF
+        <!-- Toolbar -->
+        <div class="flex items-center justify-between px-4 py-2.5" style="border-bottom: 1px solid var(--border);">
+          <div class="flex items-center gap-2">
+            <button id="pdf-prev" class="flex items-center justify-center w-8 h-8 rounded-lg text-[13px] transition-all hover:opacity-70 active:scale-90" style="color: var(--text-muted);" aria-label="Previous page">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M15 18l-6-6 6-6"/></svg>
+            </button>
+            <span class="flex items-center gap-1 text-[13px] font-mono" style="color: var(--text-muted);">
+              <input id="pdf-page-input" type="number" min="1" value="1"
+                class="w-10 h-7 rounded-lg text-center text-[13px] font-mono font-semibold border-0"
+                style="background: var(--bg2); color: var(--text-primary);"
+              >
+              <span id="pdf-total">—</span>
+            </span>
+            <button id="pdf-next" class="flex items-center justify-center w-8 h-8 rounded-lg text-[13px] transition-all hover:opacity-70 active:scale-90" style="color: var(--text-muted);" aria-label="Next page">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M9 18l6-6-6-6"/></svg>
+            </button>
           </div>
           <div class="flex items-center gap-2">
-            <a href={subject.pdfUrl} target="_blank" class="flex items-center gap-1.5 text-[12px] font-semibold px-3 py-1.5 rounded-lg transition-all hover:opacity-80"
-              style={`background: ${accent}12; color: ${accent};`}
+            <button id="pdf-zoom-out" class="flex items-center justify-center w-8 h-8 rounded-lg text-[15px] transition-all hover:opacity-70 active:scale-90" style="color: var(--text-muted);" aria-label="Zoom out">−</button>
+            <span id="pdf-zoom-level" class="text-[12px] font-mono w-10 text-center" style="color: var(--text-muted);">100%</span>
+            <button id="pdf-zoom-in" class="flex items-center justify-center w-8 h-8 rounded-lg text-[15px] transition-all hover:opacity-70 active:scale-90" style="color: var(--text-muted);" aria-label="Zoom in">+</button>
+            <a href={subject.pdfUrl} target="_blank" class="flex items-center justify-center w-8 h-8 rounded-lg transition-all hover:opacity-70"
+              style="color: var(--text-muted);" aria-label="Open in new tab"
             >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-              Open in new tab
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
             </a>
           </div>
         </div>
-        <div class="w-full" style="height: min(85vh, 800px);">
-          <embed
-            src={subject.pdfUrl}
-            type="application/pdf"
-            class="w-full h-full"
-            title={`${subject.title} Textbook - Class 9 Punjab Board`}
-            loading="lazy"
-          />
+
+        <!-- Canvas -->
+        <div class="relative w-full flex items-start justify-center overflow-auto" style="height: min(85vh, 800px); background: #1a1a2e;" id="pdf-scroll">
+          <div id="pdf-loading" class="absolute inset-0 flex items-center justify-center" style="color: var(--text-muted);">
+            <div class="flex flex-col items-center gap-3">
+              <div class="w-6 h-6 rounded-full animate-spin" style={`border: 2px solid var(--border); border-top-color: ${accent};`}></div>
+              <span class="text-[13px]">Loading textbook...</span>
+            </div>
+          </div>
+          <canvas id="pdf-canvas" class="hidden"></canvas>
         </div>
       </div>
     </div>
   </div>
+
+  <!-- PDF.js Viewer Script -->
+  <script is:inline>
+    (function() {
+      const pdfUrl = '{subject.pdfUrl}';
+      const canvas = document.getElementById('pdf-canvas');
+      const scrollEl = document.getElementById('pdf-scroll');
+      const loadingEl = document.getElementById('pdf-loading');
+      const pageInput = document.getElementById('pdf-page-input');
+      const totalSpan = document.getElementById('pdf-total');
+      const prevBtn = document.getElementById('pdf-prev');
+      const nextBtn = document.getElementById('pdf-next');
+      const zoomInBtn = document.getElementById('pdf-zoom-in');
+      const zoomOutBtn = document.getElementById('pdf-zoom-out');
+      const zoomLevel = document.getElementById('pdf-zoom-level');
+
+      let pdfDoc = null;
+      let currentPage = 1;
+      let scale = 1.2;
+      const cache = new Map();
+      let renderTask = null;
+
+      const CDN = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@6.1.200/build/';
+
+      function loadScript(src) {
+        return new Promise((resolve, reject) => {
+          const s = document.createElement('script');
+          s.src = src;
+          s.onload = resolve;
+          s.onerror = reject;
+          document.head.appendChild(s);
+        });
+      }
+
+      async function init() {
+        try {
+          await loadScript(CDN + 'pdf.min.mjs');
+          const { getDocument, GlobalWorkerOptions } = await import(/* @vite-ignore */ CDN + 'pdf.min.mjs');
+          GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.mjs';
+
+          const loadingTask = getDocument({ url: pdfUrl, useRange: true });
+          pdfDoc = await loadingTask.promise;
+          totalSpan.textContent = '/ ' + pdfDoc.numPages;
+          pageInput.max = pdfDoc.numPages;
+          canvas.classList.remove('hidden');
+          loadingEl.classList.add('hidden');
+          renderPage(1);
+        } catch (e) {
+          loadingEl.innerHTML = '<div class="text-[13px]" style="color: var(--text-muted);">Failed to load textbook. <a href="' + pdfUrl + '" target="_blank" style="color: ' + accent + ';">Open directly</a></div>';
+        }
+      }
+
+      async function renderPage(num) {
+        if (!pdfDoc || renderTask) return;
+        const page = await pdfDoc.getPage(num);
+        const viewport = page.getViewport({ scale });
+        canvas.width = viewport.width * devicePixelRatio;
+        canvas.height = viewport.height * devicePixelRatio;
+        canvas.style.width = viewport.width + 'px';
+        canvas.style.height = viewport.height + 'px';
+
+        const ctx = canvas.getContext('2d');
+        ctx.scale(devicePixelRatio, devicePixelRatio);
+        renderTask = page.render({ canvasContext: ctx, viewport });
+        await renderTask.promise;
+        renderTask = null;
+        currentPage = num;
+        pageInput.value = num;
+        cache.set(num, true);
+      }
+
+      function goToPage(num) {
+        num = Math.max(1, Math.min(num, pdfDoc.numPages));
+        if (num === currentPage) return;
+        renderPage(num);
+      }
+
+      pageInput.addEventListener('change', function() {
+        const v = parseInt(this.value);
+        if (v > 0 && v <= pdfDoc.numPages) goToPage(v);
+        else this.value = currentPage;
+      });
+
+      prevBtn.addEventListener('click', () => goToPage(currentPage - 1));
+      nextBtn.addEventListener('click', () => goToPage(currentPage + 1));
+
+      document.addEventListener('keydown', function(e) {
+        if (e.target.tagName === 'INPUT') return;
+        if (e.key === 'ArrowLeft') goToPage(currentPage - 1);
+        if (e.key === 'ArrowRight') goToPage(currentPage + 1);
+      });
+
+      zoomInBtn.addEventListener('click', function() {
+        scale = Math.min(scale + 0.2, 3);
+        zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
+        if (pdfDoc) renderPage(currentPage);
+      });
+
+      zoomOutBtn.addEventListener('click', function() {
+        scale = Math.max(scale - 0.2, 0.4);
+        zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
+        if (pdfDoc) renderPage(currentPage);
+      });
+
+      scrollEl.addEventListener('wheel', function(e) {
+        if (e.ctrlKey || e.metaKey) {
+          e.preventDefault();
+          scale = Math.max(0.4, Math.min(3, scale - e.deltaY * 0.01));
+          zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
+          if (pdfDoc) renderPage(currentPage);
+        }
+      }, { passive: false });
+
+      // Touch swipe
+      let touchStart = null;
+      scrollEl.addEventListener('touchstart', function(e) {
+        touchStart = { x: e.changedTouches[0].screenX, y: e.changedTouches[0].screenY };
+      }, { passive: true });
+      scrollEl.addEventListener('touchend', function(e) {
+        if (!touchStart) return;
+        const dx = e.changedTouches[0].screenX - touchStart.x;
+        const dy = e.changedTouches[0].screenY - touchStart.y;
+        if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+          if (dx < 0) goToPage(currentPage + 1);
+          else goToPage(currentPage - 1);
+        }
+        touchStart = null;
+      }, { passive: true });
+
+      init();
+    })();
+  </script>
 
   <!-- IntersectionObserver -->
   <script is:inline>
@@ -202,4 +333,3 @@ const schema = {
     });
   </script>
 </Layout>
-
