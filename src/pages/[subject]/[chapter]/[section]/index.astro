@@ -68,8 +68,7 @@ for (const v of videos) {
 const mins = Math.floor(totalSeconds / 60);
 const durationStr = `~${mins}m`;
 
-// Extract question numbers from video titles
-const questionLabels = videos.map(v => v.title).join(', ');
+
 ---
 
 <Layout
@@ -121,12 +120,6 @@ const questionLabels = videos.map(v => v.title).join(', ');
         </p>
         <p class="anim d3 text-[15px]" style="color: var(--text-secondary);">{chTitle}</p>
 
-        {summaryText && (
-          <p class="anim d3 text-[14px] leading-relaxed mb-3" style="color: var(--text-secondary);">
-            {topics.slice(0, 3).join(', ')}
-          </p>
-        )}
-
         <!-- Stats -->
         <div class="anim d4 flex flex-wrap gap-4 sm:gap-6">
           <div class="flex items-center gap-2 text-[14px]" style="color: var(--text-muted);">
@@ -138,10 +131,6 @@ const questionLabels = videos.map(v => v.title).join(', ');
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
             <span class="font-mono font-semibold" style="color: var(--text-primary);">{durationStr}</span>
             <span>total</span>
-          </div>
-          <div class="flex items-center gap-2 text-[14px]" style="color: var(--text-muted);">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-            <span style="color: var(--text-primary);">{questionLabels}</span>
           </div>
         </div>
       </div>
