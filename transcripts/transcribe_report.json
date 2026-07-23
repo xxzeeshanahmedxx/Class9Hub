@@ -1,9 +1,0 @@
-{
-  "total_records": 386,
-  "caption_transcripts_created": 375,
-  "audio_downloaded_for_remaining_videos": 11,
-  "groq_transcripts_created": 11,
-  "ok": 386,
-  "error": 0,
-  "notes": "Initial direct YouTube audio downloads were blocked. A proxy was used only for the 11 videos without captions; those audios were transcribed with Groq Whisper and organized into chapter folders."
-}

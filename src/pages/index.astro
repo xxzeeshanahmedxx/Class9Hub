@@ -6,6 +6,7 @@ import ContinueStudying from '../components/ContinueStudying.astro';
 import subjects from '../data/subjects.json';
 import { getData } from '../lib/data.js';
 import { SITE_URL } from '../lib/constants';
+import { videoSlug } from '../lib/slugify';
 
 // Build subject data with chapter/video counts and topic ranges
 const subjectCards = subjects.map(s => {
@@ -32,10 +33,11 @@ const subjectCards = subjects.map(s => {
 });
 
 // Get recently added videos (last 6 from all subjects)
-const recentVideos: Array<{ subjectId: string; subjectTitle: string; accent: string; videoId: string; title: string; chapter: string; duration: string }> = [];
+const recentVideos: Array<{ subjectId: string; subjectTitle: string; accent: string; videoId: string; title: string; chapter: string; duration: string; slug: string }> = [];
 for (const s of subjects) {
   const data = getData(s.id);
   for (const ch of data.chapters) {
+    const chNum = ch.number || ch.chapterNumber || '';
     if (ch.sections) {
       for (const sec of ch.sections) {
         for (const v of sec.videos || []) {
@@ -47,6 +49,7 @@ for (const s of subjects) {
             title: v.title,
             chapter: ch.title,
             duration: v.duration,
+            slug: videoSlug(s.id, chNum, v.title),
           });
         }
       }
@@ -60,6 +63,7 @@ for (const s of subjects) {
           title: v.title,
           chapter: ch.title,
           duration: v.duration,
+          slug: videoSlug(s.id, chNum, v.title),
         });
       }
     }
@@ -120,7 +124,7 @@ const latestVideos = recentVideos.slice(-6).reverse();
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {latestVideos.map((v, i) => (
         <a
-          href={`/${v.subjectId}/`}
+          href={`/watch/${v.slug}/`}
           class={`group video-card relative rounded-2xl overflow-hidden transition-all duration-300 anim d${i + 1}`}
           style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);"
           aria-label={`${v.title} — ${v.subjectTitle}`}

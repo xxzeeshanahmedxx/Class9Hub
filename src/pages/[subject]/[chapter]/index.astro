@@ -4,6 +4,7 @@ import VideoCard from '../../../components/VideoCard.astro';
 import ChapterRow from '../../../components/ChapterRow.astro';
 import { subjects, getData } from '../../../lib/data';
 import { SITE_URL } from '../../../lib/constants';
+import { videoSlug } from '../../../lib/slugify';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -175,6 +176,7 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
             duration={v.duration}
             accent={subject.accent}
             index={i}
+            slug={videoSlug(subject.id, num, v.title)}
           />
         </div>
       ))}

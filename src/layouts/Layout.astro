@@ -151,31 +151,7 @@ const themeColor = accent || '#07070d';
     </style>
 
     <script>
-      import PlayerOverlay from '../components/PlayerOverlay.js';
       import { markViewed } from '../lib/progress.js';
-
-      document.addEventListener('click', (e) => {
-        const btn = e.target.closest('.video-trigger');
-        if (btn) {
-          const videoId = btn.dataset.videoId;
-          const title = btn.getAttribute('aria-label')?.replace('Play ', '') || '';
-          const subject = btn.dataset.subject || '';
-          const chapter = btn.dataset.chapter || '';
-          const chapterId = btn.dataset.chapterId || '';
-          if (videoId) {
-            e.preventDefault();
-            const player = new PlayerOverlay();
-            player.open(videoId, {
-              subject, chapter, title,
-              accent: btn.dataset.accent || '#8cb4ff',
-            });
-            localStorage.setItem('c9-visited', '1');
-            if (subject && chapterId) {
-              markViewed(subject, chapterId, videoId, title);
-            }
-          }
-        }
-      });
     </script>
   </body>
 </html>

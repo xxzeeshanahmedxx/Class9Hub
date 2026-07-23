@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { subjects, getData } from '../lib/data';
 import { SITE_URL } from '../lib/constants';
+import { videoSlug } from '../lib/slugify';
 
 const dataMap = {};
 subjects.forEach(s => { dataMap[s.id] = getData(s.id); });
@@ -12,9 +13,11 @@ for (const s of subjects) {
   if (!data) continue;
   const chapters = data.chapters || [];
   for (const ch of chapters) {
+    const chNum = ch.number || ch.chapterNumber || '';
     const videos = ch.videos || [];
     for (const v of videos) {
       if (v.title) {
+        const slug = videoSlug(s.id, chNum, v.title);
         allVideos.push({
           id: v.videoId,
           title: v.title,
@@ -23,7 +26,7 @@ for (const s of subjects) {
           subjectTitle: s.title,
           chapterTitle: ch.title || `Chapter ${ch.number || ''}`,
           chapterId: ch.id,
-          url: `/${s.id}/${ch.id}/`,
+          url: `/watch/${slug}/`,
           thumb: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
         });
       }
@@ -32,6 +35,7 @@ for (const s of subjects) {
     for (const sec of sections) {
       for (const v of sec.videos || []) {
         if (v.title) {
+          const slug = videoSlug(s.id, chNum, v.title);
           allVideos.push({
             id: v.videoId,
             title: v.title,
@@ -41,7 +45,7 @@ for (const s of subjects) {
             chapterTitle: ch.title || `Chapter ${ch.number || ''}`,
             chapterId: ch.id,
             sectionId: sec.id,
-            url: `/${s.id}/${ch.id}/${sec.id}/`,
+            url: `/watch/${slug}/`,
             thumb: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
           });
         }

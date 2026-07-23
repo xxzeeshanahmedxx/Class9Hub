@@ -1,0 +1,166 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { buildVideoIndex } from '../../lib/videoLookup';
+import { SITE_URL } from '../../lib/constants';
+import subjects from '../../data/subjects.json';
+import { mdToHtml } from '../../lib/summary';
+
+// Load all summary markdown files at build time
+const summaryModules = import.meta.glob('/docs/**/*.md', {
+  query: '?raw',
+  import: 'default',
+  eager: true,
+});
+
+export async function getStaticPaths() {
+  const index = buildVideoIndex();
+  return index.map(v => ({
+    params: { slug: v.slug },
+    props: { video: v },
+  }));
+}
+
+const { video } = Astro.props;
+if (!video) {
+  return Astro.redirect('/404');
+}
+
+const subject = subjects.find(s => s.id === video.subjectId);
+const accent = video.accent || '#8cb4ff';
+const pageTitle = `${video.title} – ${video.subjectTitle} Class 9`;
+const pageDesc = `Watch ${video.title} – ${video.subjectTitle} class 9 chapter ${video.chapterNumber} ${video.chapterTitle}. Free Punjab Board video lecture.`;
+const pageUrl = `${SITE_URL}/watch/${video.slug}/`;
+
+const backUrl = video.sectionId
+  ? `/${video.subjectId}/${video.chapterId}/${video.sectionId}/`
+  : `/${video.subjectId}/${video.chapterId}/`;
+const chUrl = `/${video.subjectId}/${video.chapterId}/`;
+
+// Look up summary from eagerly-loaded modules
+const summaryKey = `/docs/${video.subjectId}/${video.chapterId}/${video.videoId}.md`;
+const rawSummary = summaryModules[summaryKey] || null;
+const summaryHtml = rawSummary ? mdToHtml(rawSummary) : null;
+---
+
+<Layout
+  title={pageTitle}
+  desc={pageDesc}
+  accent={accent}
+  backUrl={backUrl}
+  canonical={pageUrl}
+  showPWA={true}
+  breadcrumbs={[
+    { name: 'Home', url: SITE_URL + '/' },
+    { name: `${video.subjectTitle} Class 9`, url: SITE_URL + '/' + video.subjectId + '/' },
+    { name: `Ch ${video.chapterNumber} — ${video.chapterTitle}`, url: SITE_URL + chUrl },
+    { name: video.title, url: pageUrl },
+  ]}
+>
+  <!-- Breadcrumb -->
+  <div class="flex items-center gap-1.5 text-[13px] mb-4 flex-wrap anim">
+    <a href="/" style="color: var(--text-muted); text-decoration: none; font-weight: 500;">Home</a>
+    <span style="color: var(--text-dim); font-size: 11px;">›</span>
+    <a href={`/${video.subjectId}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{video.subjectTitle}</a>
+    <span style="color: var(--text-dim); font-size: 11px;">›</span>
+    <a href={chUrl} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">Ch {video.chapterNumber} — {video.chapterTitle}</a>
+    {video.sectionTitle && (<><span style="color: var(--text-dim); font-size: 11px;">›</span><a href={backUrl} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{video.sectionTitle}</a></>)}
+    <span style="color: var(--text-dim); font-size: 11px;">›</span>
+    <span style="color: var(--text-secondary); font-weight: 600;">{video.title}</span>
+  </div>
+
+  <!-- Video Player -->
+  <div class="relative mb-6 anim">
+    <div class="relative w-full aspect-video rounded-2xl overflow-hidden bg-black shadow-lg" style="box-shadow: 0 0 40px {accent}20, 0 8px 32px rgba(0,0,0,.4);">
+      <iframe
+        class="absolute inset-0 w-full h-full"
+        src={`https://www.youtube-nocookie.com/embed/${video.videoId}?autoplay=1&rel=0&modestbranding=1&iv_load_policy=3&playsinline=1&enablejsapi=1`}
+        frameborder="0"
+        allow="autoplay; encrypted-media; fullscreen"
+        allowfullscreen
+        loading="eager"
+      ></iframe>
+    </div>
+  </div>
+
+  <!-- Video Info -->
+  <div class="mb-8 anim d2">
+    <!-- Subject badge -->
+    <div
+      class="inline-flex items-center gap-2 text-[12px] font-semibold px-3 py-1 rounded-full mb-3"
+      style={`background: ${accent}12; color: ${accent}; border: 1px solid ${accent}20;`}
+    >
+      <span class="w-1.5 h-1.5 rounded-full" style={`background: ${accent}; box-shadow: 0 0 6px ${accent};`}></span>
+      {video.subjectTitle} · Chapter {video.chapterNumber}
+    </div>
+
+    <!-- Video Title -->
+    <h1 class="text-[22px] sm:text-[26px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
+      {video.title}
+    </h1>
+    {video.subtitle && (
+      <p class="text-[15px] leading-relaxed" style="color: var(--text-secondary);">{video.subtitle}</p>
+    )}
+    {video.duration && (
+      <p class="text-[13px] mt-2 font-mono" style="color: var(--text-muted);">
+        Duration: {video.duration}
+      </p>
+    )}
+  </div>
+
+  <!-- Chapter context -->
+  <div class="rounded-xl p-4 sm:p-5 anim d3" style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);">
+    <div class="flex items-center gap-3">
+      <div
+        class="w-10 h-10 rounded-xl flex items-center justify-center font-mono text-[15px] font-bold flex-shrink-0"
+        style={`background: ${accent}15; color: ${accent};`}
+      >{video.chapterNumber}</div>
+      <div class="min-w-0 flex-1">
+        <div class="text-[13px]" style="color: var(--text-muted);">Chapter {video.chapterNumber}</div>
+        <div class="text-[15px] font-semibold truncate" style="color: var(--text-primary);">{video.chapterTitle}</div>
+      </div>
+      <a
+        href={chUrl}
+        class="flex items-center gap-1 text-[13px] font-medium px-3 py-1.5 rounded-lg transition-all active:scale-95 flex-shrink-0"
+        style="background: var(--accent)10; color: var(--accent, #8cb4ff);"
+      >
+        All videos
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14"/><path d="M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+
+  <!-- Lecture Summary -->
+  {summaryHtml && (
+    <div class="mt-8 rounded-2xl p-5 sm:p-7 anim d4" style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);">
+      <div class="flex items-center gap-2 mb-5 pb-4" style="border-bottom: 1px solid var(--border);">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke={accent} stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>
+        </svg>
+        <h2 class="text-[17px] font-bold" style="color: var(--text-primary);">Lecture Summary</h2>
+      </div>
+      <div class="summary-content" set:html={summaryHtml} />
+    </div>
+  )}
+
+  <!-- IntersectionObserver -->
+  <script is:inline>
+    document.addEventListener('DOMContentLoaded', function() {
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+      document.querySelectorAll('.anim').forEach(function(el) { observer.observe(el); });
+    });
+  </script>
+
+  <style is:global>
+    .summary-content h2:first-child { margin-top: 0; }
+    .summary-content p:last-child { margin-bottom: 0; }
+    .summary-content ul:last-child,
+    .summary-content ol:last-child { margin-bottom: 0; }
+  </style>
+</Layout>

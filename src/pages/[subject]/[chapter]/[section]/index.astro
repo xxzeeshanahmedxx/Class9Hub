@@ -3,6 +3,7 @@ import Layout from '../../../../layouts/Layout.astro';
 import VideoCard from '../../../../components/VideoCard.astro';
 import { subjects, getData } from '../../../../lib/data';
 import { SITE_URL } from '../../../../lib/constants';
+import { videoSlug } from '../../../../lib/slugify';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -158,6 +159,7 @@ const questionLabels = videos.map(v => v.title).join(', ');
           duration={v.duration}
           accent={subject.accent}
           index={i}
+          slug={videoSlug(subject.id, chapter.number || chapter.chapterNumber || '', v.title)}
         />
       </div>
     ))}
