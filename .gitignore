@@ -3,3 +3,6 @@ dist/
 .wrangler/
 .astro/
 src/data/freeilm-*.json
+transcripts/
+summaries/
+scripts/fetch_transcripts*.py
