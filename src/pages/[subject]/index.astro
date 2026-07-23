@@ -60,7 +60,7 @@ const svg = lucideSvgs[subject.id] || '';
   <div class="flex items-center gap-1.5 text-[13px] mb-4 flex-wrap anim">
     <a href="/" style="color: var(--text-muted); text-decoration: none; font-weight: 500;">Home</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
-    <span style="color: var(--text-secondary); font-weight: 600;">{subject.title} Class 9</span>
+    <span style="color: var(--text-secondary); font-weight: 600;">{subject.title}</span>
   </div>
 
   <!-- Subject Hero -->
@@ -81,13 +81,13 @@ const svg = lucideSvgs[subject.id] || '';
           style={`background: ${subject.accent}12; color: ${subject.accent}; border: 1px solid ${subject.accent}20;`}
         >
           <span class="w-1.5 h-1.5 rounded-full" style={`background: ${subject.accent}; box-shadow: 0 0 6px ${subject.accent};`}></span>
-          {subject.title} · {chapters.length} chapters
+          {subject.title} · Full Course
         </div>
 
         <!-- Title -->
-        <h1 class="anim d2 text-[26px] sm:text-[32px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
+        <p class="anim d2 text-[26px] sm:text-[32px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);" role="heading" aria-level="2">
           {subject.title}
-        </h1>
+        </p>
 
         {topicRange && (
           <p class="anim d3 text-[14px] sm:text-[15px] leading-relaxed mb-4" style="color: var(--text-secondary);">
