@@ -180,7 +180,7 @@ const schema = {
               <span class="text-[13px]">Loading textbook...</span>
             </div>
           </div>
-          <canvas id="pdf-canvas" class="hidden"></canvas>
+          <canvas id="pdf-canvas" data-pdf-url={subject.pdfUrl} data-accent={accent} class="hidden"></canvas>
         </div>
       </div>
     </div>
@@ -189,8 +189,9 @@ const schema = {
   <!-- PDF.js Viewer Script -->
   <script is:inline>
     (function() {
-      const pdfUrl = '{subject.pdfUrl}';
       const canvas = document.getElementById('pdf-canvas');
+      const pdfUrl = canvas.getAttribute('data-pdf-url');
+      const accent = canvas.getAttribute('data-accent');
       const scrollEl = document.getElementById('pdf-scroll');
       const loadingEl = document.getElementById('pdf-loading');
       const pageInput = document.getElementById('pdf-page-input');
@@ -204,7 +205,6 @@ const schema = {
       let pdfDoc = null;
       let currentPage = 1;
       let scale = 1.2;
-      const cache = new Map();
       let renderTask = null;
 
       const CDN = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@6.1.200/build/';
@@ -221,11 +221,11 @@ const schema = {
 
       async function init() {
         try {
-          await loadScript(CDN + 'pdf.min.mjs');
-          const { getDocument, GlobalWorkerOptions } = await import(/* @vite-ignore */ CDN + 'pdf.min.mjs');
-          GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.mjs';
+          await loadScript(CDN + 'pdf.min.js');
+          const pdfjsLib = window.pdfjsLib;
+          pdfjsLib.GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.js';
 
-          const loadingTask = getDocument({ url: pdfUrl, useRange: true });
+          const loadingTask = pdfjsLib.getDocument({ url: pdfUrl, useRange: true });
           pdfDoc = await loadingTask.promise;
           totalSpan.textContent = '/ ' + pdfDoc.numPages;
           pageInput.max = pdfDoc.numPages;
@@ -253,7 +253,6 @@ const schema = {
         renderTask = null;
         currentPage = num;
         pageInput.value = num;
-        cache.set(num, true);
       }
 
       function goToPage(num) {

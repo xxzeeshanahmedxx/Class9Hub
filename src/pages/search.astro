@@ -140,7 +140,10 @@ const initialResults = q
       if (!input || !results || !form) return;
 
       const subjectColors = {};
-      {subjects.forEach(s => { subjectColors[s.id] = s.accent; })}
+      const colorData = document.getElementById('subject-colors');
+      if (colorData) {
+        JSON.parse(colorData.textContent || '[]').forEach(s => { subjectColors[s.id] = s.accent; });
+      }
 
       function escHtml(s) {
         const d = document.createElement('div');
@@ -195,5 +198,6 @@ const initialResults = q
     })();
   </script>
 
-  <script type="application/json" id="search-data">{JSON.stringify(allVideos)}</script>
+  <script type="application/json" id="subject-colors" set:html={JSON.stringify(subjects.map(s => ({ id: s.id, accent: s.accent })))}></script>
+  <script type="application/json" id="search-data" set:html={JSON.stringify(allVideos)}></script>
 </Layout>
