@@ -51,12 +51,12 @@ const summaryText = topics.length > 0
   ? `This section covers: ${topics.join(', ')}.`
   : '';
 
-const sectionDesc = `${subject.title} class 9 ${chTitle} – ${secTitle}. ${summaryText} Free video lectures for Punjab Board online.`;
+const sectionDesc = `${subject.title} 9th ${secTitle} — ${chTitle}. ${summaryText} Free Punjab Board video lectures.`;
 
 const breadcrumbs = [
   { name: 'Home', url: siteUrl + '/' },
-  { name: subject.title + ' Class 9', url: siteUrl + '/' + subject.id + '/' },
-  { name: `${chTitle}`, url: siteUrl + '/' + subject.id + '/' + chapter.id + '/' },
+  { name: subject.title, url: siteUrl + '/' + subject.id + '/' },
+  { name: chTitle, url: siteUrl + '/' + subject.id + '/' + chapter.id + '/' },
   { name: secTitle, url: pageUrl },
 ];
 
@@ -73,8 +73,8 @@ const questionLabels = videos.map(v => v.title).join(', ');
 ---
 
 <Layout
-  title={`${subject.title} Class 9 ${chTitle} – ${secTitle}`}
-  subtitle={`${chTitle} · ${videos.length} videos`}
+  title={`${subject.title} 9th – ${secTitle}`}
+  subtitle={`${secTitle} · ${videos.length} questions`}
   desc={sectionDesc}
   accent={subject.accent}
   backUrl={`/${subject.id}/${chapter.id}/`}
@@ -88,7 +88,7 @@ const questionLabels = videos.map(v => v.title).join(', ');
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
     <a href={`/${subject.id}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{subject.title}</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
-    <a href={`/${subject.id}/${chapter.id}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">Ch {chNum} — {chTitle}</a>
+    <a href={`/${subject.id}/${chapter.id}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{chTitle}</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
     <span style="color: var(--text-secondary); font-weight: 600;">{secTitle}</span>
   </div>
@@ -113,13 +113,14 @@ const questionLabels = videos.map(v => v.title).join(', ');
           style={`background: ${subject.accent}12; color: ${subject.accent}; border: 1px solid ${subject.accent}20;`}
         >
           <span class="w-1.5 h-1.5 rounded-full" style={`background: ${subject.accent}; box-shadow: 0 0 6px ${subject.accent};`}></span>
-          {subject.title} · {chTitle}
+          {subject.title} · {videos.length} questions
         </div>
 
         <!-- Title -->
         <h1 class="anim d2 text-[22px] sm:text-[28px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
-          <span style="font-weight: 500; color: var(--text-secondary);">{secTitle} —</span> {chTitle}
+          {secTitle}
         </h1>
+        <p class="anim d3 text-[15px]" style="color: var(--text-secondary);">{chTitle}</p>
 
         {summaryText && (
           <p class="anim d3 text-[14px] leading-relaxed mb-3" style="color: var(--text-secondary);">

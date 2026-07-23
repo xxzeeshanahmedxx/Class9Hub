@@ -50,12 +50,12 @@ const summaryText = topics.length > 0
   ? `This chapter covers: ${topics.join(', ')}.`
   : `Video lectures for ${subject.title} class 9 chapter ${num}.`;
 
-const chapterDesc = `${subject.title} class 9 chapter ${num} – ${chTitle}. ${summaryText} Free video lectures for Punjab Board 2026.`;
+const chapterDesc = `${subject.title} 9th ${chTitle}. ${summaryText} Free Punjab Board video lectures.`;
 
 const breadcrumbs = [
   { name: 'Home', url: siteUrl + '/' },
-  { name: subject.title + ' Class 9', url: siteUrl + '/' + subject.id + '/' },
-  { name: `${subject.title} Class 9 ${displayTitle}`, url: pageUrl },
+  { name: subject.title, url: siteUrl + '/' + subject.id + '/' },
+  { name: chTitle, url: pageUrl },
 ];
 
 // Calculate total duration (rough estimate)
@@ -78,7 +78,7 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
 ---
 
 <Layout
-  title={`${subject.title} Class 9 ${displayTitle} – ${chTitle}`}
+  title={`${subject.title} 9th – ${chTitle}`}
   subtitle={chTitle}
   desc={chapterDesc}
   accent={subject.accent}
@@ -93,7 +93,7 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
     <a href={`/${subject.id}/`} style="color: var(--text-muted); text-decoration: none; font-weight: 500;">{subject.title}</a>
     <span style="color: var(--text-dim); font-size: 11px;">›</span>
-    <span style="color: var(--text-secondary); font-weight: 600;">Chapter {num} — {chTitle}</span>
+    <span style="color: var(--text-secondary); font-weight: 600;">{chTitle}</span>
   </div>
 
   <!-- Chapter Hero -->
@@ -117,12 +117,12 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
           style={`background: ${subject.accent}12; color: ${subject.accent}; border: 1px solid ${subject.accent}20;`}
         >
           <span class="w-1.5 h-1.5 rounded-full" style={`background: ${subject.accent}; box-shadow: 0 0 6px ${subject.accent};`}></span>
-          {subject.title} · Chapter {num}
+          {subject.title} · {totalVideoCount} lectures
         </div>
 
         <!-- Title -->
         <h1 class="anim d2 text-[24px] sm:text-[30px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
-          <span style="font-weight: 500; color: var(--text-secondary);">Chapter {num} —</span> {chTitle}
+          {chTitle}
         </h1>
 
         <!-- Stats -->
