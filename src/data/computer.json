@@ -11,7 +11,8 @@
         {
           "videoId": "rGAwX1ILkjs",
           "title": "Review",
-          "duration": "3:29"
+          "duration": "3:29",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "XF6CAK3IpZ8",
@@ -22,22 +23,26 @@
         {
           "videoId": "tYrx3u5KXBc",
           "title": "Environment and communication of a system",
-          "duration": "6:35"
+          "duration": "6:35",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "Nj7htqzbFTQ",
           "title": "Software",
-          "duration": "10:11"
+          "duration": "10:11",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "5QOo1xv1nBA",
           "title": "Architecture of Von Neumann computers",
-          "duration": "6:45"
+          "duration": "6:45",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "FrmRnRNRdRQ",
           "title": "Working of Von Neumann architecture",
-          "duration": "11:53"
+          "duration": "11:53",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "oC1WqV5sWFQ",
@@ -54,7 +59,8 @@
         {
           "videoId": "CuYqJnG3TLQ",
           "title": "Binary arithmetic operations",
-          "duration": "12:28"
+          "duration": "12:28",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "0_OU_Bk695U",
@@ -71,17 +77,20 @@
         {
           "videoId": "AKszCxdNfgE",
           "title": "Boolean algebra and logic gates",
-          "duration": "11:00"
+          "duration": "11:00",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "lta4iqQZxjc",
           "title": "Construction of Boolean functions",
-          "duration": "9:08"
+          "duration": "9:08",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "Lbxo6jY4zQA",
           "title": "Logic gates and their functions",
-          "duration": "8:52"
+          "duration": "8:52",
+          "subtitle": "Computer Systems & Logic"
         },
         {
           "videoId": "PvBRyO0TbCE",
@@ -113,7 +122,8 @@
         {
           "videoId": "CdsxHO6riow",
           "title": "Importance of troubleshooting in computer system",
-          "duration": "13:55"
+          "duration": "13:55",
+          "subtitle": "Troubleshooting & Security"
         },
         {
           "videoId": "PclpxOWEQGM",
@@ -124,12 +134,14 @@
         {
           "videoId": "rHMXtCm694A",
           "title": "Hardware diagnosis and maintenance",
-          "duration": "6:30"
+          "duration": "6:30",
+          "subtitle": "Troubleshooting & Security"
         },
         {
           "videoId": "80iGWtzAEKQ",
           "title": "Security and maintenance",
-          "duration": "8:50"
+          "duration": "8:50",
+          "subtitle": "Troubleshooting & Security"
         }
       ],
       "videoCount": 5,
@@ -143,57 +155,68 @@
         {
           "videoId": "7YPrjhrnTN4",
           "title": "Network as a system",
-          "duration": "8:21"
+          "duration": "8:21",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "uYlSHbK3QA8",
           "title": "Fundamental concepts of data communication",
-          "duration": "3:38"
+          "duration": "3:38",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "27vxeFdHNJo",
           "title": "Networking devices",
-          "duration": "11:41"
+          "duration": "11:41",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "edSLUi9DA9g",
           "title": "Network topologies",
-          "duration": "10:06"
+          "duration": "10:06",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "65JZSGi8v-4",
           "title": "Transmission modes",
-          "duration": "3:45"
+          "duration": "3:45",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "nKh7ZJH_A8M",
           "title": "The OSI Networking model",
-          "duration": "14:10"
+          "duration": "14:10",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "IZH3Mzfhtsk",
           "title": "IPv4 and IPv6",
-          "duration": "6:10"
+          "duration": "6:10",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "jt8FaAqaDas",
           "title": "Network Protocols",
-          "duration": "4:06"
+          "duration": "4:06",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "B6Hp3qaqUvU",
           "title": "Network security",
-          "duration": "8:23"
+          "duration": "8:23",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "0UBqS-frvfg",
           "title": "Types of networks",
-          "duration": "4:30"
+          "duration": "4:30",
+          "subtitle": "Computer Networks"
         },
         {
           "videoId": "PYXuazO7DIo",
           "title": "Real world Applications of Computer Networks",
-          "duration": "4:34"
+          "duration": "4:34",
+          "subtitle": "Computer Networks"
         }
       ],
       "videoCount": 11,
@@ -207,12 +230,14 @@
         {
           "videoId": "mTW2EIVDJoQ",
           "title": "Computational thinking",
-          "duration": "13:21"
+          "duration": "13:21",
+          "subtitle": "Computational Thinking"
         },
         {
           "videoId": "UqVs71maRVo",
           "title": "Principles of computational thinking",
-          "duration": "5:59"
+          "duration": "5:59",
+          "subtitle": "Computational Thinking"
         },
         {
           "videoId": "Aa3R7z4kIlU",
@@ -223,7 +248,8 @@
         {
           "videoId": "a5GMKHd0qpc",
           "title": "Pseudocode",
-          "duration": "13:59"
+          "duration": "13:59",
+          "subtitle": "Computational Thinking"
         },
         {
           "videoId": "wMlfmN7Mpgk",
@@ -234,12 +260,14 @@
         {
           "videoId": "LazNy2GqD18",
           "title": "Dry run of flowchart and pseudocode",
-          "duration": "10:55"
+          "duration": "10:55",
+          "subtitle": "Computational Thinking"
         },
         {
           "videoId": "wFrSvmRas5s",
           "title": "Simulations",
-          "duration": "11:33"
+          "duration": "11:33",
+          "subtitle": "Computational Thinking"
         }
       ],
       "videoCount": 7,
@@ -253,7 +281,8 @@
         {
           "videoId": "k2yK5zx7PII",
           "title": "Web development",
-          "duration": "8:19"
+          "duration": "8:19",
+          "subtitle": "Web Development"
         },
         {
           "videoId": "BtwODkS8J5E",
@@ -300,17 +329,20 @@
         {
           "videoId": "TpoXhURXvps",
           "title": "Styling HTML elements with fonts colors background styling fonts",
-          "duration": "10:29"
+          "duration": "10:29",
+          "subtitle": "Web Development"
         },
         {
           "videoId": "NzIqYrqzwv8",
           "title": "Introduction to JavaScript",
-          "duration": "13:34"
+          "duration": "13:34",
+          "subtitle": "Web Development"
         },
         {
           "videoId": "GbpI3mBLvJU",
           "title": "Functions in JavaScript",
-          "duration": "10:22"
+          "duration": "10:22",
+          "subtitle": "Web Development"
         }
       ],
       "videoCount": 11,
@@ -330,27 +362,32 @@
         {
           "videoId": "2txygtPfv8A",
           "title": "Data types and data visualization",
-          "duration": "5:32"
+          "duration": "5:32",
+          "subtitle": "Data Science"
         },
         {
           "videoId": "ytn14lyyPtA",
           "title": "Introduction to data science",
-          "duration": "11:45"
+          "duration": "11:45",
+          "subtitle": "Data Science"
         },
         {
           "videoId": "v7duRvbHd6A",
           "title": "Cloud storage and data backups",
-          "duration": "11:44"
+          "duration": "11:44",
+          "subtitle": "Data Science"
         },
         {
           "videoId": "Tz4evnHO4cs",
           "title": "Organizing and analysing data",
-          "duration": "13:58"
+          "duration": "13:58",
+          "subtitle": "Data Science"
         },
         {
           "videoId": "hMLM8qu-O9I",
           "title": "Data pre-processing and analysis",
-          "duration": "14:50"
+          "duration": "14:50",
+          "subtitle": "Data Science"
         }
       ],
       "videoCount": 6,

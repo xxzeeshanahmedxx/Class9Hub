@@ -14,23 +14,27 @@
           "videos": [
             {
               "videoId": "eqEmVe8Llo0",
-              "title": "Q1",
-              "duration": "14:00"
+              "title": "Question 1",
+              "duration": "14:00",
+              "subtitle": "Solution of Q1 - Exercise 1.1"
             },
             {
               "videoId": "s95GTKQmuFU",
-              "title": "Q2",
-              "duration": "20:54"
+              "title": "Question 2",
+              "duration": "20:54",
+              "subtitle": "Solution of Q2 - Exercise 1.1"
             },
             {
               "videoId": "uXYus0KSXk0",
-              "title": "Q3",
-              "duration": "10:18"
+              "title": "Question 3",
+              "duration": "10:18",
+              "subtitle": "Solution of Q3 - Exercise 1.1"
             },
             {
               "videoId": "onUHfD6o24o",
-              "title": "Q4,5,6",
-              "duration": "31:58"
+              "title": "Question 4,5,6",
+              "duration": "31:58",
+              "subtitle": "Solution of Q4,5,6 - Exercise 1.1"
             }
           ]
         },
@@ -40,24 +44,27 @@
           "videos": [
             {
               "videoId": "XwcueEIcLUA",
-              "title": "Q1",
+              "title": "Question 1",
               "subtitle": "How to Rationalize the Denominator",
               "duration": "18:51"
             },
             {
               "videoId": "ldOww7045h8",
-              "title": "Q2",
-              "duration": "34:11"
+              "title": "Question 2",
+              "duration": "34:11",
+              "subtitle": "Solution of Q2 - Exercise 1.2"
             },
             {
               "videoId": "lYMT7tfKO8Q",
-              "title": "Q3,4",
-              "duration": "23:53"
+              "title": "Question 3,4",
+              "duration": "23:53",
+              "subtitle": "Solution of Q3,4 - Exercise 1.2"
             },
             {
               "videoId": "o9ArT6LBAFY",
-              "title": "Q5",
-              "duration": "26:05"
+              "title": "Question 5",
+              "duration": "26:05",
+              "subtitle": "Solution of Q5 - Exercise 1.2"
             }
           ]
         },
@@ -67,18 +74,21 @@
           "videos": [
             {
               "videoId": "CGQ93Nmhl8A",
-              "title": "Q1,2,3",
-              "duration": "28:51"
+              "title": "Question 1,2,3",
+              "duration": "28:51",
+              "subtitle": "Solution of Q1,2,3 - Exercise 1.3"
             },
             {
               "videoId": "22FeuYdbrOc",
-              "title": "Q4,5,6",
-              "duration": "13:15"
+              "title": "Question 4,5,6",
+              "duration": "13:15",
+              "subtitle": "Solution of Q4,5,6 - Exercise 1.3"
             },
             {
               "videoId": "wdCromEKLY0",
-              "title": "Q7,8,9",
-              "duration": "12:06"
+              "title": "Question 7,8,9",
+              "duration": "12:06",
+              "subtitle": "Solution of Q7,8,9 - Exercise 1.3"
             }
           ]
         },
@@ -88,18 +98,21 @@
           "videos": [
             {
               "videoId": "7tUCPC8FqRI",
-              "title": "Q1",
-              "duration": "12:37"
+              "title": "Question 1",
+              "duration": "12:37",
+              "subtitle": "Solution of Q1 - Review Exercise 1"
             },
             {
               "videoId": "KP_gZhaA9eE",
-              "title": "Q2,3,4,5,6,7",
-              "duration": "32:33"
+              "title": "Question 2,3,4,5,6,7",
+              "duration": "32:33",
+              "subtitle": "Solution of Q2,3,4,5,6,7 - Review Exercise 1"
             },
             {
               "videoId": "U46azI4Cmfc",
-              "title": "Q8,9,10",
-              "duration": "19:20"
+              "title": "Question 8,9,10",
+              "duration": "19:20",
+              "subtitle": "Solution of Q8,9,10 - Review Exercise 1"
             }
           ]
         }
@@ -117,13 +130,15 @@
           "videos": [
             {
               "videoId": "OAvSGG8Sgwo",
-              "title": "Q1,2",
-              "duration": "19:29"
+              "title": "Question 1,2",
+              "duration": "19:29",
+              "subtitle": "Solution of Q1,2 - Exercise 2.1"
             },
             {
               "videoId": "jAzRyKs3j6M",
-              "title": "Q3,4,5,6",
-              "duration": "9:25"
+              "title": "Question 3,4,5,6",
+              "duration": "9:25",
+              "subtitle": "Solution of Q3,4,5,6 - Exercise 2.1"
             }
           ]
         },
@@ -134,7 +149,8 @@
             {
               "videoId": "ZWnqB2XBkPY",
               "title": "Complete",
-              "duration": "32:25"
+              "duration": "32:25",
+              "subtitle": "Solution of Complete - Exercise 2.2"
             }
           ]
         },
@@ -145,7 +161,8 @@
             {
               "videoId": "4kcHDtUZAkg",
               "title": "Complete",
-              "duration": "1:01:24"
+              "duration": "1:01:24",
+              "subtitle": "Solution of Complete - Exercise 2.3"
             }
           ]
         },
@@ -155,23 +172,27 @@
           "videos": [
             {
               "videoId": "VwBE5p4lw6s",
-              "title": "Q1,2",
-              "duration": "28:52"
+              "title": "Question 1,2",
+              "duration": "28:52",
+              "subtitle": "Solution of Q1,2 - Exercise 2.4"
             },
             {
               "videoId": "Y8T6M_cWN4E",
-              "title": "Q3,4",
-              "duration": "25:29"
+              "title": "Question 3,4",
+              "duration": "25:29",
+              "subtitle": "Solution of Q3,4 - Exercise 2.4"
             },
             {
               "videoId": "YpUCu6LjmoQ",
-              "title": "Q5 (i-iv)",
-              "duration": "50:27"
+              "title": "Question 5 (i-iv)",
+              "duration": "50:27",
+              "subtitle": "Solution of Q5 (i-iv) - Exercise 2.4"
             },
             {
               "videoId": "UXJ_jF3dA8k",
-              "title": "Q6,7,8",
-              "duration": "22:56"
+              "title": "Question 6,7,8",
+              "duration": "22:56",
+              "subtitle": "Solution of Q6,7,8 - Exercise 2.4"
             }
           ]
         },
@@ -181,18 +202,21 @@
           "videos": [
             {
               "videoId": "UE03OSNeo8U",
-              "title": "Q2,3,4,5,6",
-              "duration": "18:25"
+              "title": "Question 2,3,4,5,6",
+              "duration": "18:25",
+              "subtitle": "Solution of Q2,3,4,5,6 - Review Exercise 2"
             },
             {
               "videoId": "NjpnJbZwqMY",
-              "title": "Q7,8,9,10",
-              "duration": "57:00"
+              "title": "Question 7,8,9,10",
+              "duration": "57:00",
+              "subtitle": "Solution of Q7,8,9,10 - Review Exercise 2"
             },
             {
               "videoId": "ZFTT3eS3bAU",
-              "title": "Q1 MCQs",
-              "duration": "9:36"
+              "title": "Question 1 (MCQs)",
+              "duration": "9:36",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 2"
             }
           ]
         }
@@ -210,18 +234,21 @@
           "videos": [
             {
               "videoId": "II0lImRd6qU",
-              "title": "Q1 (i-ix)",
-              "duration": "34:22"
+              "title": "Question 1 (i-ix)",
+              "duration": "34:22",
+              "subtitle": "Solution of Q1 (i-ix) - Exercise 3.1"
             },
             {
               "videoId": "CKxyKkWxM4s",
-              "title": "Q2,3,4",
-              "duration": "18:17"
+              "title": "Question 2,3,4",
+              "duration": "18:17",
+              "subtitle": "Solution of Q2,3,4 - Exercise 3.1"
             },
             {
               "videoId": "4ODVXlDyB9Q",
-              "title": "Q5,6,7",
-              "duration": "13:47"
+              "title": "Question 5,6,7",
+              "duration": "13:47",
+              "subtitle": "Solution of Q5,6,7 - Exercise 3.1"
             }
           ]
         },
@@ -231,43 +258,51 @@
           "videos": [
             {
               "videoId": "ZVi7I5vhma0",
-              "title": "Q1,2,3",
-              "duration": "28:34"
+              "title": "Question 1,2,3",
+              "duration": "28:34",
+              "subtitle": "Solution of Q1,2,3 - Exercise 3.2"
             },
             {
               "videoId": "gvOOlyisrQA",
-              "title": "Q4",
-              "duration": "22:42"
+              "title": "Question 4",
+              "duration": "22:42",
+              "subtitle": "Solution of Q4 - Exercise 3.2"
             },
             {
               "videoId": "YI6ytodasSc",
-              "title": "Q5",
-              "duration": "39:50"
+              "title": "Question 5",
+              "duration": "39:50",
+              "subtitle": "Solution of Q5 - Exercise 3.2"
             },
             {
               "videoId": "GlfZc1he8Ls",
-              "title": "Q6,7",
-              "duration": "22:35"
+              "title": "Question 6,7",
+              "duration": "22:35",
+              "subtitle": "Solution of Q6,7 - Exercise 3.2"
             },
             {
               "videoId": "CaGM0O-2FzA",
-              "title": "Q8,9,10",
-              "duration": "31:39"
+              "title": "Question 8,9,10",
+              "duration": "31:39",
+              "subtitle": "Solution of Q8,9,10 - Exercise 3.2"
             },
             {
               "videoId": "Hejb6DmfUro",
-              "title": "Q11(a,b)",
-              "duration": "21:24"
+              "title": "Question 11(a,b)",
+              "duration": "21:24",
+              "subtitle": "Solution of Q11(a,b) - Exercise 3.2"
             },
             {
               "videoId": "IuQHdNGFJbU",
-              "title": "Q12",
-              "duration": "20:58"
+              "title": "Question 12",
+              "duration": "20:58",
+              "subtitle": "Solution of Q12 - Exercise 3.2"
             },
             {
               "videoId": "0bJvfIs5Qw4",
-              "title": "Q13",
-              "duration": "29:26"
+              "title": "Question 13",
+              "duration": "29:26",
+              "subtitle": "Solution of Q13 - Exercise 3.2"
             }
           ]
         },
@@ -277,13 +312,15 @@
           "videos": [
             {
               "videoId": "-ZGSJ6avH-M",
-              "title": "Q1,2",
-              "duration": "23:57"
+              "title": "Question 1,2",
+              "duration": "23:57",
+              "subtitle": "Solution of Q1,2 - Exercise 3.3"
             },
             {
               "videoId": "i_KAnqx0TzQ",
-              "title": "Q3,4,5,6,7",
-              "duration": "27:15"
+              "title": "Question 3,4,5,6,7",
+              "duration": "27:15",
+              "subtitle": "Solution of Q3,4,5,6,7 - Exercise 3.3"
             }
           ]
         },
@@ -293,38 +330,45 @@
           "videos": [
             {
               "videoId": "QG8wsap6jaI",
-              "title": "Q1 MCQs",
-              "duration": "20:03"
+              "title": "Question 1 (MCQs)",
+              "duration": "20:03",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 3"
             },
             {
               "videoId": "Hb02zMs477Y",
-              "title": "Q2,3",
-              "duration": "30:38"
+              "title": "Question 2,3",
+              "duration": "30:38",
+              "subtitle": "Solution of Q2,3 - Review Exercise 3"
             },
             {
               "videoId": "TcteuDVHonI",
-              "title": "Q4,5",
-              "duration": "22:57"
+              "title": "Question 4,5",
+              "duration": "22:57",
+              "subtitle": "Solution of Q4,5 - Review Exercise 3"
             },
             {
               "videoId": "ca9mU0aeiPo",
-              "title": "Q6 (i-iv)",
-              "duration": "49:18"
+              "title": "Question 6 (i-iv)",
+              "duration": "49:18",
+              "subtitle": "Solution of Q6 (i-iv) - Review Exercise 3"
             },
             {
               "videoId": "GJ8AOX4MQSk",
-              "title": "Q7,8",
-              "duration": "23:28"
+              "title": "Question 7,8",
+              "duration": "23:28",
+              "subtitle": "Solution of Q7,8 - Review Exercise 3"
             },
             {
               "videoId": "VVACm8B7vJI",
-              "title": "Q9,10,11,12,13",
-              "duration": "24:28"
+              "title": "Question 9,10,11,12,13",
+              "duration": "24:28",
+              "subtitle": "Solution of Q9,10,11,12,13 - Review Exercise 3"
             },
             {
               "videoId": "4RkvWkHHN2Y",
-              "title": "Q14,15,16",
-              "duration": "41:25"
+              "title": "Question 14,15,16",
+              "duration": "41:25",
+              "subtitle": "Solution of Q14,15,16 - Review Exercise 3"
             }
           ]
         }
@@ -342,13 +386,15 @@
           "videos": [
             {
               "videoId": "YUjzAuTJNTw",
-              "title": "Q1,2,3",
-              "duration": "38:56"
+              "title": "Question 1,2,3",
+              "duration": "38:56",
+              "subtitle": "Solution of Q1,2,3 - Exercise 4.1"
             },
             {
               "videoId": "7oHXHmtCeZI",
-              "title": "Q4",
-              "duration": "19:39"
+              "title": "Question 4",
+              "duration": "19:39",
+              "subtitle": "Solution of Q4 - Exercise 4.1"
             }
           ]
         },
@@ -358,18 +404,21 @@
           "videos": [
             {
               "videoId": "GxP098qS_1s",
-              "title": "Q1 (i-vi)",
-              "duration": "29:25"
+              "title": "Question 1 (i-vi)",
+              "duration": "29:25",
+              "subtitle": "Solution of Q1 (i-vi) - Exercise 4.2"
             },
             {
               "videoId": "GWghsrEF2M4",
-              "title": "Q2 (i-vi)",
-              "duration": "37:27"
+              "title": "Question 2 (i-vi)",
+              "duration": "37:27",
+              "subtitle": "Solution of Q2 (i-vi) - Exercise 4.2"
             },
             {
               "videoId": "lV29L_g-H7I",
-              "title": "Q3,4",
-              "duration": "29:34"
+              "title": "Question 3,4",
+              "duration": "29:34",
+              "subtitle": "Solution of Q3,4 - Exercise 4.2"
             }
           ]
         },
@@ -379,26 +428,27 @@
           "videos": [
             {
               "videoId": "SzVJOJIGlrQ",
-              "title": "Q1 (i-vi)",
+              "title": "Question 1 (i-vi)",
               "subtitle": "How to find the HCF",
               "duration": "30:07"
             },
             {
               "videoId": "tDSkZQ7L-nE",
-              "title": "Q2",
+              "title": "Question 2",
               "subtitle": "How to find the HCF by Division",
               "duration": "26:58"
             },
             {
               "videoId": "hWEb9DVI5eI",
-              "title": "Q3 (i-v)",
+              "title": "Question 3 (i-v)",
               "subtitle": "How to find the LCM by Factorization",
               "duration": "25:17"
             },
             {
               "videoId": "Iwvx97H8qFA",
-              "title": "Q4,5,6",
-              "duration": "18:13"
+              "title": "Question 4,5,6",
+              "duration": "18:13",
+              "subtitle": "Solution of Q4,5,6 - Exercise 4.3"
             }
           ]
         },
@@ -408,20 +458,21 @@
           "videos": [
             {
               "videoId": "yg_7XFXooHU",
-              "title": "Q1",
+              "title": "Question 1",
               "subtitle": "How to find the Square Root",
               "duration": "17:10"
             },
             {
               "videoId": "P0tqkIsdrXM",
-              "title": "Q2 (i-iv)",
+              "title": "Question 2 (i-iv)",
               "subtitle": "How to find the Square root By Division Method",
               "duration": "29:20"
             },
             {
               "videoId": "rrDsMOWB2W0",
-              "title": "Q3,4,5,6",
-              "duration": "17:54"
+              "title": "Question 3,4,5,6",
+              "duration": "17:54",
+              "subtitle": "Solution of Q3,4,5,6 - Exercise 4.4"
             }
           ]
         },
@@ -431,18 +482,21 @@
           "videos": [
             {
               "videoId": "rKvufSOxbG8",
-              "title": "Q1 MCQs",
-              "duration": "15:50"
+              "title": "Question 1 (MCQs)",
+              "duration": "15:50",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 4"
             },
             {
               "videoId": "pAE9R1ng3wc",
-              "title": "Q3(i-iv)",
-              "duration": "21:04"
+              "title": "Question 3(i-iv)",
+              "duration": "21:04",
+              "subtitle": "Solution of Q3(i-iv) - Review Exercise 4"
             },
             {
               "videoId": "SME2WJnBzKc",
-              "title": "Q4,5",
-              "duration": "10:57"
+              "title": "Question 4,5",
+              "duration": "10:57",
+              "subtitle": "Solution of Q4,5 - Review Exercise 4"
             }
           ]
         }
@@ -460,28 +514,33 @@
           "videos": [
             {
               "videoId": "lmaei6A7ASI",
-              "title": "Q1 (i-vi)",
-              "duration": "44:04"
+              "title": "Question 1 (i-vi)",
+              "duration": "44:04",
+              "subtitle": "Solution of Q1 (i-vi) - Exercise 5.1"
             },
             {
               "videoId": "YuMj48kh7qc",
-              "title": "Q2 (i-vi)",
-              "duration": "28:28"
+              "title": "Question 2 (i-vi)",
+              "duration": "28:28",
+              "subtitle": "Solution of Q2 (i-vi) - Exercise 5.1"
             },
             {
               "videoId": "vLY2_7HSVWY",
-              "title": "Q3 (i-vi)",
-              "duration": "53:13"
+              "title": "Question 3 (i-vi)",
+              "duration": "53:13",
+              "subtitle": "Solution of Q3 (i-vi) - Exercise 5.1"
             },
             {
               "videoId": "m3HmYHPRf9U",
-              "title": "Q4 (i-iii)",
-              "duration": "44:58"
+              "title": "Question 4 (i-iii)",
+              "duration": "44:58",
+              "subtitle": "Solution of Q4 (i-iii) - Exercise 5.1"
             },
             {
               "videoId": "s_eREIGepeU",
-              "title": "Q4 (iv,v,vi)",
-              "duration": "41:26"
+              "title": "Question 4 (iv,v,vi)",
+              "duration": "41:26",
+              "subtitle": "Solution of Q4 (iv,v,vi) - Exercise 5.1"
             }
           ]
         },
@@ -491,33 +550,39 @@
           "videos": [
             {
               "videoId": "AcsezqwsrvQ",
-              "title": "Q1",
-              "duration": "37:35"
+              "title": "Question 1",
+              "duration": "37:35",
+              "subtitle": "Solution of Q1 - Exercise 5.2"
             },
             {
               "videoId": "gAhXoiis9j4",
-              "title": "Q2",
-              "duration": "24:42"
+              "title": "Question 2",
+              "duration": "24:42",
+              "subtitle": "Solution of Q2 - Exercise 5.2"
             },
             {
               "videoId": "QeF0jcORbt4",
-              "title": "Q3",
-              "duration": "25:53"
+              "title": "Question 3",
+              "duration": "25:53",
+              "subtitle": "Solution of Q3 - Exercise 5.2"
             },
             {
               "videoId": "Zp7LOj3bkx4",
-              "title": "Q4",
-              "duration": "21:37"
+              "title": "Question 4",
+              "duration": "21:37",
+              "subtitle": "Solution of Q4 - Exercise 5.2"
             },
             {
               "videoId": "AExku1h4XCU",
-              "title": "Q5",
-              "duration": "24:57"
+              "title": "Question 5",
+              "duration": "24:57",
+              "subtitle": "Solution of Q5 - Exercise 5.2"
             },
             {
               "videoId": "-2q48P9Qun0",
-              "title": "Q6",
-              "duration": "21:58"
+              "title": "Question 6",
+              "duration": "21:58",
+              "subtitle": "Solution of Q6 - Exercise 5.2"
             }
           ]
         },
@@ -527,23 +592,27 @@
           "videos": [
             {
               "videoId": "p-Coi8yWuqk",
-              "title": "Q1 MCQs",
-              "duration": "13:51"
+              "title": "Question 1 (MCQs)",
+              "duration": "13:51",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 5"
             },
             {
               "videoId": "4OvLeJUv3DI",
-              "title": "Q2 (i-iv)",
-              "duration": "23:47"
+              "title": "Question 2 (i-iv)",
+              "duration": "23:47",
+              "subtitle": "Solution of Q2 (i-iv) - Review Exercise 5"
             },
             {
               "videoId": "YSTnT_XOj1A",
-              "title": "Q3 (i,ii)",
-              "duration": "26:38"
+              "title": "Question 3 (i,ii)",
+              "duration": "26:38",
+              "subtitle": "Solution of Q3 (i,ii) - Review Exercise 5"
             },
             {
               "videoId": "f7jBnX1WcEk",
-              "title": "Q4,5",
-              "duration": "31:49"
+              "title": "Question 4,5",
+              "duration": "31:49",
+              "subtitle": "Solution of Q4,5 - Review Exercise 5"
             }
           ]
         }
@@ -561,18 +630,21 @@
           "videos": [
             {
               "videoId": "S7ArgS4MdaQ",
-              "title": "Q1,2,3",
-              "duration": "38:45"
+              "title": "Question 1,2,3",
+              "duration": "38:45",
+              "subtitle": "Solution of Q1,2,3 - Exercise 6.1"
             },
             {
               "videoId": "g1BMwLwF5tA",
-              "title": "Q4,5,6",
-              "duration": "21:42"
+              "title": "Question 4,5,6",
+              "duration": "21:42",
+              "subtitle": "Solution of Q4,5,6 - Exercise 6.1"
             },
             {
               "videoId": "sq3lWKqkqVU",
-              "title": "Q7,8,9",
-              "duration": "22:33"
+              "title": "Question 7,8,9",
+              "duration": "22:33",
+              "subtitle": "Solution of Q7,8,9 - Exercise 6.1"
             }
           ]
         },
@@ -582,13 +654,15 @@
           "videos": [
             {
               "videoId": "3ZuTz5zBkW8",
-              "title": "Q1,2",
-              "duration": "42:31"
+              "title": "Question 1,2",
+              "duration": "42:31",
+              "subtitle": "Solution of Q1,2 - Exercise 6.2"
             },
             {
               "videoId": "VsLaEyzZRhg",
-              "title": "Q3,4,5",
-              "duration": "20:45"
+              "title": "Question 3,4,5",
+              "duration": "20:45",
+              "subtitle": "Solution of Q3,4,5 - Exercise 6.2"
             }
           ]
         },
@@ -598,18 +672,21 @@
           "videos": [
             {
               "videoId": "CYUaF4lxv4Y",
-              "title": "Q1 (i-v)",
-              "duration": "28:52"
+              "title": "Question 1 (i-v)",
+              "duration": "28:52",
+              "subtitle": "Solution of Q1 (i-v) - Exercise 6.3"
             },
             {
               "videoId": "kyFuJO5iU3I",
-              "title": "Q2 to 7",
-              "duration": "17:10"
+              "title": "Question 2 to 7",
+              "duration": "17:10",
+              "subtitle": "Solution of Q2 to 7 - Exercise 6.3"
             },
             {
               "videoId": "o27t0oZ-zyo",
-              "title": "Q8 to 12",
-              "duration": "27:26"
+              "title": "Question 8 to 12",
+              "duration": "27:26",
+              "subtitle": "Solution of Q8 to 12 - Exercise 6.3"
             }
           ]
         },
@@ -619,13 +696,15 @@
           "videos": [
             {
               "videoId": "KX_3tp2__wA",
-              "title": "Q1 (i-xii)",
-              "duration": "20:42"
+              "title": "Question 1 (i-xii)",
+              "duration": "20:42",
+              "subtitle": "Solution of Q1 (i-xii) - Exercise 6.4"
             },
             {
               "videoId": "qpvAxmy17Ss",
-              "title": "Q2,3",
-              "duration": "21:58"
+              "title": "Question 2,3",
+              "duration": "21:58",
+              "subtitle": "Solution of Q2,3 - Exercise 6.4"
             }
           ]
         },
@@ -635,23 +714,27 @@
           "videos": [
             {
               "videoId": "_kW0STTTFkQ",
-              "title": "Q1,2",
-              "duration": "33:42"
+              "title": "Question 1,2",
+              "duration": "33:42",
+              "subtitle": "Solution of Q1,2 - Exercise 6.5"
             },
             {
               "videoId": "uSTaIqQNeys",
-              "title": "Q3,4",
-              "duration": "40:46"
+              "title": "Question 3,4",
+              "duration": "40:46",
+              "subtitle": "Solution of Q3,4 - Exercise 6.5"
             },
             {
               "videoId": "SRkbeYlCbms",
-              "title": "Q5,6,7",
-              "duration": "24:44"
+              "title": "Question 5,6,7",
+              "duration": "24:44",
+              "subtitle": "Solution of Q5,6,7 - Exercise 6.5"
             },
             {
               "videoId": "RW5QjMZWhCA",
-              "title": "Q8,9",
-              "duration": "18:26"
+              "title": "Question 8,9",
+              "duration": "18:26",
+              "subtitle": "Solution of Q8,9 - Exercise 6.5"
             }
           ]
         },
@@ -661,18 +744,21 @@
           "videos": [
             {
               "videoId": "KaiczpTodoQ",
-              "title": "Q1,2,3,4",
-              "duration": "27:03"
+              "title": "Question 1,2,3,4",
+              "duration": "27:03",
+              "subtitle": "Solution of Q1,2,3,4 - Exercise 6.6"
             },
             {
               "videoId": "rG4LRdyQi80",
-              "title": "Q5,6,7",
-              "duration": "26:57"
+              "title": "Question 5,6,7",
+              "duration": "26:57",
+              "subtitle": "Solution of Q5,6,7 - Exercise 6.6"
             },
             {
               "videoId": "itzSGjcGj8s",
-              "title": "Q8,9,10",
-              "duration": "30:35"
+              "title": "Question 8,9,10",
+              "duration": "30:35",
+              "subtitle": "Solution of Q8,9,10 - Exercise 6.6"
             }
           ]
         },
@@ -682,23 +768,27 @@
           "videos": [
             {
               "videoId": "hOe6OAUarZk",
-              "title": "Q1 MCQs",
-              "duration": "14:33"
+              "title": "Question 1 (MCQs)",
+              "duration": "14:33",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 6"
             },
             {
               "videoId": "vWGMjUW2zTk",
-              "title": "Q2(a,b)",
-              "duration": "15:27"
+              "title": "Question 2(a,b)",
+              "duration": "15:27",
+              "subtitle": "Solution of Q2(a,b) - Review Exercise 6"
             },
             {
               "videoId": "Y_y3ccinlGQ",
-              "title": "Q3 (i-vi)",
-              "duration": "33:36"
+              "title": "Question 3 (i-vi)",
+              "duration": "33:36",
+              "subtitle": "Solution of Q3 (i-vi) - Review Exercise 6"
             },
             {
               "videoId": "6jDAtI_gNIM",
-              "title": "Q4,5,6",
-              "duration": "15:22"
+              "title": "Question 4,5,6",
+              "duration": "15:22",
+              "subtitle": "Solution of Q4,5,6 - Review Exercise 6"
             }
           ]
         }
@@ -716,28 +806,33 @@
           "videos": [
             {
               "videoId": "9_G9_bxLTes",
-              "title": "Q1,2",
-              "duration": "29:19"
+              "title": "Question 1,2",
+              "duration": "29:19",
+              "subtitle": "Solution of Q1,2 - Exercise 7.1"
             },
             {
               "videoId": "nnTOi1rzKTo",
-              "title": "Q3,4",
-              "duration": "33:22"
+              "title": "Question 3,4",
+              "duration": "33:22",
+              "subtitle": "Solution of Q3,4 - Exercise 7.1"
             },
             {
               "videoId": "_rxBvlDsAFk",
-              "title": "Q5 (i,ii,iii)",
-              "duration": "26:49"
+              "title": "Question 5 (i,ii,iii)",
+              "duration": "26:49",
+              "subtitle": "Solution of Q5 (i,ii,iii) - Exercise 7.1"
             },
             {
               "videoId": "tmHE_laWMjA",
-              "title": "Q6,7,8",
-              "duration": "28:57"
+              "title": "Question 6,7,8",
+              "duration": "28:57",
+              "subtitle": "Solution of Q6,7,8 - Exercise 7.1"
             },
             {
               "videoId": "ohyulc-Xvqk",
-              "title": "Q9,10",
-              "duration": "41:24"
+              "title": "Question 9,10",
+              "duration": "41:24",
+              "subtitle": "Solution of Q9,10 - Exercise 7.1"
             }
           ]
         },
@@ -747,33 +842,39 @@
           "videos": [
             {
               "videoId": "oqKgrocJk5k",
-              "title": "Q1,2",
-              "duration": "35:02"
+              "title": "Question 1,2",
+              "duration": "35:02",
+              "subtitle": "Solution of Q1,2 - Exercise 7.2"
             },
             {
               "videoId": "68dKl8sJgVE",
-              "title": "Q3,4,5",
-              "duration": "30:32"
+              "title": "Question 3,4,5",
+              "duration": "30:32",
+              "subtitle": "Solution of Q3,4,5 - Exercise 7.2"
             },
             {
               "videoId": "CxVPNxMmO4U",
-              "title": "Q6 (a-i)",
-              "duration": "30:32"
+              "title": "Question 6 (a-i)",
+              "duration": "30:32",
+              "subtitle": "Solution of Q6 (a-i) - Exercise 7.2"
             },
             {
               "videoId": "oK376VVD8bE",
-              "title": "Q7,8,9",
-              "duration": "21:28"
+              "title": "Question 7,8,9",
+              "duration": "21:28",
+              "subtitle": "Solution of Q7,8,9 - Exercise 7.2"
             },
             {
               "videoId": "2LmtTZGEjpQ",
-              "title": "Q10 (a,b,c)",
-              "duration": "44:25"
+              "title": "Question 10 (a,b,c)",
+              "duration": "44:25",
+              "subtitle": "Solution of Q10 (a,b,c) - Exercise 7.2"
             },
             {
               "videoId": "hJYuVNyKh-U",
-              "title": "Q11,12,13",
-              "duration": "27:22"
+              "title": "Question 11,12,13",
+              "duration": "27:22",
+              "subtitle": "Solution of Q11,12,13 - Exercise 7.2"
             }
           ]
         },
@@ -783,13 +884,15 @@
           "videos": [
             {
               "videoId": "MJyvv8Jb_Pc",
-              "title": "Q1 to 6",
-              "duration": "18:17"
+              "title": "Question 1 to 6",
+              "duration": "18:17",
+              "subtitle": "Solution of Q1 to 6 - Exercise 7.3"
             },
             {
               "videoId": "Q6R3peEoBws",
-              "title": "Q7 to 11",
-              "duration": "34:13"
+              "title": "Question 7 to 11",
+              "duration": "34:13",
+              "subtitle": "Solution of Q7 to 11 - Exercise 7.3"
             }
           ]
         },
@@ -799,18 +902,21 @@
           "videos": [
             {
               "videoId": "E-qIoYSDSnw",
-              "title": "Q1 MCQs",
-              "duration": "14:58"
+              "title": "Question 1 (MCQs)",
+              "duration": "14:58",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 7"
             },
             {
               "videoId": "Iz6RwG0o8PA",
-              "title": "Q2 to 7",
-              "duration": "15:36"
+              "title": "Question 2 to 7",
+              "duration": "15:36",
+              "subtitle": "Solution of Q2 to 7 - Review Exercise 7"
             },
             {
               "videoId": "z1GeWTLpRJk",
-              "title": "Q8,9,10",
-              "duration": "35:22"
+              "title": "Question 8,9,10",
+              "duration": "35:22",
+              "subtitle": "Solution of Q8,9,10 - Review Exercise 7"
             }
           ]
         }
@@ -828,33 +934,39 @@
           "videos": [
             {
               "videoId": "peprUgIF1iI",
-              "title": "Q1 MCQs",
-              "duration": "20:53"
+              "title": "Question 1 (MCQs)",
+              "duration": "20:53",
+              "subtitle": "Solution of Q1 MCQs - Exercise 8"
             },
             {
               "videoId": "XuEHsy4rghU",
-              "title": "Q2 to 7",
-              "duration": "34:14"
+              "title": "Question 2 to 7",
+              "duration": "34:14",
+              "subtitle": "Solution of Q2 to 7 - Exercise 8"
             },
             {
               "videoId": "gUcOiIoe7gU",
-              "title": "Q8 (i,ii,iii)",
-              "duration": "29:08"
+              "title": "Question 8 (i,ii,iii)",
+              "duration": "29:08",
+              "subtitle": "Solution of Q8 (i,ii,iii) - Exercise 8"
             },
             {
               "videoId": "RpFMpH4ndp4",
-              "title": "Q9 (i,ii,iii)",
-              "duration": "33:21"
+              "title": "Question 9 (i,ii,iii)",
+              "duration": "33:21",
+              "subtitle": "Solution of Q9 (i,ii,iii) - Exercise 8"
             },
             {
               "videoId": "sHTcVC-7qPg",
-              "title": "Q10,11,12",
-              "duration": "20:18"
+              "title": "Question 10,11,12",
+              "duration": "20:18",
+              "subtitle": "Solution of Q10,11,12 - Exercise 8"
             },
             {
               "videoId": "UPjmNGmp7YI",
-              "title": "Q13,14,15,16",
-              "duration": "34:42"
+              "title": "Question 13,14,15,16",
+              "duration": "34:42",
+              "subtitle": "Solution of Q13,14,15,16 - Exercise 8"
             }
           ]
         }
@@ -872,13 +984,15 @@
           "videos": [
             {
               "videoId": "9ik4fD6H0To",
-              "title": "Q4,5,6",
-              "duration": "23:12"
+              "title": "Question 4,5,6",
+              "duration": "23:12",
+              "subtitle": "Solution of Q4,5,6 - Exercise 9.1"
             },
             {
               "videoId": "0Zmxxw7wX8A",
-              "title": "Q7,8,9",
-              "duration": "39:36"
+              "title": "Question 7,8,9",
+              "duration": "39:36",
+              "subtitle": "Solution of Q7,8,9 - Exercise 9.1"
             }
           ]
         },
@@ -888,18 +1002,21 @@
           "videos": [
             {
               "videoId": "q_O6l6ijlM0",
-              "title": "Q1,2",
-              "duration": "27:58"
+              "title": "Question 1,2",
+              "duration": "27:58",
+              "subtitle": "Solution of Q1,2 - Exercise 9.2"
             },
             {
               "videoId": "MunfZRT9KsQ",
-              "title": "Q3,4,5",
-              "duration": "18:32"
+              "title": "Question 3,4,5",
+              "duration": "18:32",
+              "subtitle": "Solution of Q3,4,5 - Exercise 9.2"
             },
             {
               "videoId": "EYOC9X171GI",
-              "title": "Q6,7,8",
-              "duration": "13:53"
+              "title": "Question 6,7,8",
+              "duration": "13:53",
+              "subtitle": "Solution of Q6,7,8 - Exercise 9.2"
             }
           ]
         },
@@ -909,13 +1026,15 @@
           "videos": [
             {
               "videoId": "snVkGgKReg8",
-              "title": "Q1,2,3,4",
-              "duration": "29:39"
+              "title": "Question 1,2,3,4",
+              "duration": "29:39",
+              "subtitle": "Solution of Q1,2,3,4 - Exercise 9.3"
             },
             {
               "videoId": "3WlKY9dpCAg",
-              "title": "Q5,6",
-              "duration": "15:24"
+              "title": "Question 5,6",
+              "duration": "15:24",
+              "subtitle": "Solution of Q5,6 - Exercise 9.3"
             }
           ]
         },
@@ -925,13 +1044,15 @@
           "videos": [
             {
               "videoId": "0A2u2HOd_oA",
-              "title": "Q1 to 5",
-              "duration": "38:43"
+              "title": "Question 1 to 5",
+              "duration": "38:43",
+              "subtitle": "Solution of Q1 to 5 - Exercise 9.4"
             },
             {
               "videoId": "uvJHseY8-mI",
-              "title": "Q6 to 10",
-              "duration": "27:18"
+              "title": "Question 6 to 10",
+              "duration": "27:18",
+              "subtitle": "Solution of Q6 to 10 - Exercise 9.4"
             }
           ]
         },
@@ -941,18 +1062,21 @@
           "videos": [
             {
               "videoId": "UAEWlFsRgC0",
-              "title": "Q1 MCQs",
-              "duration": "19:40"
+              "title": "Question 1 (MCQs)",
+              "duration": "19:40",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 9"
             },
             {
               "videoId": "eHAjSp75BSE",
-              "title": "Q2 to 6",
-              "duration": "28:27"
+              "title": "Question 2 to 6",
+              "duration": "28:27",
+              "subtitle": "Solution of Q2 to 6 - Review Exercise 9"
             },
             {
               "videoId": "cC3qfRVScNE",
-              "title": "Q7,8,9",
-              "duration": "31:20"
+              "title": "Question 7,8,9",
+              "duration": "31:20",
+              "subtitle": "Solution of Q7,8,9 - Review Exercise 9"
             }
           ]
         }
@@ -970,31 +1094,31 @@
           "videos": [
             {
               "videoId": "8emXXuntG3o",
-              "title": "Q1 (i,ii,iii)",
+              "title": "Question 1 (i,ii,iii)",
               "subtitle": "Linear Function",
               "duration": "29:08"
             },
             {
               "videoId": "7etV96joax4",
-              "title": "Q2 (i,ii)",
+              "title": "Question 2 (i,ii)",
               "subtitle": "Graph of Quadratic & Cubic Functions",
               "duration": "41:17"
             },
             {
               "videoId": "sLYN_HYwuGQ",
-              "title": "Q2 (iii,iv)",
+              "title": "Question 2 (iii,iv)",
               "subtitle": "Graph of Quadratic & Cubic Functions",
               "duration": "34:13"
             },
             {
               "videoId": "7mCxWtF3MmM",
-              "title": "Q3 (i-iv)",
+              "title": "Question 3 (i-iv)",
               "subtitle": "Graph of Exponential & Reciprocal Functions",
               "duration": "1:01:25"
             },
             {
               "videoId": "yr5tPa249g4",
-              "title": "Q3 (v,vi,vii)",
+              "title": "Question 3 (v,vi,vii)",
               "subtitle": "Graph of Functions",
               "duration": "35:31"
             }
@@ -1006,18 +1130,21 @@
           "videos": [
             {
               "videoId": "uw-FfSWMLPM",
-              "title": "Q1,2",
-              "duration": "40:16"
+              "title": "Question 1,2",
+              "duration": "40:16",
+              "subtitle": "Solution of Q1,2 - Exercise 10.2"
             },
             {
               "videoId": "-UYKY5kY_xI",
-              "title": "Q3,4",
-              "duration": "30:07"
+              "title": "Question 3,4",
+              "duration": "30:07",
+              "subtitle": "Solution of Q3,4 - Exercise 10.2"
             },
             {
               "videoId": "Ot1-cXhcnls",
-              "title": "Q5,6",
-              "duration": "47:12"
+              "title": "Question 5,6",
+              "duration": "47:12",
+              "subtitle": "Solution of Q5,6 - Exercise 10.2"
             }
           ]
         },
@@ -1027,13 +1154,15 @@
           "videos": [
             {
               "videoId": "wwNSta6SVcM",
-              "title": "Q1,2",
-              "duration": "34:41"
+              "title": "Question 1,2",
+              "duration": "34:41",
+              "subtitle": "Solution of Q1,2 - Review Exercise 10"
             },
             {
               "videoId": "uEBjiATFgLo",
-              "title": "Q4 (i,ii)",
-              "duration": "32:04"
+              "title": "Question 4 (i,ii)",
+              "duration": "32:04",
+              "subtitle": "Solution of Q4 (i,ii) - Review Exercise 10"
             }
           ]
         }
@@ -1051,37 +1180,37 @@
           "videos": [
             {
               "videoId": "qRMsEE2GoSs",
-              "title": "Q1(i)",
+              "title": "Question 1(i)",
               "subtitle": "Perpendicular Bisectors",
               "duration": "21:04"
             },
             {
               "videoId": "FZaSWr5Bl_A",
-              "title": "Q1(ii)",
+              "title": "Question 1(ii)",
               "subtitle": "Perpendicular Bisectors",
               "duration": "21:47"
             },
             {
               "videoId": "U7EQy40ZrpI",
-              "title": "Q2 (i,ii)",
+              "title": "Question 2 (i,ii)",
               "subtitle": "Medians of the Triangle",
               "duration": "35:13"
             },
             {
               "videoId": "N2Df1voDSR4",
-              "title": "Q3 (i,ii)",
+              "title": "Question 3 (i,ii)",
               "subtitle": "Angles Bisectors of the Triangle",
               "duration": "26:36"
             },
             {
               "videoId": "bzN3yoPSgds",
-              "title": "Q4",
+              "title": "Question 4",
               "subtitle": "Orthocentre",
               "duration": "18:02"
             },
             {
               "videoId": "xWzzY2-T0fA",
-              "title": "Q5 (i,ii)",
+              "title": "Question 5 (i,ii)",
               "subtitle": "Ambiguous Case",
               "duration": "19:21"
             }
@@ -1101,18 +1230,19 @@
           "videos": [
             {
               "videoId": "k_NUvu5GHhg",
-              "title": "Q1,2",
-              "duration": "26:30"
+              "title": "Question 1,2",
+              "duration": "26:30",
+              "subtitle": "Solution of Q1,2 - Exercise 12.1"
             },
             {
               "videoId": "puoLuk317JU",
-              "title": "Q3,4",
+              "title": "Question 3,4",
               "subtitle": "Frequency Polygon & Histogram",
               "duration": "46:12"
             },
             {
               "videoId": "WFFaFV_2xP8",
-              "title": "Q7",
+              "title": "Question 7",
               "subtitle": "How to Draw the Histogram",
               "duration": "22:05"
             }
@@ -1124,25 +1254,27 @@
           "videos": [
             {
               "videoId": "-5NONZBCh0o",
-              "title": "Q1,2,3",
+              "title": "Question 1,2,3",
               "subtitle": "Mode",
               "duration": "26:48"
             },
             {
               "videoId": "M86QQTHaQJI",
-              "title": "Q4,5",
+              "title": "Question 4,5",
               "subtitle": "Mode",
               "duration": "33:04"
             },
             {
               "videoId": "fucJlAZ_0ws",
-              "title": "Q6,7,8,9",
-              "duration": "30:45"
+              "title": "Question 6,7,8,9",
+              "duration": "30:45",
+              "subtitle": "Solution of Q6,7,8,9 - Exercise 12.2"
             },
             {
               "videoId": "lqpkMBL8JiU",
-              "title": "Q10,11(i),12",
-              "duration": "41:42"
+              "title": "Question 10,11(i),12",
+              "duration": "41:42",
+              "subtitle": "Solution of Q10,11(i),12 - Exercise 12.2"
             }
           ]
         },
@@ -1152,18 +1284,21 @@
           "videos": [
             {
               "videoId": "mb0ffAOKKQM",
-              "title": "Q1,2,3",
-              "duration": "37:12"
+              "title": "Question 1,2,3",
+              "duration": "37:12",
+              "subtitle": "Solution of Q1,2,3 - Review Exercise 12"
             },
             {
               "videoId": "rBau1S695Fk",
-              "title": "Q4,5,6",
-              "duration": "39:23"
+              "title": "Question 4,5,6",
+              "duration": "39:23",
+              "subtitle": "Solution of Q4,5,6 - Review Exercise 12"
             },
             {
               "videoId": "BDte3bEtcsY",
-              "title": "Q8,9,10,11",
-              "duration": "15:14"
+              "title": "Question 8,9,10,11",
+              "duration": "15:14",
+              "subtitle": "Solution of Q8,9,10,11 - Review Exercise 12"
             }
           ]
         }
@@ -1181,18 +1316,21 @@
           "videos": [
             {
               "videoId": "whKa2s5NBP8",
-              "title": "Q1,2,3",
-              "duration": "52:47"
+              "title": "Question 1,2,3",
+              "duration": "52:47",
+              "subtitle": "Solution of Q1,2,3 - Exercise 13.1"
             },
             {
               "videoId": "vYzDNH-0og0",
-              "title": "Q4,5,6",
-              "duration": "20:15"
+              "title": "Question 4,5,6",
+              "duration": "20:15",
+              "subtitle": "Solution of Q4,5,6 - Exercise 13.1"
             },
             {
               "videoId": "nRHVozy0bHs",
-              "title": "Q7,8,9",
-              "duration": "32:24"
+              "title": "Question 7,8,9",
+              "duration": "32:24",
+              "subtitle": "Solution of Q7,8,9 - Exercise 13.1"
             }
           ]
         },
@@ -1202,7 +1340,7 @@
           "videos": [
             {
               "videoId": "VsbZ7ASmNjI",
-              "title": "Q1,2,3,4",
+              "title": "Question 1,2,3,4",
               "subtitle": "Relative Frequency",
               "duration": "22:35"
             }
@@ -1214,8 +1352,9 @@
           "videos": [
             {
               "videoId": "8SwGfR6e5PA",
-              "title": "Q1 MCQs",
-              "duration": "13:01"
+              "title": "Question 1 (MCQs)",
+              "duration": "13:01",
+              "subtitle": "Solution of Q1 MCQs - Review Exercise 13"
             }
           ]
         }
@@ -1234,12 +1373,14 @@
             {
               "videoId": "7DA-jBM5swU",
               "title": "Definitions â€” Unit 1,2",
-              "duration": "12:29"
+              "duration": "12:29",
+              "subtitle": "Solution of Definitions â€” Unit 1,2 - Definitions"
             },
             {
               "videoId": "6NCC06VWplU",
               "title": "Definitions â€” Unit 3 & 4",
-              "duration": "11:26"
+              "duration": "11:26",
+              "subtitle": "Solution of Definitions â€” Unit 3 & 4 - Definitions"
             }
           ]
         }
