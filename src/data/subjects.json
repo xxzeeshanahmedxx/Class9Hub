@@ -13,7 +13,8 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-Math.pdf"
   },
   {
     "id": "physics",
@@ -29,7 +30,8 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-Physics.pdf"
   },
   {
     "id": "chemistry",
@@ -45,7 +47,8 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-Chemistry.pdf"
   },
   {
     "id": "urdu",
@@ -61,7 +64,8 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-Urdu.pdf"
   },
   {
     "id": "computer",
@@ -93,7 +97,8 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-Biology.pdf"
   },
   {
     "id": "english",
@@ -109,6 +114,7 @@
     "card": "#12121c",
     "card2": "#1a1a28",
     "line": "#1e1e30",
-    "soft": "#161624"
+    "soft": "#161624",
+    "pdfUrl": "https://pdfs.class9hub.com/9th-English.pdf"
   }
 ]
