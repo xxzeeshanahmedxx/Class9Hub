@@ -165,6 +165,7 @@ img {
   --s-to: #6366f1;
   --s-glow: rgba(99, 102, 241, 0.35);
   --s-text: #a5b4fc;
+  --s-gradient: linear-gradient(140deg, #312e81 0%, #3b33b0 30%, #4338ca 55%, #5550d8 80%, #6366f1 100%);
 }
 .s-physics {
   --s-from: #042f2e;
@@ -172,6 +173,7 @@ img {
   --s-to: #14b8a6;
   --s-glow: rgba(20, 184, 166, 0.3);
   --s-text: #5eead4;
+  --s-gradient: linear-gradient(140deg, #042f2e 0%, #0a5450 30%, #0f766e 55%, #119a8f 80%, #14b8a6 100%);
 }
 .s-chemistry {
   --s-from: #082f49;
@@ -179,6 +181,7 @@ img {
   --s-to: #38bdf8;
   --s-glow: rgba(56, 189, 248, 0.3);
   --s-text: #7dd3fc;
+  --s-gradient: linear-gradient(140deg, #082f49 0%, #044d75 30%, #0369a1 55%, #1d8fd4 80%, #38bdf8 100%);
 }
 .s-biology {
   --s-from: #052e16;
@@ -186,6 +189,7 @@ img {
   --s-to: #4ade80;
   --s-glow: rgba(74, 222, 128, 0.3);
   --s-text: #86efac;
+  --s-gradient: linear-gradient(140deg, #052e16 0%, #0d5e2b 30%, #15803d 55%, #2ca05c 80%, #4ade80 100%);
 }
 .s-computer {
   --s-from: #2e1065;
@@ -193,6 +197,7 @@ img {
   --s-to: #a78bfa;
   --s-glow: rgba(167, 139, 250, 0.3);
   --s-text: #c4b5fd;
+  --s-gradient: linear-gradient(140deg, #2e1065 0%, #4c1d95 30%, #6d28d9 55%, #8b5cf6 80%, #a78bfa 100%);
 }
 .s-urdu {
   --s-from: #451a03;
@@ -200,6 +205,7 @@ img {
   --s-to: #fbbf24;
   --s-glow: rgba(251, 191, 36, 0.25);
   --s-text: #fde68a;
+  --s-gradient: linear-gradient(140deg, #451a03 0%, #7c3706 30%, #b45309 55%, #d48a15 80%, #fbbf24 100%);
 }
 .s-english {
   --s-from: #450a0a;
@@ -207,6 +213,7 @@ img {
   --s-to: #f87171;
   --s-glow: rgba(248, 113, 113, 0.3);
   --s-text: #fca5a5;
+  --s-gradient: linear-gradient(140deg, #450a0a 0%, #7f1212 30%, #b91c1c 55%, #dc3030 80%, #f87171 100%);
 }
 
 /* ───────────────────────────────────────────────

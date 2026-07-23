@@ -1,0 +1,888 @@
+{
+  "subject": "chemistry",
+  "total": 88,
+  "success": 0,
+  "fail": 88,
+  "videos": [
+    {
+      "videoId": "ES8zqKfxSX4",
+      "title": "Introduction All Chapters",
+      "subtitle": "",
+      "duration": "35:15",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "AgyOnPz6LQM",
+      "title": "What is Chemistry? Branches of Chemistry Part 1",
+      "subtitle": "",
+      "duration": "20:13",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "X9-7LjRskt8",
+      "title": "What is Chemistry? Branches of Chemistry Part 2",
+      "subtitle": "",
+      "duration": "15:10",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "oxja_P7DudU",
+      "title": "State of Matter",
+      "subtitle": "",
+      "duration": "17:49",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "1UTNKq58dKg",
+      "title": "State of Matter Part 2",
+      "subtitle": "",
+      "duration": "9:25",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "C82nqKX2-L4",
+      "title": "Elements, Compound and Mixture",
+      "subtitle": "",
+      "duration": "14:08",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "YNtIm87Wg-Q",
+      "title": "Allotropic Forms of Substances",
+      "subtitle": "",
+      "duration": "7:48",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "Nl5CO3bZxUU",
+      "title": "Differences Between, Element Compounds Mixtures",
+      "subtitle": "",
+      "duration": "7:17",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "sYrlGnIctBI",
+      "title": "Solution, Colloidal Solution and Suspension",
+      "subtitle": "",
+      "duration": "5:54",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "-5piKYfuMOI",
+      "title": "Formation of Unsaturated & Saturated Solutions",
+      "subtitle": "",
+      "duration": "16:14",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "tMhQmgtoTs8",
+      "title": "Effect of Temperature on Solubility of Solutes",
+      "subtitle": "",
+      "duration": "11:11",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "U6YUwhdDUTQ",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "20:24",
+      "chapter": "Introduction to Chemistry",
+      "chapterId": "ch1",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "K-QVMgaubU4",
+      "title": "Structure of Atom, Discovery of Electron",
+      "subtitle": "",
+      "duration": "27:06",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "R4_7vQO62dk",
+      "title": "Discovery of Nucleus & Bohr's Atomic Model",
+      "subtitle": "",
+      "duration": "21:28",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "GAid2V3q0oI",
+      "title": "Atomic Number and Mass Number",
+      "subtitle": "",
+      "duration": "25:55",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "u4sV81jLG9Q",
+      "title": "Discovery of Proton and Neutron",
+      "subtitle": "",
+      "duration": "24:27",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "yE_CgXxiMqw",
+      "title": "Isotopes And Their Masses",
+      "subtitle": "",
+      "duration": "24:31",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "IAIc5iuWVTE",
+      "title": "Application of Radio Active Isotopes",
+      "subtitle": "",
+      "duration": "21:54",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "ShcPCxsLpRs",
+      "title": "Relative Atomic Mass",
+      "subtitle": "",
+      "duration": "18:16",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "hNFuZJc6YqU",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "18:32",
+      "chapter": "Structure of Atom",
+      "chapterId": "ch2",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "0khSzcUPKSY",
+      "title": "Why Do Atoms form Chemical Bonds, Chemical Bonding",
+      "subtitle": "",
+      "duration": "20:53",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "kR_W9aGmFDo",
+      "title": "Ionic Bond",
+      "subtitle": "",
+      "duration": "24:47",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "7XXD4n3nkwA",
+      "title": "Covalent Bond",
+      "subtitle": "",
+      "duration": "22:10",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "vNlhE2ustAk",
+      "title": "Formation of Covalent Compounds",
+      "subtitle": "",
+      "duration": "19:02",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "_fP9tUxpSyc",
+      "title": "Polar and Non Polar Covalent Bond",
+      "subtitle": "",
+      "duration": "8:42",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "0HO6HYY5zBM",
+      "title": "Coordinate Covalent Bond",
+      "subtitle": "",
+      "duration": "22:59",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "rRRhTs4rS2I",
+      "title": "Metallic Bond",
+      "subtitle": "",
+      "duration": "21:16",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "gsZfYxInVTo",
+      "title": "Electropositive Character of Metals and Non-Metals",
+      "subtitle": "",
+      "duration": "16:42",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "jCP-U_Sz3xw",
+      "title": "Compare of Ionic and Covalent Compounds",
+      "subtitle": "",
+      "duration": "12:46",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "js4Gauy2ZoE",
+      "title": "Intermolecular Forces of Attraction",
+      "subtitle": "",
+      "duration": "20:14",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "aRh78dCScxk",
+      "title": "Nature of Bonding and Properties",
+      "subtitle": "",
+      "duration": "24:40",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "vNOYKPxyA2c",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "21:52",
+      "chapter": "Chemical Bonding",
+      "chapterId": "ch3",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "KxYwk1YOCWY",
+      "title": "Chemical and Empirical Formula",
+      "subtitle": "",
+      "duration": "28:17",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "fY4LF4ioKHs",
+      "title": "Chemical Formula of Binary Ionic Compounds",
+      "subtitle": "",
+      "duration": "16:17",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "cjtj66KnE0o",
+      "title": "Chemical Formula of Compounds",
+      "subtitle": "",
+      "duration": "24:27",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "lRnNlrDQkho",
+      "title": "Deduce The Molecular Formula From Structural Formula",
+      "subtitle": "",
+      "duration": "16:32",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "rNaQ_zpC7ck",
+      "title": "Avogadro's Number",
+      "subtitle": "",
+      "duration": "14:33",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "jzegziUc2ds",
+      "title": "The Mole And Molar Mass",
+      "subtitle": "",
+      "duration": "10:08",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "WSTT6CDDe8I",
+      "title": "Chemical Equation & Chemical Reaction",
+      "subtitle": "",
+      "duration": "23:36",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "oK7Jw3kWYfM",
+      "title": "Calculation Based on Chemical Equation",
+      "subtitle": "",
+      "duration": "7:37",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "3GoB_X9i95E",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "27:04",
+      "chapter": "Chemical Formulae & Equations",
+      "chapterId": "ch4",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "VV24NVGpTWQ",
+      "title": "Energetics, Form of Energy",
+      "subtitle": "",
+      "duration": "21:57",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "il6iLapU-V4",
+      "title": "Energetics, System and Surrounding",
+      "subtitle": "",
+      "duration": "6:28",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "gqU6PzZ9uw8",
+      "title": "Energetics, Enthalpy",
+      "subtitle": "",
+      "duration": "9:12",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "2sRMtQxEvVQ",
+      "title": "Energetics, Exothermic and Endothermic Reactions",
+      "subtitle": "",
+      "duration": "18:37",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "wMoBEQcfiM4",
+      "title": "Energetics, Exothermic and Endothermic Reactions Example",
+      "subtitle": "",
+      "duration": "13:05",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "wpfRVlm6aAs",
+      "title": "Energetics, How does a Reaction Take Place",
+      "subtitle": "",
+      "duration": "19:24",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "MF4SBPjAu80",
+      "title": "Energetics, Aerobic and Anaerobic Respiration",
+      "subtitle": "",
+      "duration": "17:57",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "vJg1XRerPj8",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "22:45",
+      "chapter": "Energetics",
+      "chapterId": "ch5",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "rffqdpBE9UE",
+      "title": "Reversible and Irreversible Changes",
+      "subtitle": "",
+      "duration": "23:10",
+      "chapter": "Chemical Equilibrium",
+      "chapterId": "ch6",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "rqkRkkAEcpI",
+      "title": "Dynamic Equilibrium",
+      "subtitle": "",
+      "duration": "10:26",
+      "chapter": "Chemical Equilibrium",
+      "chapterId": "ch6",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "xxHRJP8QMlc",
+      "title": "Changing the Physical Condition of a Chemical Reaction",
+      "subtitle": "",
+      "duration": "19:09",
+      "chapter": "Chemical Equilibrium",
+      "chapterId": "ch6",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "PzNP3nAuyLI",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "17:32",
+      "chapter": "Chemical Equilibrium",
+      "chapterId": "ch6",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "h9AsjGnDnv4",
+      "title": "Acids and Bases",
+      "subtitle": "",
+      "duration": "11:44",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "eyf6FE_Hr5s",
+      "title": "Different Concepts of Acids and Bases",
+      "subtitle": "",
+      "duration": "30:08",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "r2EK4Yof12s",
+      "title": "Bronsted - Lowry Concepts of Acids and Bases",
+      "subtitle": "",
+      "duration": "12:13",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "4psN9oWez7M",
+      "title": "Properties of Acids and Bases",
+      "subtitle": "",
+      "duration": "11:41",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "LVGRJk7IwP0",
+      "title": "Acid Rain and It's Effects",
+      "subtitle": "",
+      "duration": "14:22",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "Pb2zf4KU-OY",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "21:55",
+      "chapter": "Acids & Bases",
+      "chapterId": "ch7",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "QajhDgMEbFc",
+      "title": "Modern Periodic Table",
+      "subtitle": "",
+      "duration": "21:45",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "e9jC9oc-h6M",
+      "title": "Salient Feature of Modern Periodic Table",
+      "subtitle": "",
+      "duration": "23:57",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "ueF-NpPDWrQ",
+      "title": "Similarities in Chemical Properties of Elements in Same Group",
+      "subtitle": "",
+      "duration": "29:08",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "KJUgigtC3Fo",
+      "title": "Variation of Periodic in Periods and Groups Part 1",
+      "subtitle": "",
+      "duration": "22:08",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "q0SMzjweXio",
+      "title": "Variation of Periodic in Periods and Groups Part 2",
+      "subtitle": "",
+      "duration": "15:36",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "vISCT3F4xNg",
+      "title": "Metallic and Reactivity",
+      "subtitle": "",
+      "duration": "9:53",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "U8fF0clxBmw",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "22:54",
+      "chapter": "Periodic Table",
+      "chapterId": "ch8",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "jZ-QJBd6geg",
+      "title": "Properties of Group 17 Elements",
+      "subtitle": "",
+      "duration": "16:17",
+      "chapter": "Group Properties",
+      "chapterId": "ch9",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "N_7cAyrKfz8",
+      "title": "Properties of Group 1 Elements",
+      "subtitle": "",
+      "duration": "15:31",
+      "chapter": "Group Properties",
+      "chapterId": "ch9",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "vNDHXvKO4WM",
+      "title": "Group Properties Transition Elements, Properties of Noble Gases",
+      "subtitle": "",
+      "duration": "20:00",
+      "chapter": "Group Properties",
+      "chapterId": "ch9",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "qEoLxXFjd2Q",
+      "title": "Physical Properties of Metals and Non-Metals",
+      "subtitle": "",
+      "duration": "10:58",
+      "chapter": "Group Properties",
+      "chapterId": "ch9",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "7YcRDekgOkk",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "20:01",
+      "chapter": "Group Properties",
+      "chapterId": "ch9",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "sAQ2f9qDSk0",
+      "title": "Global Warming",
+      "subtitle": "",
+      "duration": "18:33",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "NG6cfe3UQyM",
+      "title": "Strategies to Reduce Environmental Issues",
+      "subtitle": "",
+      "duration": "13:11",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "9QzwE--dTN0",
+      "title": "How to Avoid Harmful Effects of Air Pollution",
+      "subtitle": "",
+      "duration": "8:41",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "8PVSsH57WwU",
+      "title": "Introduction, Composition of Atmosphere, Air Pollutants",
+      "subtitle": "",
+      "duration": "15:04",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "J1O9QSYHUl8",
+      "title": "Acid Rain",
+      "subtitle": "",
+      "duration": "14:49",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "hWk09KPFfHw",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "13:42",
+      "chapter": "Environmental Chemistry",
+      "chapterId": "ch10",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "7eBL3YL4bKY",
+      "title": "Introduction, Hydrocarbons",
+      "subtitle": "",
+      "duration": "23:52",
+      "chapter": "Hydrocarbons",
+      "chapterId": "ch11",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "34uxEnVIyhM",
+      "title": "Alkanes",
+      "subtitle": "",
+      "duration": "24:46",
+      "chapter": "Hydrocarbons",
+      "chapterId": "ch11",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "8MmXUaB8UrY",
+      "title": "Preparation of Alkanes",
+      "subtitle": "",
+      "duration": "10:38",
+      "chapter": "Hydrocarbons",
+      "chapterId": "ch11",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "YS99wByYn04",
+      "title": "Importance of Reaction",
+      "subtitle": "",
+      "duration": "21:03",
+      "chapter": "Hydrocarbons",
+      "chapterId": "ch11",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "Z0POr_uLToA",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "24:25",
+      "chapter": "Hydrocarbons",
+      "chapterId": "ch11",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "eC7Q4kaC8Vg",
+      "title": "Introduction, SI Unit in Chemistry",
+      "subtitle": "",
+      "duration": "16:24",
+      "chapter": "Chemistry Measurements",
+      "chapterId": "ch12",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "VHXdJAFEBQ4",
+      "title": "Tools and Techniques to Manage Accuracy and Precision",
+      "subtitle": "",
+      "duration": "15:10",
+      "chapter": "Chemistry Measurements",
+      "chapterId": "ch12",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "20hHa5v9-0Q",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "19:44",
+      "chapter": "Chemistry Measurements",
+      "chapterId": "ch12",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "aE4-5BRQUPQ",
+      "title": "Exercise \u00e2\u20ac\u201d MCQs, Short & Long Questions",
+      "subtitle": "",
+      "duration": "16:45",
+      "chapter": "Lab Safety & Hazards",
+      "chapterId": "ch13",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "pQOO-BN490k",
+      "title": "Hazard Signs to Emergency Situation in the Lab",
+      "subtitle": "",
+      "duration": "9:32",
+      "chapter": "Lab Safety & Hazards",
+      "chapterId": "ch13",
+      "section": "",
+      "sectionId": ""
+    },
+    {
+      "videoId": "8llpccWcYSQ",
+      "title": "Introduction, Chemical Hazards in the Laboratory",
+      "subtitle": "",
+      "duration": "17:32",
+      "chapter": "Lab Safety & Hazards",
+      "chapterId": "ch13",
+      "section": "",
+      "sectionId": ""
+    }
+  ]
+}
