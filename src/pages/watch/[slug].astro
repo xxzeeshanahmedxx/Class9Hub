@@ -40,6 +40,9 @@ const chUrl = `/${video.subjectId}/${video.chapterId}/`;
 const summaryKey = `/docs/${video.subjectId}/${video.chapterId}/${video.videoId}.md`;
 const rawSummary = summaryModules[summaryKey] || null;
 const summaryHtml = rawSummary ? mdToHtml(rawSummary) : null;
+
+// Start offset: 7s for all subjects except computer & math
+const startOffset = (video.subjectId !== 'computer' && video.subjectId !== 'math') ? 7 : 0;
 ---
 
 <Layout
@@ -75,7 +78,7 @@ const summaryHtml = rawSummary ? mdToHtml(rawSummary) : null;
       <div class="absolute inset-0 skeleton-pulse" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #1a1a2e 100%); background-size: 400% 400%;"></div>
       <iframe
         class="absolute inset-0 w-full h-full"
-        src={`https://www.youtube-nocookie.com/embed/${video.videoId}?autoplay=1&rel=0&iv_load_policy=3&playsinline=1&enablejsapi=1&origin=${SITE_URL}`}
+        src={`https://www.youtube-nocookie.com/embed/${video.videoId}?autoplay=1&rel=0&iv_load_policy=3&playsinline=1&enablejsapi=1&origin=${SITE_URL}${startOffset > 0 ? `&start=${startOffset}` : ''}`}
         title="YouTube video player"
         allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
         allowfullscreen
