@@ -18,7 +18,7 @@ export function mdToHtml(md) {
     }
     if (line.startsWith('# ')) {
       if (inList) { html += '</ul>'; inList = false; }
-      html += `<h1 class="text-[20px] sm:text-[22px] font-extrabold mt-6 mb-3" style="color: var(--text-primary);">${escapeHtml(line.replace('# ', ''))}</h1>`;
+      html += `<h2 class="text-[20px] sm:text-[22px] font-extrabold mt-6 mb-3" style="color: var(--text-primary);">${escapeHtml(line.replace('# ', ''))}</h2>`;
       continue;
     }
 

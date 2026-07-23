@@ -99,9 +99,9 @@ const startOffset = (video.subjectId !== 'computer' && video.subjectId !== 'math
     </div>
 
     <!-- Video Title -->
-    <h1 class="text-[22px] sm:text-[26px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
+    <p class="text-[22px] sm:text-[26px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);" role="heading" aria-level="2">
       {video.title}
-    </h1>
+    </p>
     {video.subtitle && (
       <p class="text-[15px] leading-relaxed" style="color: var(--text-secondary);">{video.subtitle}</p>
     )}
@@ -120,8 +120,7 @@ const startOffset = (video.subjectId !== 'computer' && video.subjectId !== 'math
         style={`background: ${accent}15; color: ${accent};`}
       >{video.chapterNumber}</div>
       <div class="min-w-0 flex-1">
-        <div class="text-[13px]" style="color: var(--text-muted);">Chapter {video.chapterNumber}</div>
-        <div class="text-[15px] font-semibold truncate" style="color: var(--text-primary);">{video.chapterTitle}</div>
+          <div class="text-[15px] font-semibold truncate" style="color: var(--text-primary);">{video.chapterTitle}</div>
       </div>
       <a
         href={chUrl}

@@ -74,7 +74,6 @@ const questionLabels = videos.map(v => v.title).join(', ');
 
 <Layout
   title={`${subject.title} 9th – ${secTitle}`}
-  subtitle={`${secTitle} · ${videos.length} questions`}
   desc={sectionDesc}
   accent={subject.accent}
   backUrl={`/${subject.id}/${chapter.id}/`}
@@ -113,13 +112,13 @@ const questionLabels = videos.map(v => v.title).join(', ');
           style={`background: ${subject.accent}12; color: ${subject.accent}; border: 1px solid ${subject.accent}20;`}
         >
           <span class="w-1.5 h-1.5 rounded-full" style={`background: ${subject.accent}; box-shadow: 0 0 6px ${subject.accent};`}></span>
-          {subject.title} · {videos.length} questions
+          {videos.length} questions
         </div>
 
         <!-- Title -->
-        <h1 class="anim d2 text-[22px] sm:text-[28px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
+        <p class="anim d2 text-[22px] sm:text-[28px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);" role="heading" aria-level="2">
           {secTitle}
-        </h1>
+        </p>
         <p class="anim d3 text-[15px]" style="color: var(--text-secondary);">{chTitle}</p>
 
         {summaryText && (

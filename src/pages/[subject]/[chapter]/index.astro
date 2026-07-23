@@ -79,7 +79,6 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
 
 <Layout
   title={`${subject.title} 9th – ${chTitle}`}
-  subtitle={chTitle}
   desc={chapterDesc}
   accent={subject.accent}
   backUrl={`/${subject.id}/`}
@@ -117,13 +116,13 @@ const sectionCount = isExercises ? (chapter.sections || []).length : 0;
           style={`background: ${subject.accent}12; color: ${subject.accent}; border: 1px solid ${subject.accent}20;`}
         >
           <span class="w-1.5 h-1.5 rounded-full" style={`background: ${subject.accent}; box-shadow: 0 0 6px ${subject.accent};`}></span>
-          {subject.title} · {totalVideoCount} lectures
+          {totalVideoCount} lectures
         </div>
 
         <!-- Title -->
-        <h1 class="anim d2 text-[24px] sm:text-[30px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);">
+        <p class="anim d2 text-[24px] sm:text-[30px] font-extrabold tracking-tight leading-tight mb-2" style="color: var(--text-primary);" role="heading" aria-level="2">
           {chTitle}
-        </h1>
+        </p>
 
         <!-- Stats -->
         <div class="anim d3 flex flex-wrap gap-4 sm:gap-6 mt-3">
