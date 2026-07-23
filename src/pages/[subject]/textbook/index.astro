@@ -209,21 +209,10 @@ const schema = {
 
       const CDN = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@6.1.200/build/';
 
-      function loadScript(src) {
-        return new Promise((resolve, reject) => {
-          const s = document.createElement('script');
-          s.src = src;
-          s.onload = resolve;
-          s.onerror = reject;
-          document.head.appendChild(s);
-        });
-      }
-
       async function init() {
         try {
-          await loadScript(CDN + 'pdf.min.js');
-          const pdfjsLib = window.pdfjsLib;
-          pdfjsLib.GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.js';
+          const pdfjsLib = await import(CDN + 'pdf.min.mjs');
+          pdfjsLib.GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.mjs';
 
           const loadingTask = pdfjsLib.getDocument({ url: pdfUrl, useRange: true });
           pdfDoc = await loadingTask.promise;
