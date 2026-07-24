@@ -180,7 +180,13 @@ const schema = {
               <span class="text-[13px]">Loading textbook...</span>
             </div>
           </div>
-          <canvas id="pdf-canvas" data-pdf-url={subject.pdfUrl} data-accent={accent} class="hidden"></canvas>
+          <canvas id="pdf-canvas"
+            data-pdf-base={subject.pdfUrl.replace('.pdf', '-part')}
+            data-pdf-chunks={JSON.stringify(subject.pdfChunks)}
+            data-full-pdf={subject.pdfUrl}
+            data-accent={accent}
+            class="hidden"
+          ></canvas>
         </div>
       </div>
     </div>
@@ -190,7 +196,9 @@ const schema = {
   <script is:inline>
     (function() {
       const canvas = document.getElementById('pdf-canvas');
-      const pdfUrl = canvas.getAttribute('data-pdf-url');
+      const pdfBase = canvas.getAttribute('data-pdf-base');
+      const pdfChunks = JSON.parse(canvas.getAttribute('data-pdf-chunks'));
+      const fullPdf = canvas.getAttribute('data-full-pdf');
       const accent = canvas.getAttribute('data-accent');
       const scrollEl = document.getElementById('pdf-scroll');
       const loadingEl = document.getElementById('pdf-loading');
@@ -202,79 +210,112 @@ const schema = {
       const zoomOutBtn = document.getElementById('pdf-zoom-out');
       const zoomLevel = document.getElementById('pdf-zoom-level');
 
+      const totalPages = pdfChunks.reduce(function(a, b) { return a + b; }, 0);
+      let partIndex = 0;
       let pdfDoc = null;
-      let currentPage = 1;
+      let currentGlobalPage = 1;
       let scale = 1.2;
       let renderTask = null;
 
       const CDN = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@6.1.200/build/';
 
-      async function init() {
-        try {
-          const pdfjsLib = await import(CDN + 'pdf.min.mjs');
-          pdfjsLib.GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.mjs';
-
-          const loadingTask = pdfjsLib.getDocument({ url: pdfUrl, useRange: true });
-          pdfDoc = await loadingTask.promise;
-          totalSpan.textContent = '/ ' + pdfDoc.numPages;
-          pageInput.max = pdfDoc.numPages;
-          canvas.classList.remove('hidden');
-          loadingEl.classList.add('hidden');
-          renderPage(1);
-        } catch (e) {
-          loadingEl.innerHTML = '<div class="text-[13px]" style="color: var(--text-muted);">Failed to load textbook. <a href="' + pdfUrl + '" target="_blank" style="color: ' + accent + ';">Open directly</a></div>';
-        }
+      function getPartUrl(index) {
+        return pdfBase + (index + 1) + '.pdf';
       }
 
-      async function renderPage(num) {
+      function getPartIndex(globalPage) {
+        var total = 0;
+        for (var i = 0; i < pdfChunks.length; i++) {
+          total += pdfChunks[i];
+          if (globalPage <= total) return i;
+        }
+        return pdfChunks.length - 1;
+      }
+
+      function getLocalPage(globalPage) {
+        var offset = 0;
+        for (var i = 0; i < partIndex; i++) offset += pdfChunks[i];
+        return globalPage - offset;
+      }
+
+      async function loadPart(index) {
+        if (pdfDoc) {
+          try { await pdfDoc.destroy(); } catch(e) {}
+          pdfDoc = null;
+        }
+        loadingEl.classList.remove('hidden');
+        var loadingTask = pdfjsLib.getDocument({ url: getPartUrl(index) });
+        pdfDoc = await loadingTask.promise;
+        partIndex = index;
+        totalSpan.textContent = '/ ' + pdfDoc.numPages;
+        pageInput.max = totalPages;
+        loadingEl.classList.add('hidden');
+      }
+
+      async function renderLocalPage(localPage) {
         if (!pdfDoc || renderTask) return;
-        const page = await pdfDoc.getPage(num);
-        const viewport = page.getViewport({ scale });
+        var page = await pdfDoc.getPage(localPage);
+        var viewport = page.getViewport({ scale: scale });
         canvas.width = viewport.width * devicePixelRatio;
         canvas.height = viewport.height * devicePixelRatio;
         canvas.style.width = viewport.width + 'px';
         canvas.style.height = viewport.height + 'px';
-
-        const ctx = canvas.getContext('2d');
+        var ctx = canvas.getContext('2d');
         ctx.scale(devicePixelRatio, devicePixelRatio);
-        renderTask = page.render({ canvasContext: ctx, viewport });
+        renderTask = page.render({ canvasContext: ctx, viewport: viewport });
         await renderTask.promise;
         renderTask = null;
-        currentPage = num;
-        pageInput.value = num;
+        pageInput.value = currentGlobalPage;
       }
 
-      function goToPage(num) {
-        num = Math.max(1, Math.min(num, pdfDoc.numPages));
-        if (num === currentPage) return;
-        renderPage(num);
+      async function goToPage(globalPage) {
+        globalPage = Math.max(1, Math.min(globalPage, totalPages));
+        if (globalPage === currentGlobalPage && pdfDoc) return;
+        var newPart = getPartIndex(globalPage);
+        if (newPart !== partIndex || !pdfDoc) {
+          await loadPart(newPart);
+        }
+        currentGlobalPage = globalPage;
+        var localPage = getLocalPage(globalPage);
+        await renderLocalPage(localPage);
+      }
+
+      async function init() {
+        try {
+          var pdfjsLib = await import(CDN + 'pdf.min.mjs');
+          pdfjsLib.GlobalWorkerOptions.workerSrc = CDN + 'pdf.worker.min.mjs';
+          canvas.classList.remove('hidden');
+          await goToPage(1);
+        } catch (e) {
+          loadingEl.innerHTML = '<div class="text-[13px]" style="color: var(--text-muted);">Failed to load textbook. <a href="' + fullPdf + '" target="_blank" style="color: ' + accent + ';">Open directly</a></div>';
+        }
       }
 
       pageInput.addEventListener('change', function() {
-        const v = parseInt(this.value);
-        if (v > 0 && v <= pdfDoc.numPages) goToPage(v);
-        else this.value = currentPage;
+        var v = parseInt(this.value);
+        if (v > 0 && v <= totalPages) goToPage(v);
+        else this.value = currentGlobalPage;
       });
 
-      prevBtn.addEventListener('click', () => goToPage(currentPage - 1));
-      nextBtn.addEventListener('click', () => goToPage(currentPage + 1));
+      prevBtn.addEventListener('click', function() { goToPage(currentGlobalPage - 1); });
+      nextBtn.addEventListener('click', function() { goToPage(currentGlobalPage + 1); });
 
       document.addEventListener('keydown', function(e) {
         if (e.target.tagName === 'INPUT') return;
-        if (e.key === 'ArrowLeft') goToPage(currentPage - 1);
-        if (e.key === 'ArrowRight') goToPage(currentPage + 1);
+        if (e.key === 'ArrowLeft') goToPage(currentGlobalPage - 1);
+        if (e.key === 'ArrowRight') goToPage(currentGlobalPage + 1);
       });
 
       zoomInBtn.addEventListener('click', function() {
         scale = Math.min(scale + 0.2, 3);
         zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
-        if (pdfDoc) renderPage(currentPage);
+        if (pdfDoc) renderLocalPage(getLocalPage(currentGlobalPage));
       });
 
       zoomOutBtn.addEventListener('click', function() {
         scale = Math.max(scale - 0.2, 0.4);
         zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
-        if (pdfDoc) renderPage(currentPage);
+        if (pdfDoc) renderLocalPage(getLocalPage(currentGlobalPage));
       });
 
       scrollEl.addEventListener('wheel', function(e) {
@@ -282,22 +323,21 @@ const schema = {
           e.preventDefault();
           scale = Math.max(0.4, Math.min(3, scale - e.deltaY * 0.01));
           zoomLevel.textContent = Math.round(scale / 1.2 * 100) + '%';
-          if (pdfDoc) renderPage(currentPage);
+          if (pdfDoc) renderLocalPage(getLocalPage(currentGlobalPage));
         }
       }, { passive: false });
 
-      // Touch swipe
-      let touchStart = null;
+      var touchStart = null;
       scrollEl.addEventListener('touchstart', function(e) {
         touchStart = { x: e.changedTouches[0].screenX, y: e.changedTouches[0].screenY };
       }, { passive: true });
       scrollEl.addEventListener('touchend', function(e) {
         if (!touchStart) return;
-        const dx = e.changedTouches[0].screenX - touchStart.x;
-        const dy = e.changedTouches[0].screenY - touchStart.y;
+        var dx = e.changedTouches[0].screenX - touchStart.x;
+        var dy = e.changedTouches[0].screenY - touchStart.y;
         if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.5) {
-          if (dx < 0) goToPage(currentPage + 1);
-          else goToPage(currentPage - 1);
+          if (dx < 0) goToPage(currentGlobalPage + 1);
+          else goToPage(currentGlobalPage - 1);
         }
         touchStart = null;
       }, { passive: true });
