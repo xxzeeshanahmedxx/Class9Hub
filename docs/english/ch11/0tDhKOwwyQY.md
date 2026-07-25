@@ -1,0 +1,30 @@
+# Vocabulary (Exercise B & C) — Class 9 English The Dear Departed Summary
+
+## Lecture Overview
+
+In this lecture, the teacher solves **Vocabulary (Exercise B & C) from The Dear Departed** from The Dear Departed. This is a step-by-step solution of the textbook exercises.
+
+## Problem Solved in This Lecture
+
+The teacher works through the exercise questions from The Dear Departed, showing the correct answers and explaining the reasoning behind each one.
+
+## Key Points
+- All exercise questions solved step by step.
+- Grammar and vocabulary exercises explained.
+- Important for board exam preparation.
+- Covers the key questions from the chapter.
+
+## What Students Should Focus On
+
+Follow along and attempt the exercises yourself before watching the solutions. This active approach helps with retention.
+
+## Textbook, Notes, and Practice Links
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
+- Video Notes: [Notes for this Lecture]({info['notesUrl']})
+- Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
+
+## Final Recap
+
+This exercise solution video helps students complete their homework and prepare for exams.
+
+*Perfect for Class 9 Punjab Board English students.*
