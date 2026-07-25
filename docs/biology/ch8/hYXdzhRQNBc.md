@@ -24,7 +24,7 @@ Sir draws a detailed comparison table. **Aerobic Respiration:** Requires oxygen,
 Pro tip: This comparison is almost guaranteed in board exams as either a short or long question. memorize a clear comparison table with at least 5 differences.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

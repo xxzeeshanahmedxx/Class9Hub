@@ -19,7 +19,7 @@ If you are given $F_x$ and $F_y$, you can find the original force ($F$) and its 
 Pro tip: When calculating direction, you must use the inverse tangent ($\tan^{-1}$) on the calculator. Furthermore, a common mistake is putting $F_x$ on top; it must strictly be $\frac{F_y}{F_x}$ to get the correct angle with the horizontal.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

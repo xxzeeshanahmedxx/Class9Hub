@@ -19,7 +19,7 @@ The teacher uses the previously defined terms (System and Surroundings). An Exot
 Honestly, the $\Delta H$ signs are the most tested MCQs in this chapter. You must memorize: EXothermic = EXit = Negative $\Delta H$. ENdothermic = ENter = Positive $\Delta H$. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

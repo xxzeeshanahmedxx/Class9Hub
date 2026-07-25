@@ -25,7 +25,7 @@ Sir explains that vegetative propagation uses plant parts other than seeds. **Na
 Honestly, the different modified stems (runner, rhizome, tuber, bulb, corm, sucker) are frequently tested. learn one example each and how they are modified stems rather than roots.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ He draws complex organic molecules on the board, showing every single Carbon and
 So basically, this is just a counting exercise! Be extremely careful not to miss any atoms hiding on the edges of the drawing. Double-check your counting for Carbon and Hydrogen specifically, as organic molecules can have dozens of them.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

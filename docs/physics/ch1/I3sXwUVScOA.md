@@ -22,7 +22,7 @@ Sir provides a straightforward, rule-based approach to rounding off. If the digi
 So basically, The Odd/Even rule for dropping a 5 is the most critical takeaway. Many students intuitively always round up when they see a 5, which is incorrect in standard scientific practice. Always check if the preceding number is odd or even!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ In a normal covalent bond, each atom contributes one electron to make a pair. Th
 Look, drawing the arrow correctly is everything in a dative bond. If you draw a normal straight line, it implies a standard covalent bond. The arrow MUST point from the atom with the lone pair (Donor) to the atom needing the electrons (Acceptor).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

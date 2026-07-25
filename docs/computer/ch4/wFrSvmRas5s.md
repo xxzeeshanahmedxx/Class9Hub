@@ -19,7 +19,7 @@ The instructor defines a simulation as a computer program that attempts to imita
 So basically, if asked for the advantages of simulations, focus on the "3 Safeties": They are financially safe (cheap), physically safe (no one gets hurt in a simulated plane crash), and environmentally safe (simulating chemical spills).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

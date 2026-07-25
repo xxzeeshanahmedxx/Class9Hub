@@ -24,7 +24,7 @@ Sir explains that the ETC is located in the inner mitochondrial membrane. NADH a
 So basically, the Electron Transport Chain is where most of the ATP is actually made. even if you understand glycolysis and the krebs cycle, if oxygen is missing, the cell gets only 2 atp instead of 36.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -23,7 +23,7 @@ Sir systematically explains each factor. **Temperature:** Higher temperature inc
 Pro tip: You should be able to explain WHY each factor affects transpiration. For example, wind removes the humid boundary layer near the leaf, increasing the concentration gradient—this is often tested in exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

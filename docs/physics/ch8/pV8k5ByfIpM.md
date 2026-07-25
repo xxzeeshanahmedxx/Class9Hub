@@ -21,7 +21,7 @@ The teacher explains that a magnetic tape is a long plastic strip coated with a 
 Look, Students should grasp the sequence of energy transformations: Sound Energy $\rightarrow$ Electrical Energy $\rightarrow$ Magnetic Energy (Stored) $\rightarrow$ Electrical Energy $\rightarrow$ Sound Energy. This sequence is a great example of the Conservation of Energy in action.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

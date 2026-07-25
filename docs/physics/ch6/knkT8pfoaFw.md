@@ -20,7 +20,7 @@ Our teacher defines Deformation as any change in the size or shape of an object 
 Honestly, The most common mistake is giving a unit to Strain. Students really need to explicitly remember and write down that Strain is a dimensionless, unitless ratio.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

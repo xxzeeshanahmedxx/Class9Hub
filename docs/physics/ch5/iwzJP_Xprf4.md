@@ -20,7 +20,7 @@ Sir defines Work as the product of force and the displacement of an object in th
 Pro tip: The concept of the angle $\theta$ is crucial. If a force is applied perfectly perpendicular ($90^{\circ}$) to the direction of motion, no work is done cuz $\cos(90^{\circ}) = 0$. This is why carrying a heavy bag horizontally does no work against gravity.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

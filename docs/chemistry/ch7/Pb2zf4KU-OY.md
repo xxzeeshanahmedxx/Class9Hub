@@ -18,7 +18,7 @@ The teacher reviews the classical, Arrhenius, and Brønsted-Lowry concepts. He f
 Actually, the most frequent error in this chapter is confusing Arrhenius and Brønsted-Lowry definitions in MCQs. Always remember: Arrhenius is strictly tied to "producing $H^+$ in WATER," whereas Brønsted-Lowry is broadly about "donating a proton." 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

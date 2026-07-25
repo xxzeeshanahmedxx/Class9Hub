@@ -20,7 +20,7 @@ The instructor introduces several interdisciplinary fields. Biophysics applies t
 Look, examiners love asking for examples. If asked about Biophysics, you must explicitly mention "the similarity between the working principles of the lever in physics and human limbs in biology."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

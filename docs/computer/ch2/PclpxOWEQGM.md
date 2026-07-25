@@ -19,7 +19,7 @@ Sir discusses the most common hardware faults. If the computer turns on but the 
 Look, identifying beep codes and overheating symptoms is crucial for MCQs. If the question mentions "random restarts after 10 minutes of gaming," the answer is almost always "CPU Overheating due to a faulty fan or dust."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

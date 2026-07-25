@@ -19,7 +19,7 @@ The instructor highlights several industries revolutionized by networking. E-com
 Look, this topic is usually reserved for long-form essay questions. You must be prepared to write a paragraph on at least three distinct applications. Using specific terms like "Telemedicine" and "E-commerce" instead of just saying "doctors" or "shopping" will impress the examiner.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

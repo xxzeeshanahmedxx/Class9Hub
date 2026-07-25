@@ -23,7 +23,7 @@ The instructor defines enzymes as specialized proteins that speed up biochemical
 Pro tip: The difference between anabolism and catabolism is a guaranteed MCQ. Remember: "Ana" = "build up" (think: Anabolic steroids build muscle); "Cata" = "break down" (think: Catastrophe breaks things apart).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Sir describes ribosomes as tiny, granular structures found in massive numbers in
 Listen carefully here: The fact that ribosomes have NO membrane is incredibly important. This is exactly why they are found in both Eukaryotes (which have membrane-bound organelles) AND Prokaryotes (bacteria, which don't). It is a favorite MCQ trap!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

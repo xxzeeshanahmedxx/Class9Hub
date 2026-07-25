@@ -20,7 +20,7 @@ The instructor introduces the "Fluid Mosaic Model." The membrane is not a solid 
 Look, the term "Fluid Mosaic Model" is essential. When asked to describe the cell membrane, you must use this specific term and explain that "fluid" refers to the flexible lipid layer, and "mosaic" refers to the scattered protein molecules embedded within it.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

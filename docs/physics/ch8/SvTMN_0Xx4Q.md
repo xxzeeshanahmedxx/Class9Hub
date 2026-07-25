@@ -19,7 +19,7 @@ Sir explains that inside a magnetic material, groups of atoms align their magnet
 So basically, The Domain Theory is the perfect answer for conceptual questions explaining how a magnet works. It also explains why breaking a magnet in half simply creates two smaller magnets: the aligned domains simply remain aligned in the broken pieces, maintaining a North and South pole.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

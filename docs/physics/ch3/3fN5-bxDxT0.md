@@ -21,7 +21,7 @@ The teacher draws a block resting on a table. The teacher identifies two forces:
 Actually, Always draw FBDs before attempting to solve Newton's Laws numericals. Identifying balanced and unbalanced forces visually makes the mathematical equations much easier to formulate.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

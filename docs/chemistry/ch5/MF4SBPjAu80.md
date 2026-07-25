@@ -19,7 +19,7 @@ The teacher explains that eating food (glucose) provides the body with chemical 
 Well, do not confuse Respiration with Breathing! Breathing is just moving air in and out of the lungs (a physical process). Respiration is the actual chemical, exothermic reaction happening inside the cells to generate energy.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

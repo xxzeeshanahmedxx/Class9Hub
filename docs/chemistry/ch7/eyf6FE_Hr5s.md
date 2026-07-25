@@ -20,7 +20,7 @@ Our teacher defines the Arrhenius Concept, wich depends entirely on water (aqueo
 So basically, the major limitation of the Arrhenius concept is a guaranteed board question. You must explicitly state that Arrhenius failed to explain the acidic/basic behavior of substances in non-aqueous (non-water) solvents.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

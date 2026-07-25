@@ -20,7 +20,7 @@ The instructor draws the different wiring layouts. In a Bus topology, all comput
 So basically, the Star Topology is the most important one to memorize because it is what modern schools and homes use. You must be able to draw its diagram—a central box (Switch) with lines radiating outward to multiple computers.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

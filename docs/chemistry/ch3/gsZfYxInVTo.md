@@ -19,7 +19,7 @@ The teacher defines Electropositivity as the tendency of an atom to lose electro
 Listen carefully here: Make sure you understand the trend! a frequent mcq asks which metal is more reactive. because electropositivity increases down a group, potassium (k) is more electropositive and reacts more violently than sodium (na), even though they are in the same column.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

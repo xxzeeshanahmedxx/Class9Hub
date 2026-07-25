@@ -25,7 +25,7 @@ Sir explains that the development begins inside the **Anther** (a four-lobed str
 Listen carefully here: The structure of a pollen grain (exine, intine, vegetative cell, generative cell) is frequently tested. Also, know that the pollen grain is the MALE gametophyte—students often think it is the male gamete itself.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

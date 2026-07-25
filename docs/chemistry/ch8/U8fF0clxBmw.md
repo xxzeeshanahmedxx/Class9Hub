@@ -19,7 +19,7 @@ The teacher reviews the structure of periods and groups and the definitions of t
 Actually, when asked to define a trend in an exam, stating the trend is only half the answer. If you write "Atomic size decreases across a period," you get 1 mark. You must add the justification: "because the increasing nuclear charge pulls the electrons closer, without any new shielding shells being added" to get full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

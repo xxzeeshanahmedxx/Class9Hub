@@ -18,7 +18,7 @@ The teacher answers the textbook's conceptual queries, explaining the reasoning 
 Look, Examiners love testing the "zero work" concept. Always remember that no matter how much force is applied or how tired a person gets, if the displacement ($S$) is zero, the Work done in physics is absolutely zero.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

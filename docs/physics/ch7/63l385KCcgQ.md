@@ -21,7 +21,7 @@ Sir defines each term clearly. Sensitivity is how much the liquid expands for a 
 Honestly, There is an inverse trade-off in thermometer design. Increasing the sensitivity (by making the tube narrower) usually decreases the overall range, and vice versa. You guys must be able to justify why clinical thermometers are designed the way they are.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

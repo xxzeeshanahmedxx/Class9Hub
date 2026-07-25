@@ -25,7 +25,7 @@ The teacher works through all short questions from the chapter exercise. Key top
 Before watching this exercise video, make sure you have watched all topic lectures of Chapter 1 first. The exercise is meant to test understanding after studying the full chapter. Practice the numerical and short questions yourself after watching — written practice is essential for board exam preparation.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

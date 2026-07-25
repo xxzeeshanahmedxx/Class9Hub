@@ -23,7 +23,7 @@ Sir explains that binary fission is a method of asexual reproduction where a par
 Honestly, binary fission is a straightforward concept but the steps must be memorized in order: DNA replication → cell elongation → septum formation → division into two daughter cells.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

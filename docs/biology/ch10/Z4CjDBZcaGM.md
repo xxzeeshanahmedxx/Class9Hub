@@ -24,7 +24,7 @@ Sir defines reproduction as the biological process by which organisms produce of
 Pro tip: The comparison between asexual and sexual reproduction is a guaranteed exam question. Remember at least 5 differences including number of parents, genetic variation, speed, and examples.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

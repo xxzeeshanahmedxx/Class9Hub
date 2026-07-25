@@ -19,7 +19,7 @@ Sir defines Polyatomic Ions as groups of covalently bonded atoms that carry an o
 Look, forgetting the brackets is fatal. Writing $CaOH_2$ means one Calcium, one Oxygen, and two Hydrogens. Writing $Ca(OH)_2$ correctly means one Calcium and TWO Hydroxide groups (two Oxygens and two Hydrogens). Always use brackets for radicals if the criss-crossed number is 2 or more.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

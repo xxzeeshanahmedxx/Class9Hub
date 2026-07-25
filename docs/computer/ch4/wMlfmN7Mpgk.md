@@ -20,7 +20,7 @@ Sir introduces the concept of Algorithmic Efficiency. Two different algorithms m
 Honestly, Make sure you understand the trade-off. a classic short-answer question asks how to compare two algorithms. you must explicitly mention evaluating both the "time (steps/speed)" and the "space (memory usage)" to determine wich one is superior.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

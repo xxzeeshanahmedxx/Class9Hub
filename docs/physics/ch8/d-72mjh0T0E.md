@@ -19,7 +19,7 @@ Sir explains that unlike heat or light, magnetic fields cannot be "blocked" by t
 Look, Drawing the diagram of magnetic shielding is a frequent exam question. Make sure you draw the parallel magnetic lines bending and crowding *into* the iron ring, while the center of the ring remains completely blank (zero field). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

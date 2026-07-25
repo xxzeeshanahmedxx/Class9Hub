@@ -19,7 +19,7 @@ Our teacher works through problems requiring the use of $P = \frac{W}{t}$. The t
 So basically, Unit conversion for time is the biggest trap here. If a problem states a machine worked for "2 minutes," dividing the work by 2 is completely wrong. You must multiply by 60 to get 120 seconds before dividing.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

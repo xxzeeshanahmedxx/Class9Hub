@@ -21,7 +21,7 @@ Our teacher displays the standard warning pictograms found on reagent bottles. T
 Look, memorizing the shapes of the hazard symbols is mandatory for MCQs. The difference between the Flammable symbol (just fire) and the Oxidizing symbol (fire over an 'O') is subtle but extremely important, as oxidizers can cause other materials to spontaneously combust.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Our teacher introduces the fixed points used to create these scales: the freezin
 Actually, The Kelvin scale does not use a degree symbol ($^{\circ}$). Writing "$273^{\circ}\text{K}$" is technically incorrect in physics; it must be written simply as "$273 \text{ K}$". Additionally, converting Celsius to Kelvin is the most vital mathematical skill required for gas law problems.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

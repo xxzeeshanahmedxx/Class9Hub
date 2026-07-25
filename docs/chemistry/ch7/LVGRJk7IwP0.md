@@ -20,7 +20,7 @@ Sir explains that burning fossil fuels releases Sulfur Dioxide ($SO_2$) and Nitr
 Actually, You guys must be able to write the chemical equation for the destruction of marble: $caco_3 + h_2so_4 \rightarrow caso_4 + h_2o + co_2$. this directly connects the previous lecture on acid properties to this environmental issue.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

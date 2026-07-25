@@ -21,7 +21,7 @@ The teacher links Uncertainty directly to the Least Count of an instrument. For 
 Actually, Students really need to grasp that writing $5.4 \pm 0.1$ cm means the true value lies somewhere strictly between 5.3 cm and 5.5 cm. To decrease uncertainty and improve data quality, one must use a more precise instrument, like switching from a meter rule to a Vernier calliper.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

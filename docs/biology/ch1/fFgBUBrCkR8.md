@@ -19,7 +19,7 @@ Sir references specific verses (Ayats) from the Holy Quran that command humans t
 Look, citing the specific translation "We made every living thing from water" is the best way to answer questions on this topic. It shows the direct alignment between the Quranic text and modern cell biology.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

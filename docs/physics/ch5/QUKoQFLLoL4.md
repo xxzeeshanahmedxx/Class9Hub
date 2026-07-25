@@ -19,7 +19,7 @@ Our teacher reinforces the standard numerical structure. The teacher demonstrate
 So basically, A very common arithmetic error occurs in the Kinetic Energy formula. Students often forget to square the velocity ($v^2$) or they square the entire ($mv$) term by mistake. The square applies *only* to the velocity!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

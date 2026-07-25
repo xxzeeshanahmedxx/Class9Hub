@@ -19,7 +19,7 @@ The teacher explains that some quantities (like mass or time) only need a number
 Pro tip: Memorizing the list of scalars vs vectors is critical for board exams. Confusing speed (scalar) with velocity (vector) is a common mistake that students must avoid.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

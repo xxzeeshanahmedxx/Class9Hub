@@ -56,7 +56,7 @@ So basically, The most vital takeaway from this lecture is the teacher’s final
 Additionally, students must memorize all seven base quantities perfectly. The teacher emphasized that there are strictly seven base quantities—no more, no less. Any physical quantity in the universe that is not one of those seven base quantities is automatically categorized as a derived quantity. Understanding this simple rule will make identifying physical properties much easier in future chapters.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

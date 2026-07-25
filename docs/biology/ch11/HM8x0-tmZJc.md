@@ -25,7 +25,7 @@ The instructor defines Biostatistics as the branch of biology that deals with th
 Pro tip: You need to know the definition of biostatistics and at least four uses for exam short questions. Focus on applications in medicine (drug testing), agriculture (crop yield), and ecology (population studies).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

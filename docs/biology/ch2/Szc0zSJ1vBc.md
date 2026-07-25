@@ -20,7 +20,7 @@ Sir explains the oldest system: the Two-Kingdom system (Plantae and Animalia). P
 So basically, examiners will definitely ask for the "Defects of the Two-Kingdom System." You must clearly state two things: First, it failed to classify organisms with dual traits (like Euglena). Second, it incorrectly grouped Fungi (heterotrophs) with Plants (autotrophs).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

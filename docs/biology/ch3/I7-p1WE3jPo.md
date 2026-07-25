@@ -18,7 +18,7 @@ The instructor explains that evolution tailored these cells for survival. A plan
 To be fair, conceptual questions often ask "What would happen if an animal cell had a cell wall?" You must answer that the animal would become completely rigid, paralyzed, and unable to move or contract its muscles, leading to its death.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

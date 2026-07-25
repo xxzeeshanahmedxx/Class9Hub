@@ -20,7 +20,7 @@ The teacher explains that thermometers rely on a "thermometric property"—a phy
 Well, Students really need to be able to list the properties that make mercury an ideal thermometric liquid. Its uniform expansion and high boiling point are frequently tested in short-answer questions.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

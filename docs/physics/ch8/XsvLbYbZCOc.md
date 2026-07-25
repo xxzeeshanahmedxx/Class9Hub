@@ -19,7 +19,7 @@ Our teacher reviews that permanent magnets are made of hard magnetic materials (
 Honestly, When asked for examples in board exams, students should distinguish between applications of permanent magnets (compasses, fridge doors) and electromagnets (scrap yard cranes, relays). Mixing these up will result in lost marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

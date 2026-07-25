@@ -19,7 +19,7 @@ Sir uses trigonometry to break down a vector (like a force acting at an angle). 
 Pro tip: Memorizing the trigonometric formulas is non-negotiable. Students realy need to remember that $F_x$ is strictly linked to cosine, and $F_y$ is strictly linked to sine (when the angle is measured from the x-axis). Mixing these up will ruin numerical calculations.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

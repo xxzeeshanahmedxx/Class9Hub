@@ -19,7 +19,7 @@ The instructor works through the textbook queries, ensuring students can correct
 To be fair, the sequence questions are the easiest place to lose marks. Always double-check your order: Cells make Tissues, Tissues make Organs, Organs make Systems. Do NOT mix up tissues and organs!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

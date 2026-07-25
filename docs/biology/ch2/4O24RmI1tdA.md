@@ -20,7 +20,7 @@ Sir explains why common names are terrible for science: an "Onion" in English is
 Look, the advantages of Binomial Nomenclature are heavily tested. You must mention that it provides a "universally accepted, standardized name that avoids the confusion of multiple regional common names for the same organism."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

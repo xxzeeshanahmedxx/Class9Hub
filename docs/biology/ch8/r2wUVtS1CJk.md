@@ -24,7 +24,7 @@ The instructor explains that cellular respiration is essentially the opposite of
 Pro tip: The amount of ATP produced in aerobic vs. anaerobic respiration is a frequently tested comparison. remember: aerobic = 36-38 ATP (full energy extraction), anaerobic = 2 ATP (partial breakdown).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Sir explains the four pillars: Decomposition, Pattern Recognition, Abstraction, 
 Honestly, you guys must memorize all four terms in order. They are the backbone of this chapter. Being able to define "Abstraction" (ignoring useless data) and "Decomposition" (breaking things down) is absolutely mandatory for the short-question section.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

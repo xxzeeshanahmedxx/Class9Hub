@@ -20,7 +20,7 @@ The teacher demonstrates how to use the liquid pressure formula ($P = \rho g h$)
 So basically, Always read the question carefully to see if it asks for "pressure exerted by the water" or "total absolute pressure at the bottom." Forgetting to add atmospheric pressure in the latter case will result in an incomplete answer.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

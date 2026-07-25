@@ -20,7 +20,7 @@ Sir walks stdents through the "Dot and Cross" method. He shows how the central a
 Pro tip: Do not forget the Lone Pairs! When drawing water ($H_2O$), if you only draw the lines to the hydrogens and forget to draw the 4 dots (2 lone pairs) sitting on top of the oxygen atom, the examiner will immediately deduct marks because the octet isn't complete.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

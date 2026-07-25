@@ -20,7 +20,7 @@ Sir explains that while all cells in a human have the exact same DNA, they do no
 Actually, Make sure you can link an organelle to a specialized cell. for example, if an exam asks "why do muscle cells have more mitochondria than skin cells?", you must answer that muscle cells require significantly more atp (energy) for physical contraction, whereas skin cells just act as a barrier.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -22,7 +22,7 @@ The teacher breaks down the anatomy of the Screw Gauge, consisting of a U-shaped
 Well, Remember the Least Count of the Screw Gauge: 0.01 mm. The teacher emphasized the importance of the ratchet; tightening the gauge from the thimble instead of the ratchet can damage the instrument and cause erroneous readings.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Our teacher tells us that the large coefficients in a balanced equation represen
 Pro tip: Do not skip the mole conversion! You CANNOT do mass-to-mass ratios directly (e.g., 10g of N2 does NOT give 20g of NH3 just bcuz the coefficient is 2). You must ALWAYS go through the "Mole Bridge" (Mass $\rightarrow$ Moles $\rightarrow$ Ratio $\rightarrow$ Moles $\rightarrow$ Mass).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Our teacher uses the classic example of Sodium Chloride (NaCl). Sodium (a metal)
 Look, drawing the Lewis dot and cross structure is crucial here. Board examiners require you to draw the arrows showing the exact movement of the electron from the metal to the non-metal, followed by brackets showing the final charges ($[Na]^+ [Cl]^-$).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

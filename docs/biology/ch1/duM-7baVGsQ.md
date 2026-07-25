@@ -19,7 +19,7 @@ The instructor explains that biology is the scientific study of life. Sir gives 
 Pro tip: Make sure you understand the roadmap of the book. examiners often combine concepts from different chapters in long-form questions, so treating each chapter as an isolated unit is a mistake.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

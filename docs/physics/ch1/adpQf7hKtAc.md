@@ -21,7 +21,7 @@ The teacher defines significant figures as all the accurately known digits plus 
 Honestly, The most heavily tested rule in 9th class exams is the treatment of zeros. You guys must memorize that leading zeros never count, while trapped and trailing zeros (in decimals) always count.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

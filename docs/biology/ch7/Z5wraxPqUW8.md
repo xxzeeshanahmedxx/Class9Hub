@@ -23,7 +23,7 @@ The instructor systematically covers each factor. **Temperature:** Enzyme activi
 Well, the graph of enzyme activity vs. temperature is extremely important for exams. You must be able to draw and label the bell-shaped curve, marking the optimum point and denaturation zone.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

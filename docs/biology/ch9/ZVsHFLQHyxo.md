@@ -25,7 +25,7 @@ Sir introduces the two vascular tissues. **Xylem:** Transports water and dissolv
 Honestly, a common exam question asks you to compare xylem and phloem. Learn their differences: what they transport, direction of flow, whether cells are alive or dead, and which plant parts they are found in.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

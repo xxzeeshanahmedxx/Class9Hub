@@ -20,7 +20,7 @@ The instructor explains that storing data purely on a local hard drive is risky;
 Actually, exam questions often ask for the main disadvantage of cloud storage. You must state the "Dependency on Internet Connection." If the Wi-Fi goes down, you completely lose access to all your cloud files, unlike a physical USB drive.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

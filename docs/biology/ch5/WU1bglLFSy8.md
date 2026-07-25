@@ -20,7 +20,7 @@ The instructor defines Homeostasis as the maintenance of a constant internal env
 Look, the three sub-types of homeostasis are guaranteed exam questions! You must memorize and differentiate between Thermoregulation (temperature), Osmoregulation (water/salts), and Excretion (metabolic waste like urea).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

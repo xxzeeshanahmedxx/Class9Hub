@@ -21,7 +21,7 @@ The instructor divides plastids into three types. **Chloroplasts** contain the g
 Actually, distinguishing between the three types of plastids is heavily tested in matching questions. Remember: Chloro = Green (Leaves/Food making), Chromo = Color (Flowers/Attraction), Leuco = White/Colorless (Roots/Storage).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

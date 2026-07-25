@@ -25,7 +25,7 @@ Sir explains that sexual reproduction in flowering plants occurs in flowers. The
 Well, the parts of a flower and their functions are essential knowledge. A labeled diagram of a flower showing all four whorls is a common exam question. practice drawing it.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

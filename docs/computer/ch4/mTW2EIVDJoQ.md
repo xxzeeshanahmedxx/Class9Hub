@@ -19,7 +19,7 @@ The instructor explains that computers are actually dumb; they only do exactly w
 So basically, the core takeaway is that computational thinking happens BEFORE coding. Examiners often try to trick students into saying it is a type of programming. You must state clearly that it is a *cognitive problem-solving skill*, not a software application.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

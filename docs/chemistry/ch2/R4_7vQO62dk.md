@@ -21,7 +21,7 @@ Sir explains Rutherford's experiment, where alpha particles were fired at a thin
 Actually, knowing the defects of Rutherford's model is just as important as knowing Bohr's model. Rutherford couldn't explain why the negative electrons didn't just spiral into the positive nucleus and collapse the atom. Bohr solved this by introducing "quantized" (fixed) energy levels.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

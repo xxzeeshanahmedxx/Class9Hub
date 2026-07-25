@@ -20,7 +20,7 @@ The instructor demonstrates Inline CSS, Internal CSS, and External CSS. Inline C
 Honestly, examiners will ask for the *best* method of applying CSS. You must answer "External CSS" and justify it by stating it "separates content from design and makes code maintenance much easier."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

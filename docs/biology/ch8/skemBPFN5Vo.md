@@ -23,7 +23,7 @@ Sir explains that the Dark Reactions, also called the Calvin Cycle, occur in the
 Well, the difference between light and dark reactions is a very common comparison question. remember: light reactions = produce ATP/NADPH + O₂; dark reactions = use ATP/NADPH to make glucose.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

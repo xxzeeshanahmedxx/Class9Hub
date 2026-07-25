@@ -21,7 +21,7 @@ The instructor explains that originally, people thought "bad air" (mala aria) fr
 Actually, knowing the name of the vector is crucial. You must remember that the *female Anopheles mosquito* transmits the disease. The mosquito itself does not cause the disease; the *Plasmodium* parasite does. The mosquito is just the delivery vehicle (vector).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

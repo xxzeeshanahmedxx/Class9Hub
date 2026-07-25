@@ -20,7 +20,7 @@ The instructor explains that viruses are on the borderline of living and non-liv
 Listen carefully here: The reason viruses are excluded from the 5 kingdoms is a guaranteed board question! You must clearly state that "Viruses are acellular particles that do not possess standard cellular organization, putting them on the borderline of living and non-living things."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

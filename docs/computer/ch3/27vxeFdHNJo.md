@@ -21,7 +21,7 @@ The instructor introduces devices that act as the "traffic cops" of the internet
 Look, the difference between a Switch and a Router is a guaranteed board question. You guys must remember: a Switch connects computers *within* the same building/network. A Router connects *different* networks together (like your house to the ISP).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

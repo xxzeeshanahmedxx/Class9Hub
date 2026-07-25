@@ -19,7 +19,7 @@ The teacher demonstrates how to use the conservation of momentum formula ($m_1 u
 Actually, Unit conversion is the biggest trap in momentum numericals. A bullet mass given as 20g MUST be converted to 0.02kg before multiplying it by velocity. Forgetting this will throw the final answer off by a factor of a thousand.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ Sir introduces the specialized formulas for bodies attached to a string passing 
 Pro tip: These pulley formulas are derived directly from Newton's Second Law, but memorizing the final derived formulas saves massive amounts of time during exams. Always double-check which mass is heavier and assign it as $m_1$.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

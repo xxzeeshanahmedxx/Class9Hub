@@ -19,7 +19,7 @@ Our teacher demonstrates the step-by-step application of the conversion formulas
 Actually, The order of operations is the biggest pitfall here. If converting from Fahrenheit to Celsius, you must perform the subtraction inside the brackets $(F - 32)$ *before* you multiply by the fraction. Doing the multiplication first will result in a completely wrong temperature.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

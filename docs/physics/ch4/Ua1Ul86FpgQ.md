@@ -21,7 +21,7 @@ Our teacher uses the example of opening a door. Pushing near the hinges is hard;
 So basically, The concept of the Moment Arm is heavily tested. Using a longer wrench to loosen a tight nut is easier because the larger moment arm ($L$) produces a larger torque without requiring extra physical strength.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

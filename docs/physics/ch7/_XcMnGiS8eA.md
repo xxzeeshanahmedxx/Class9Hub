@@ -21,7 +21,7 @@ Our teacher points out the key structural components: the thin-walled glass bulb
 So basically, The function of the "kink" (constriction) in a medical thermometer is a highly frequent short-answer question. Students really need to state that it breaks the mercury thread to prevent it from contracting before the reading is taken.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

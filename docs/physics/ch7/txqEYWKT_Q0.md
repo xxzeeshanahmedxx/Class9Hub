@@ -20,7 +20,7 @@ Our teacher explains that all matter is composed of tiny particles (atoms/molecu
 So basically, The fundamental takeaway is that "Heat is Motion." You guys must remember that adding thermal energy to a substance literally means making its microscopic particles vibrate or move faster, which eventually leads to melting or boiling.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

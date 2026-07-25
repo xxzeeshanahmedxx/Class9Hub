@@ -21,7 +21,7 @@ The instructor divides the cell cycle into two massive phases: Interphase (the g
 Well, the S-Phase is the most important part of Interphase for exams. If asked "When does DNA replication occur?", you must specify the S-Phase. If DNA is not copied perfectly here, the resulting daughter cells will be mutated.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

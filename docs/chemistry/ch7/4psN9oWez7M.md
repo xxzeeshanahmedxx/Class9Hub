@@ -19,7 +19,7 @@ The teacher details three major acid reactions. First, Acids + Metals $\rightarr
 Honestly, writing balanced chemical equations for these reactions is mandatory. You must memorize the general word equations (e.g., Acid + Metal $\rightarrow$ Salt + Hydrogen) because examiners will ask you to predict the products of an unseen reaction using these rules.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor explains that Nucleic Acids were first discovered inside the nucl
 Pro tip: The composition of a Nucleotide is a guaranteed exam question. You MUST memorize the three specific parts: the Pentose Sugar, the Phosphate Group, and the Nitrogenous Base. If you forget one, you lose the mark!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

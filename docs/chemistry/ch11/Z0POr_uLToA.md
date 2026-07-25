@@ -19,7 +19,7 @@ He reviews how to identify saturated vs. unsaturated compounds using the general
 Pro tip: The phrase "Paraffins" will appear in exams. If an MCQ asks "Why are alkanes called paraffins?", you must select the option stating "Because of their low chemical reactivity." Their single bonds are highly stable and difficult to break without extreme heat or sunlight.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

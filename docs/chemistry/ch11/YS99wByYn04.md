@@ -21,7 +21,7 @@ ightarrow CO_2 + 2H_2O + 	ext{Heat}$.
 Honestly, the distinction between complete and incomplete combustion is a board exam favorite. You must emphasize that lack of oxygen leads to the deadly production of Carbon Monoxide (CO) instead of the safe Carbon Dioxide ($CO_2$).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

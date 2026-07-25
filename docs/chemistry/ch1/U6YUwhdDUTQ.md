@@ -18,7 +18,7 @@ Sir reviews the entire introductory chapter. He demonstrates how to use the proc
 Pro tip: Never just memorize the MCQ letter answers (A, B, C). Always understand *why* the other options are incorrect. If a question asks which of the following is a mixture, knowing why water is a compound helps you eliminate it instantly.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

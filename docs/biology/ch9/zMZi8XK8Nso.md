@@ -23,7 +23,7 @@ Sir traces the complete journey of water. **Step 1:** Water enters root hairs by
 Honestly, the complete pathway of water from soil to atmosphere is a common diagram question. practice drawing and labeling: root hair → cortex → endodermis → xylem → stem → leaf → stomata → atmosphere.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

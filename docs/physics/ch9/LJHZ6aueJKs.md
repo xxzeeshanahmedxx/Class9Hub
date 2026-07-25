@@ -24,7 +24,7 @@ The teacher walks through the step-by-step procedure of the scientific method. I
 Look, You guys must memorize the exact sequence of the steps. Furthermore, they must understand the difference between a Hypothesis (a guess before the experiment) and a Theory (a proven concept after many successful experiments). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

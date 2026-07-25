@@ -20,7 +20,7 @@ The instructor introduces the "Feedback Mechanism," which involves three compone
 Pro tip: Examiners love the shivering/sweating examples. If asked how the body cools itself, you must mention that sweat glands (effectors) release water onto the skin, which evaporates and absorbs heat, successfully lowering the body's internal temperature via negative feedback.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

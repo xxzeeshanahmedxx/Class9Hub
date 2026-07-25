@@ -18,7 +18,7 @@ Our teacher walks through the conceptual questions, requiring students to synthe
 Pro tip: For questions asking "why" an object sinks or floats, stating "because it is heavier" is incorrect and will lose marks. You guys must explicitly use the word "Density" (e.g., "The iron nail sinks because its density is greater than the density of water").
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Our teacher links these energy trends directly to atomic size. Ionization Energy
 Pro tip: The energy trends are always the EXACT OPPOSITE of the size trend. If an atom gets smaller, its nucleus is closer to the edge, making it much harder to steal an electron (high IE) and much easier for it to grab a new one (high Electronegativity).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

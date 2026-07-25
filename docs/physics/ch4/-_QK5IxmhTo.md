@@ -20,7 +20,7 @@ Sir uses the example of a stone tied to a string being whirled around. According
 Well, Make sure you recognize that centripetal force is not a *new* magical force; it is provided by existing forces like tension, gravity, or friction. Also, doubling the speed ($v$) quadruples the required centripetal force bcuz velocity is squared in the formula.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

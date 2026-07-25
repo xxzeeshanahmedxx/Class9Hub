@@ -24,7 +24,7 @@ Sir explains the three stages in detail. **Glycolysis:** Occurs in the cytoplasm
 Listen carefully here: You need to know where each stage occurs. Glycolysis = cytoplasm, Krebs Cycle = mitochondrial matrix. mixing these up is a common mistake in exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Sir explains that because Mitosis ensures the chromosome number remains perfectl
 Honestly, when asked for the significance of mitosis in a long question, you must use the major headings: "Growth, Healing of Wounds, Replacement of Cells, and Asexual Reproduction." Providing a brief one-sentence explanation under each heading guarantees full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

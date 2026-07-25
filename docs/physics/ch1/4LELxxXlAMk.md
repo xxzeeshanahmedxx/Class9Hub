@@ -25,7 +25,7 @@ The teacher solves each numerical in detail. **Problem 1.1** calculates the numb
 Numerical problems require written practice. Simply watching the solution is not enough — you must solve each problem yourself at least once or twice. Pay special attention to decimal movement rules and unit handling. The most common mistake is incorrect power of 10 when moving the decimal.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -25,7 +25,7 @@ Sir describes the internal structure of a root cross-section. From outside to in
 Well, the apoplast vs. symplast pathway is a tricky concept. remember: apoplast = between cells (faster), symplast = through cells (slower but regulated). the casparian strip forces water into the symplast.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

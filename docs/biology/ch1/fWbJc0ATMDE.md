@@ -20,7 +20,7 @@ Sir explains that if a hypothesis is tested repeatedly over many years and is ne
 Pro tip: The reason why Biology has fewer laws than Physics/Math is a very common conceptual question. You must explain that biological systems are incredibly complex and constantly evolving, making it difficult to establish absolute, invariable universal laws.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

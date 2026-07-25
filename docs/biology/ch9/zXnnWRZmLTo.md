@@ -25,7 +25,7 @@ Sir explains that plant cells rely on turgor pressure (the pressure of water ins
 Well, the terms turgid, flaccid, and plasmolyzed are important to distinguish. also know the practical: plasmolysis can be observed in a lab by placing plant cells in a salt or sugar solution.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

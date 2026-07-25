@@ -20,7 +20,7 @@ Sir defines a vacuole as a fluid-filled sac bounded by a single membrane. The in
 So basically, the difference in vacuole size is a guaranteed long-answer point when asked to "Compare Plant and Animal Cells." You must state that plant cells feature one large, centralized vacuole, whereas animal cells feature many small, scattered vacuoles.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

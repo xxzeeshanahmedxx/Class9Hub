@@ -18,7 +18,7 @@ Our teacher introduces the "Electron Sea Model." Metals have vry low ionization 
 Well, the phrase "Sea of Delocalized Electrons" is the golden keyword for this topic. Any board question asking why copper conducts electricity or why iron can bend without shattering must include this exact phrase to secure full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

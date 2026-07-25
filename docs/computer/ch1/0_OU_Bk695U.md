@@ -21,7 +21,7 @@ Sir introduces ASCII (American Standard Code for Information Interchange), which
 Look, Make sure you remember the decimal values for 'a' (65) and 'a' (97) in ascii. board exams frequently ask you to convert these specific letters into binary, and you can only do it if you remember their decimal starting points!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

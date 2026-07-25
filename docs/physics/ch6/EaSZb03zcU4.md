@@ -19,7 +19,7 @@ Our teacher demonstrates how to use the hydraulic multiplication formula ($\frac
 Well, Calculating the area using $\pi r^2$ is the most common stumbling block. Make sure you remember to square the radius *before* multiplying by $\pi$ (3.14). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

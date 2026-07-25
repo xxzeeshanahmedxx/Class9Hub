@@ -19,7 +19,7 @@ Sir applies the theories of bonding to specific scenarios. He explains why sodiu
 Pro tip: Whenever an exam question asks about the formation of an ionic or covalent bond, NEVER just write a paragraph. You MUST draw the dot-and-cross diagram to support your answer. The diagram alone is usually worth half the marks for that question.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Our teacher emphasizes Personal Protective Equipment (PPE). Wearing a lab coat p
 Well, the rule regarding "smelling" chemicals is a classic exam question. You guys must remember NEVER to stick your nose directly over a test tube. Instead, you use the "Wafting" technique—using your hand to gently fan the vapors toward your nose.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

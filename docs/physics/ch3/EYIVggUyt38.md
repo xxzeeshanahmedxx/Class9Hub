@@ -20,7 +20,7 @@ The teacher states the law: A body at rest remains at rest, and a body in motion
 Pro tip: Newton’s First Law only applies when there is *zero net force*. Make sure you memorize that "Inertia depends only on mass." A moving bicycle and a stationary truck both have inertia, but the truck has more becuz of its mass.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

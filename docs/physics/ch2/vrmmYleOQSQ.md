@@ -20,7 +20,7 @@ Speed is defined as the distance covered per unit of time, making it a scalar qu
 Well, You guys must understand that since velocity is a vector, an object moving in a circle at a steady 50 km/h has a constant speed, but a variable velocity because its direction is continuously changing.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

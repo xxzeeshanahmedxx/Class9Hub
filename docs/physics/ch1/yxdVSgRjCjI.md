@@ -50,7 +50,7 @@ Actually, Make sure you retain the structural hierarchy of the textbook as prese
 The teacher strongly emphasized that numerical problems will be a recurring challenge at the end of every chapter. These mathematical exercises are designed to test true comprehension rather than rote memorization. Students should mentally prepare to apply theoretical concepts to mathematical formulas continually throughout the academic year.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

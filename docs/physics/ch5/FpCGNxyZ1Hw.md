@@ -21,7 +21,7 @@ The teacher defines Power as the rate of doing work. Two people might do the exa
 Honestly, The distinction between Work and Power is a guaranteed exam question. Work depends only on Force and Displacement; it doesn't care about time. Power strictly depends on how fast that work is accomplished.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

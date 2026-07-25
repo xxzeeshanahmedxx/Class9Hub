@@ -21,7 +21,7 @@ The teacher defines the Centre of Mass as the point where an applied force cause
 Actually, Memorizing the location of the Centre of Gravity for different geometric shapes (triangles, squares, cylinders) is a frequent MCQ topic in board exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

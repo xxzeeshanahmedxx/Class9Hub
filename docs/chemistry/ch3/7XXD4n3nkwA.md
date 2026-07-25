@@ -21,7 +21,7 @@ The teacher uses Hydrogen ($H_2$) as the primary example. Each hydrogen atom has
 Honestly, representing the bonds correctly is the key to full marks. You must remember that a single line ($-$) represents ONE pair (2 electrons), a double line ($=$) represents TWO pairs (4 electrons), and a triple line ($\equiv$) represents THREE pairs (6 electrons).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

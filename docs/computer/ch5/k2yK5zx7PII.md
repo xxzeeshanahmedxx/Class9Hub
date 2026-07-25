@@ -19,7 +19,7 @@ The instructor explains that building a website is like building a house. You ne
 Honestly, Make sure you remember the house analogy. examiners often ask to distinguish between the roles of the three languages. you must clearly state that html is strictly for "content and structure," not styling.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

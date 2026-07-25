@@ -20,7 +20,7 @@ Sir explains the "Energy Hill" concept. Before reactants can turn into products,
 So basically, You guys must learn how to draw and label the energy profile diagram! examiners frequently ask you to draw the "hill" for an exothermic reaction. make sure you label the reactants, products, activation energy ($e_a$), and the enthalpy change ($\delta h$).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

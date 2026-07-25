@@ -20,7 +20,7 @@ Sir states the law: To every action, there is always an equal and opposite react
 Well, The most common mistake is thinking action and reaction cancel out. They do not cancel because they act on *different* objects. For example, a foot pushes the earth (action), and the earth pushes the foot forward (reaction).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

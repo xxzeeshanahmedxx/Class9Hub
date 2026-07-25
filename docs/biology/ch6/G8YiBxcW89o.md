@@ -21,7 +21,7 @@ The instructor explains that proteins are massive polymers built from tiny build
 Well, the concept of the "Amino Acid Monomer" is the key to this chapter. Just as a brick wall is made of individual bricks, a protein is made of a chain of amino acids. You must identify the "Peptide Bond" as the specific chemical glue holding these "bricks" together.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

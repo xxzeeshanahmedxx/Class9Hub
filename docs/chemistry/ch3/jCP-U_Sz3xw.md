@@ -22,7 +22,7 @@ Sir creates a comparative analysis. Ionic compounds form strong, rigid 3D crysta
 Pro tip: The conductivity rule is the most common trick question. solid table salt ($nacl$) does not conduct electricity because the ions are locked tightly in the lattice. it must be dissolved in water (aqueous) or melted to conduct!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -24,7 +24,7 @@ Sir explains translocation as the transport of food (mainly sucrose) through phl
 Listen carefully here: The source-sink relationship and pressure flow hypothesis are important concepts. Remember that phloem transport is active (requires ATP) while xylem transport is passive.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

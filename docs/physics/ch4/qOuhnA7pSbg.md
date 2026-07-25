@@ -20,7 +20,7 @@ Our teacher states that an object is in equilibrium if no net force and no net t
 Honestly, The biggest misconception is that equilibrium only applies to stationary objects. You guys must remember that moving objects (like cars cruising at a steady 60 km/h) are also in equilibrium because their net acceleration is zero.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

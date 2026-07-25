@@ -20,7 +20,7 @@ Sir goes through all exercise questions step by step. MCQs test key definitions 
 Make sure you can calculate mean, median, and mode from a given data set. numerical questions are guaranteed in the exam, and showing the correct formula and working steps is essential for full credit.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

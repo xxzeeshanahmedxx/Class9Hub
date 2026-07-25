@@ -20,7 +20,7 @@ Our teacher tells us that chemistry is a quantitative science; saying "add a lit
 Well, Make sure you remember the volume conversions! mixing up $cm^3$ and $dm^3$ will destroy your concentration calculations in practical exams. always remember that $1000 	ext{ cm}^3$ equals exactly $1 	ext{ dm}^3$ (which is exactly 1 liter).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

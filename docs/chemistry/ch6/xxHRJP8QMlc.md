@@ -20,7 +20,7 @@ The teacher explains that Dynamic Equilibrium is fragile. If you change the phys
 Honestly, the Catalyst rule is a massive exam favorite. You guys must remember that a catalyst speeds up BOTH the forward and reverse reactions equally. Therefore, it does absolutely nothing to change the final amounts of products and reactants at equilibrium.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

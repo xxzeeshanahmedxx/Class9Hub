@@ -20,7 +20,7 @@ Our teacher demonstrates how bringing a strong permanent magnet near an unmagnet
 So basically, The distinction between "soft" iron and "hard" steel is crucial. Exam questions frequently ask which material should be used to make the core of an electromagnet; the correct answer is always soft iron because its temporary nature allows the electromagnet to be turned on and off instantly.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

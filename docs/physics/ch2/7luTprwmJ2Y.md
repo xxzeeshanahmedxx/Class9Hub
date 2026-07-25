@@ -20,7 +20,7 @@ Our teacher plots Time on the x-axis (independent variable) and Distance on the 
 Honestly, The most vital exam takeaway is that the slope of a distance-time graph mathematically equals speed. A steeper slope means a higher speed.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

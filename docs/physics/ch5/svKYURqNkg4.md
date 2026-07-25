@@ -19,7 +19,7 @@ The teacher focuses heavily on Fossil Fuels (coal, oil, and natural gas), explai
 Look, Students really need to be able to write down the energy transformation chain for a power plant: Chemical Energy (fuel) $\rightarrow$ Heat Energy (steam) $\rightarrow$ Kinetic Energy (turbine) $\rightarrow$ Electrical Energy (generator).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

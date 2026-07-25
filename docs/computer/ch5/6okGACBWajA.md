@@ -20,7 +20,7 @@ The instructor explains that HTML is not a programming language; it is a *markup
 Honestly, forgetting the forward slash on a closing tag is the most common coding error. If you write `<title>My Page<title>`, the code will break. You must include the slash: `</title>`.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

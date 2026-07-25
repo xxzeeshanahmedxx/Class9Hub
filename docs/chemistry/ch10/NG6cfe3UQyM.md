@@ -21,7 +21,7 @@ Our teacher tells us that reversing environmental damage requires both technolog
 Look, the 3 Rs are a classic short-answer question. You guys must be able to list them in order and provide one solid example for each (like recycling aluminum cans to save mining energy).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

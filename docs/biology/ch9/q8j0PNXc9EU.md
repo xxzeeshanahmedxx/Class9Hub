@@ -23,7 +23,7 @@ Sir classifies plant nutrients into two categories. **Macronutrients:** Required
 Listen carefully here: The difference between macronutrients and micronutrients, and the specific role of each, is frequently tested. remember the acronym C HOPKNS CaFe Mg for macronutrients.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Sir distinguishes between mechanical and digital stopwatches. The mechanical sto
 Well, Students should remember the difference in least counts between mechanical (0.1s) and digital (0.01s) stopwatches. Additionally, factoring in human reaction time is vital when conducting time-sensitive experiments in the lab.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -22,7 +22,7 @@ Sir presents a balanced view. **Advantages:** Plants are genetically identical (
 Listen carefully here: This is a common exam question—"Discuss the advantages and disadvantages of vegetative propagation." Make sure you have at least three points for each side.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

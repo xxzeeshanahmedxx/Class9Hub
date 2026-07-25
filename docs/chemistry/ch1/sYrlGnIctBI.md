@@ -21,7 +21,7 @@ Our teacher explains that a True Solution is a homogeneous mixture where solute 
 Look, the Tyndall Effect is the ultimate test to distinguish a true solution from a colloid. Because colloidal particles (like in milk) are just large enough, they scatter a laser beam passing through them, while a true solution (like saltwater) lets the light pass through invisibly.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

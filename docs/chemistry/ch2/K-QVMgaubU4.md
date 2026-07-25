@@ -21,7 +21,7 @@ The teacher explains that atoms were once thought to be indivisible solid sphere
 So basically, You guys must remember the properties of cathode rays perfectly. the fact that the rays are the same regardless of which gas is put inside the tube was the ultimate proof that electrons are a fundamental building block of *all* matter.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

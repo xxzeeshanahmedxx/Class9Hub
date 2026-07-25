@@ -20,7 +20,7 @@ The instructor explains Carl Woese's 1990 system. Based on analyzing ribosomal R
 Look, the reason for splitting the prokaryotes is a key concept. Examiners will ask why Bacteria and Archaea are in different domains despite both lacking a nucleus. You must answer that their *ribosomal RNA (genetics) and cell wall structures* are fundamentally different.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

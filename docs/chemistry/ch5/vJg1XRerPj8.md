@@ -18,7 +18,7 @@ He reviews the definitions of Enthalpy, System, and Surroundings. He focuses hea
 Actually, the most common error reviewed here is confusing the energy hill diagrams. Make absolutely sure you know that in an Exothermic diagram, the Product line is drawn significantly LOWER than the Reactant line, because energy was lost to the surroundings.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

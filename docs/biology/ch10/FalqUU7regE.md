@@ -23,7 +23,7 @@ Sir explains that in budding, a small projection called a **bud** forms on the p
 Listen carefully here: The difference between binary fission and budding is important. In binary fission, the parent splits into two equal halves. In budding, the parent remains and a smaller outgrowth forms.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

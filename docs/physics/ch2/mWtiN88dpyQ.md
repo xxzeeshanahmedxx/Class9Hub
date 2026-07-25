@@ -20,7 +20,7 @@ The teacher shows two ways to represent vectors: symbolically and graphically. S
 Pro tip: In written exams, always put an arrow over variables like velocity ($\vec{v}$) or force ($\vec{F}$) to distinguish them from scalar magnitudes.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

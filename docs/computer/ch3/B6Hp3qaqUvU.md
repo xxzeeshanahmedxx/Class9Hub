@@ -20,7 +20,7 @@ Sir introduces the concept of Cyber Security. He explains that hackers can inter
 Honestly, the definition of Encryption is a guaranteed short question. You must use the terms "plain text" and "cipher text". Stating that encryption "hides data by scrambling it into cipher text" will secure you full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

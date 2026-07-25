@@ -25,7 +25,7 @@ Sir explains that plants perform two opposite gas-exchange processes. During the
 Pro tip: A common exam question asks about the difference between day and night gas exchange in plants. Remember: day = photosynthesis dominant; night = only respiration, so net gas exchange reverses.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

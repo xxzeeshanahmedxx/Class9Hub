@@ -19,7 +19,7 @@ The instructor reviews the Five Kingdom System, ensuring students can list the c
 Honestly, the comparison between the Two-Kingdom and Five-Kingdom systems is a staple long-answer question. You must be able to list Whittaker's specific criteria (Cellular Organization and Mode of Nutrition) that made his Five-Kingdom model the universally accepted standard.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

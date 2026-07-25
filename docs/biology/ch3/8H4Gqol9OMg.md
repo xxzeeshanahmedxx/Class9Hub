@@ -19,7 +19,7 @@ Sir introduces the Mitochondrion as the "Powerhouse of the Cell." It is a double
 Well, the fact that mitochondria have their *own DNA* is a high-level exam question. This is a massive anomaly in cell biology. If asked which organelle is semi-autonomous (can replicate itself), you must point to the mitochondria (or plastids in plants).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

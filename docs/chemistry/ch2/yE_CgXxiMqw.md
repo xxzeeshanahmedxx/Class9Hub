@@ -21,7 +21,7 @@ Sir defines Isotopes as atoms of the same element that have the exact same Atomi
 Look, the fact that isotopes have *identical chemical properties* but *different physical properties* is a guaranteed exam question. Because they have the same number of electrons in their outer shells, they react exactly the same way in chemical equations.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

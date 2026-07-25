@@ -20,7 +20,7 @@ The instructor demonstrates the importance of cleaning dust from the motherboard
 So basically, Electrostatic Discharge (ESD) is a major exam topic. You must remember that humans carry static electricity that can instantly kill a motherboard. Always mention "using an anti-static wrist strap" or "grounding yourself" before performing maintenance.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

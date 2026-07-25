@@ -21,7 +21,7 @@ Sir explains that most everyday reactions are Irreversible—like burning a piec
 Look, the "closed flask" part is critical. A reversible reaction involving gases can ONLY occur in a closed system. If the flask is open, the gas escapes into the atmosphere, the reverse reaction becomes impossible, and the reaction becomes irreversible by default.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

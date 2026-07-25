@@ -20,7 +20,7 @@ Our teacher states the law: In an isolated system (where no external forces like
 Pro tip: The recoil of a gun is a highly tested exam question. Because the gun's mass ($M$) is much larger than the bullet's mass ($m$), the recoil velocity of the gun is much smaller than the bullet's forward velocity.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

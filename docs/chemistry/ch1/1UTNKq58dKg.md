@@ -20,7 +20,7 @@ Our teacher explains that when a gas is heated to incredibly high temperatures, 
 Honestly, while solids, liquids, and gases are common, examiners love asking about Plasma. Make sure you remember that plasma is essentially an "ionized gas" and that it conducts electricity, unlike normal gases.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

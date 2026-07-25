@@ -21,7 +21,7 @@ He defines a Solute (the thing being dissolved) and a Solvent (the liquid doing 
 So basically, always include "at a given temperature" in your definitions! A solution that is saturated at 20°C might become unsaturated if you heat it to 50°C. Temperature is the key factor in solubility.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

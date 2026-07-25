@@ -20,7 +20,7 @@ The teacher uses a map analogy. The actual zigzag path a person walks is the dis
 Pro tip: The realization that displacement can be zero while distance is not is a major exam concept. For example, completing one lap around a circular track means distance $= 2\pi r$, but displacement $= 0$.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ The teacher describes a computer Hard Disk Drive (HDD). Instead of a plastic tap
 Look, Exam questions may ask for the similarities between tape and hard disks. You guys must highlight that BOTH technologies rely entirely on the microscopic alignment of magnetic domains (Domain Theory) to store information permanently without needing constant electricity.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

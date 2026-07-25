@@ -20,7 +20,7 @@ The instructor explains that specialized cells do not work alone; they group tog
 Listen carefully here: You must be able to list the hierarchy in the exact correct order. A very common MCQ asks for the correct sequence of biological organization. Always pick: Cell $\rightarrow$ Tissue $\rightarrow$ Organ $\rightarrow$ Organ System.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

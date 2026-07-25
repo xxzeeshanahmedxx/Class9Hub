@@ -20,7 +20,7 @@ Sir explains that as you move down a Group, the Atomic Radius *increases* becaus
 Actually, You guys must be very careful explaining the trend across a period. stating "the atom gets smaller because it gets heavier" is completely wrong. it gets smaller because the *increased positive charge* acts like a stronger magnet, pulling the electron clouds inward.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor explains that plant organization is much simpler than animal orga
 Actually, distinguishing between Vegetative and Reproductive organs is critical. A highly common MCQ asks "Which of the following is a reproductive organ in a plant?" You must confidently select the Flower, leaving roots, stems, and leaves as vegetative.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

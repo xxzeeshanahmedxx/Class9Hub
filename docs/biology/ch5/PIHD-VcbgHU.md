@@ -21,7 +21,7 @@ The instructor details that an organ cannot survive alone; the heart needs lungs
 So basically, if an exam asks for the components of a specific system, you must list the organs correctly. Placing the "Liver" in the Respiratory System is a massive error. Always associate the Liver, Pancreas, and Intestines strictly with the Digestive System.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

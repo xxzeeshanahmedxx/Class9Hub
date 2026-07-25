@@ -20,7 +20,7 @@ Sir explains how early chemists identified acids and bases strictly by their phy
 Well, Make sure you remember the litmus paper trick! a classic mnemonic is "acid turns it to red" (a-r) and "base turns it to blue" (b-b). getting these two confused is the easiest way to lose an mcq mark.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

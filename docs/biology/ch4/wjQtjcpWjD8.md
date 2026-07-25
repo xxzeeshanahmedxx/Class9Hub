@@ -18,7 +18,7 @@ The instructor works through the textbook queries, focusing heavily on identifyi
 Pro tip: Examiners love asking you to identify a cell division phase from a diagram. If you see chromosomes lined up perfectly in a straight line in the middle of the cell, it is ALWAYS Metaphase. If they are being pulled apart towards the edges, it is Anaphase.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

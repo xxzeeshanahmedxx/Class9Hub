@@ -20,7 +20,7 @@ Sir introduces three distinct modes. In Simplex mode, data flows in only one dir
 Actually, the Walkie-Talkie example is the absolute best way to explain Half-Duplex in an exam. It perfectly illustrates the "both ways, but not simultaneously" concept, wich examiners always look for in short-answer questions.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

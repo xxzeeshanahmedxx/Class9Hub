@@ -19,7 +19,7 @@ Sir provides the classic exothermic example: the Combustion of Carbon (burning c
 Pro tip: Memorizing the exact $\Delta H$ value for the combustion of carbon ($-393.5 \text{ kJ/mol}$) is highly recommended, as board examiners frequently ask for one complete, balanced example of an exothermic reaction with its accurate energy value.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

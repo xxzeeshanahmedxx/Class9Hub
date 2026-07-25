@@ -18,7 +18,7 @@ The teacher reinforces the standard numerical solving structure: extract Data, w
 So basically, Unit conversion is the most common pitfall. To convert an Area from cm² to m², you must divide by 10,000 (not just 100). To convert Volume from cm³ to m³, you must divide by 1,000,000. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

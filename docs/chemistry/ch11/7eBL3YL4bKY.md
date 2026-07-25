@@ -21,7 +21,7 @@ He defines Hydrocarbons as compounds made exclusively of Carbon and Hydrogen ato
 Actually, remembering the definition of Catenation is essential. It is the primary reason why there are millions of organic compounds in the world compared to just a few thousand inorganic ones. Carbon's ability to chain endlessly is the basis of all life and plastics.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

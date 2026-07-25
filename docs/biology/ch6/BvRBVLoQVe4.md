@@ -19,7 +19,7 @@ The instructor explains that plants are the ultimate source of all carbohydrates
 Honestly, the difference in storage molecules is highly tested. If asked how animals store excess carbohydrates, do NOT say starch. Plants store Starch; Animals store **Glycogen**. This distinction is critical for full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

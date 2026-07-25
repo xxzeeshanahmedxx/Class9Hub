@@ -20,7 +20,7 @@ Sir defines magnetic materials (like iron, nickel, and cobalt) as substances tha
 So basically, The most heavily tested concept is the Law of Magnetism (Like poles repel, Unlike poles attract). Furthermore, a common trick question is whether copper or aluminum are magnetic—students must remember that they are non-magnetic metals.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

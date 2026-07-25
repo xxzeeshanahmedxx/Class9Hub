@@ -20,7 +20,7 @@ The teacher defines Heat as the total thermal energy transferred from a hotter b
 So basically, The distinction is a guaranteed exam question. Make sure you remember: Temperature dictates the *direction* of heat flow, while Heat is the actual *energy* that flows.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

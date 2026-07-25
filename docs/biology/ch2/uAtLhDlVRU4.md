@@ -19,7 +19,7 @@ The instructor traces classification back to the Greek philosopher Aristotle, wh
 Look, knowing the title "Father of Taxonomy" is a highly tested MCQ. You must associate Carolus Linnaeus with the creation of the taxonomic ranks and the scientific naming system. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

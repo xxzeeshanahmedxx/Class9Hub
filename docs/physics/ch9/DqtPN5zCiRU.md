@@ -21,7 +21,7 @@ The teacher defines Science as the pursuit of knowledge (discovering the laws of
 Look, The distinction between science and technology is a common short-answer question. You guys must clearly state that science is the discovery of knowledge, while technology is the practical application of that exact knowledge.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

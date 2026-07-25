@@ -21,7 +21,7 @@ The instructor divides biology into three main divisions: Zoology (animals), Bot
 Honestly, matching the branch to its definition is the most common MCQ in this chapter. Do not confuse Morphology (external structure) with Anatomy (internal structure). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

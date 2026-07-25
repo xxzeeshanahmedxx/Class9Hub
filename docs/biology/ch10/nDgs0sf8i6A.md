@@ -24,7 +24,7 @@ Sir traces the complete life cycle. **Stage 1—Microsporogenesis:** Inside the 
 Honestly, the sequence of stages in the angiosperm life cycle is important for exams. know what happens in the anther vs. what happens in the ovule. the terms microsporogenesis and megasporogenesis are distinct.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

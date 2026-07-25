@@ -19,7 +19,7 @@ Sir works through the textbook's conceptual queries, explaining the reasoning be
 Actually, Since Chapter 8 has very few mathematical formulas, the board exams will heavily test the theory. Students really need to be meticulous with their vocabulary, using terms like "Domains", "Induced Magnetism", and "Permeability" correctly in their subjective essay answers.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

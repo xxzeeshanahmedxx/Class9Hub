@@ -20,7 +20,7 @@ Our teacher explains that liquid pressure depends on three factors: the density 
 So basically, In the formula $P = \rho g h$, $h$ is strictly the depth from the *top surface* of the water down to the object. Do not measure $h$ from the bottom of the container upwards!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

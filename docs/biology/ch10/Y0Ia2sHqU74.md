@@ -20,7 +20,7 @@ Sir systematically works through every exercise question. MCQs are solved with c
 Make sure you can explain double fertilization step by step—from pollen grain landing on stigma to seed formation. this is the most important process to understand in the entire chapter.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

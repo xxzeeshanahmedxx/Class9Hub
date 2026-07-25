@@ -20,7 +20,7 @@ The teacher introduces Nuclear Fission, the process of splitting a heavy atomic 
 Look, Exam questions often ask for a comparison between fossil fuels and nuclear energy. Students should highlight that while nuclear is "cleaner" regarding air pollution, the safe disposal of its radioactive waste remains a severe environmental and engineering challenge.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

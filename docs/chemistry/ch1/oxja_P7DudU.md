@@ -21,7 +21,7 @@ Sir explains that the state of matter is determined by the kinetic energy of its
 So basically, always link the physical state to "Intermolecular Forces" and "Kinetic Energy" in your exam answers. Saying a solid is hard just because "the particles are close" is incomplete; you must mention that strong intermolecular forces keep them rigidly in place.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

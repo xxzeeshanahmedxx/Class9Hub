@@ -21,7 +21,7 @@ The teacher details the construction of the Vernier Calliper, highlighting the f
 Actually, The Least Count of a Vernier Calliper in both mm (0.1 mm) and cm (0.01 cm) is heavily tested. Students really need to understand how to find the coinciding line on the Vernier scale to calculate the exact measurement during physics practicals.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

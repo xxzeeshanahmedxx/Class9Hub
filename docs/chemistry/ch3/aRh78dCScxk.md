@@ -20,7 +20,7 @@ The teacher reviews how atomic structure determines the bond type, which in turn
 So basically, if an exam asks "Why does oil not dissolve in water?", you must use the "Like Dissolves Like" rule. Water is highly polar, and oil is non-polar covalent. Because their bonding nature is completely different, they cannot form intermolecular attractions with each other.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor describes centrioles as hollow, cylindrical structures made of ni
 Look, the absence of centrioles in plants is a major exam point. If you draw a plant cell in your board exam and accidentally draw centrioles near the nucleus, the examiner will mark it wrong. Plant cells manage to divide without them!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

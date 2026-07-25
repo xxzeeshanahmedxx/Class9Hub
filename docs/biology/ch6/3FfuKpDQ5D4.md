@@ -19,7 +19,7 @@ The instructor lists the natural sources: animal sources include butter, ghee, c
 Actually, distinguishing between plant and animal fats is heavily tested. Examiners frequently ask why plant oils are liquid and animal fats are solid. You must connect this back to the previous lecture: Plant oils are *unsaturated* (double bonds cause kinks, keeping them liquid), while animal fats are *saturated* (straight chains that pack tightly into solids).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

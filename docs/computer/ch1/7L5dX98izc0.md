@@ -22,7 +22,7 @@ The instructor explains that a computer ONLY understands 0s and 1s. Therefore, e
 Pro tip: The conversion numbers are guaranteed MCQs. Remember that in computer science, "Kilo" doesn't mean exactly 1000; it means 1024 (because $2^{10} = 1024$). Mixing up 1000 and 1024 will cost you marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

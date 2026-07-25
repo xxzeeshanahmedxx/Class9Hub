@@ -19,7 +19,7 @@ Our teacher briefly touches upon earlier failed attempts to organize elements (l
 Look, knowing the difference between Mendeleev's Law and the Modern Law is a guaranteed board question. Mendeleev used "Atomic Mass," which was flawed because of isotopes. The Modern table uses "Atomic Number," which is flawless because every element has a unique, whole-number proton count.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

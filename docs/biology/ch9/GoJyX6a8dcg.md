@@ -25,7 +25,7 @@ Sir explains that each stoma is surrounded by two kidney-shaped Guard Cells. Whe
 So basically, the K⁺ ion mechanism is the key concept here. Guard cells use active transport to pump potassium in—this is what makes stomata open. No potassium movement, no opening.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

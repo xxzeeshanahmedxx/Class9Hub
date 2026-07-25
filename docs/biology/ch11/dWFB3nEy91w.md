@@ -25,7 +25,7 @@ Sir explains that a bar chart represents data with rectangular bars of equal wid
 Pro tip: Know the difference between a bar chart and a histogram. Bar charts = categorical data (bars have gaps). Histograms = continuous data (bars touch). This distinction is frequently tested.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The teacher uses the classic example of a passenger in a moving bus. To a person
 Actually, When defining rest or motion in exams, students must include the phrase "with respect to its surroundings," otherwise the definition is incomplete and scientifically inaccurate.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

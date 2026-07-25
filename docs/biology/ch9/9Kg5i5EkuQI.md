@@ -24,7 +24,7 @@ Sir explains that plants produce waste through metabolic processes but handle th
 Honestly, the key point is that plants DO excrete but differently from animals. they do not produce urea like humans. instead, they store wastes in old leaves and bark and then shed them. this is a frequent exam comparison topic.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Sir defines Data Science as the extraction of actionable knowledge directly from
 Look, distinguishing between Data and Information is critical for short answers. Data is the raw, meaningless numbers (e.g., 45, 90, 80). Information is data processed with context (e.g., Ali's test scores are 45, 90, and 80). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -18,7 +18,7 @@ The instructor reviews the definitions of all biological branches and the sequen
 To be fair, examiners love testing the sequence of the scientific method. Do not mix up Deductions and Experiments. The Deduction ("If... then") MUST come before the Experiment, because the experiment is designed specifically to test that deduction.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

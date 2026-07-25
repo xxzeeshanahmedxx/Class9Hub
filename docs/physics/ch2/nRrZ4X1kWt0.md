@@ -19,7 +19,7 @@ Our teacher emphasizes the "Given, Required, Formula, Solution" structure. The p
 Honestly, Students really need to rigorously follow the teacher’s formatting. Skipping the data extraction step or failing to convert units before plugging them into the equation of motion is the leading cause of lost marks in numerical sections.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

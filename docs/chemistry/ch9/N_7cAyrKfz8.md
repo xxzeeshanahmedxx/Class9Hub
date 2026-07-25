@@ -20,7 +20,7 @@ ightarrow 2NaOH + H_2$ (Produces heat and explosive hydrogen gas).
 Honestly, you guys must remember the reaction with water. Examiners frequently ask why sodium is stored in kerosene oil. You must answer that it is highly reactive and will react violently with atmospheric moisture to produce explosive Hydrogen gas.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

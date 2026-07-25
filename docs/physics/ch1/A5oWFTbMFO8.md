@@ -22,7 +22,7 @@ This video covers numerical problems 1.6 through 1.10 from Chapter 1 (Physical Q
 Problem 1.9 (light year) is extremely important for exams — mark it in your textbook. The teacher emphasizes that numerical problems require written practice: watch, understand, then solve yourself. Practice each problem at least once or twice until you can solve it independently.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

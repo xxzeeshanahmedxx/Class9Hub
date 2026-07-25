@@ -20,7 +20,7 @@ Our teacher defines a magnetic field as the region around a magnet where its mag
 So basically, You guys must be able to accurately draw the field lines around a bar magnet for their exams. The critical rules are drawing the arrows pointing from North to South, and ensuring the lines are densely packed at the poles and spread out further away.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

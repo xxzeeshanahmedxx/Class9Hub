@@ -21,7 +21,7 @@ He introduces the primary tools for measuring liquid volume: the Measuring Cylin
 Honestly, the way a burette is numbered is the biggest trap for new students. You guys must remember that the zero mark is at the TOP. If the liquid level goes from 0 down to 15, you have dispensed exactly 15 mL of liquid.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ Our teacher works through the textbook MCQs, explaining the common traps set by 
 So basically, Make sure you write down the formula you are using *before* plugging in the numbers! in board exams, you get step-marks just for writing $n = \frac{m}{m}$. if you just write down the numbers and make an arithmetic error, you lose all the marks for that question.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

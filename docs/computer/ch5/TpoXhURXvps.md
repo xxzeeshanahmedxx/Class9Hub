@@ -20,7 +20,7 @@ The instructor shows how to use the `background-color` property to change the en
 Pro tip: Do not confuse `color` with `background-color`. In CSS, writing `color: blue;` ONLY changes the text. If you want the box behind the text to be blue, you must explicitly write `background-color: blue;`. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Sir introduces the communication model. For data to move, there must be a Sender
 Honestly, the "Protocol" component is the most frequently tested. Examiners will ask what prevents chaos on a network. You must answer that Protocols act as the "grammar" and "rules" that both computers must agree on before they can talk to each other.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Sir defines Physics as the study of matter, energy, and their mutual interaction
 Pro tip: Students should remember that physics is the foundational science. Unlike biology or chemistry which focus on specific types of matter, physics deals with the universal laws (like gravity and electromagnetism) that apply to absolutely everything.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

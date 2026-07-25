@@ -20,7 +20,7 @@ Our teacher explains Torricelli's experiment with the Mercury Barometer. A glass
 So basically, The reason mercury is used instead of water is a heavily tested conceptual question. You guys must state that mercury's high density allows the barometer to be a practical, manageable height (less than 1 meter).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

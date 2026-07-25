@@ -24,7 +24,7 @@ Sir provides detailed examples from various fields. **Medicine:** Clinical trial
 Listen carefully here: The examples of biostatistics uses are important for exam short questions. Being able to explain one example in detail (like drug trials or Mendel's experiments) shows deep understanding.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

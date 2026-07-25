@@ -20,7 +20,7 @@ The teacher introduces the First Condition of Equilibrium: The vector sum of all
 Actually, Examiners frequently ask if a body can be in equilibrium if only the first condition is satisfied. The answer is NO. The steering wheel example perfectly illustrates why the second condition (zero torque) is mandatory to prevent spinning.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The instructor drills down into the specific characteristics. Monerans are singl
 Listen carefully here: Make sure you remember the cell wall compositions! this is a highly frequent mcq format. plant cell walls = cellulose. fungi cell walls = chitin. bacteria cell walls = peptidoglycan (murein). animal cells = no cell wall. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

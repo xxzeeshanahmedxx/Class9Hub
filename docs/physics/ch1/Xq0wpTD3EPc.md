@@ -22,7 +22,7 @@ Our teacher shows a graduated glass or plastic cylinder. When measuring liquids,
 Pro tip: The core takeaway is reading the lower meniscus at eye level. Furthermore, the conversion factor $1 \text{ mL} = 1 \text{ cm}^3$ is essential for solving density-related numerical problems in upcoming chapters.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

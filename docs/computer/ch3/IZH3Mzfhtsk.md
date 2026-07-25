@@ -21,7 +21,7 @@ The instructor explains that just like houses need a postal address, computers n
 Pro tip: The bit-size difference is the most frequently asked MCQ. You guys must memorize that IPv4 is strictly 32-bit, and IPv6 is strictly 128-bit. Furthermore, knowing that we ran out of IPv4 addresses is the key to answering "why" IPv6 was created.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

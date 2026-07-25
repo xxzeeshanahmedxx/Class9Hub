@@ -20,7 +20,7 @@ ightarrow NaCl$).
 Look, the physical state of Bromine is a favorite MCQ. Bromine is the ONLY non-metal on the periodic table that is a liquid at room temperature. Also, remember that Halogen reactivity decreases *down* the group, which is the exact opposite of metal reactivity.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

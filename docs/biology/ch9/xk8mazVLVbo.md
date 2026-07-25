@@ -23,7 +23,7 @@ The instructor explains that plant physiology covers everything plants do to sur
 Pro tip: This chapter connects many concepts you have already studied—photosynthesis (ch8), osmosis, and diffusion. understanding these connections will make plant physiology much easier.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

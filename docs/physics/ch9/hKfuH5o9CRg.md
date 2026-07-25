@@ -19,7 +19,7 @@ Our teacher uses practical examples of massive scientific projects, such as spac
 Actually, While this topic is more theoretical, students should remember the conceptual importance of teamwork in science. Exam questions may ask for a brief explanation of why an engineer needs to understand basic biology to design a prosthetic limb.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

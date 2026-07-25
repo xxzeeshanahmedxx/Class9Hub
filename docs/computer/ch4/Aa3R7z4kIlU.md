@@ -21,7 +21,7 @@ The instructor introduces Flowcharts as a primary method for designing algorithm
 Look, drawing the shapes correctly is non-negotiable. If you put a mathematical calculation inside a slanted parallelogram instead of a straight rectangle, the examiner will mark the entire step wrong. Memorize the exact function of the four primary shapes.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

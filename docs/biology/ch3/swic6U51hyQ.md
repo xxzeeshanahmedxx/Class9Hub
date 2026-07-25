@@ -20,7 +20,7 @@ The instructor explains that the cytoskeleton is a network of microscopic protei
 To be fair, examiners usually ask for the protein composition of these structures. You must remember that Microtubules are made of the protein **Tubulin**, and Microfilaments are made of the protein **Actin**. Matching these correctly secures easy marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

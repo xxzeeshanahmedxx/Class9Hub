@@ -19,7 +19,7 @@ The instructor walks students up the biological ladder. It starts at the Subatom
 Well, Make sure you remember that the "molecular level" is split into micro-molecules (like water and glucose, low weight) and macro-molecules (like starch and proteins, huge weight). examiners frequently ask you to categorize water and starch respectively.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

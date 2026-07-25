@@ -20,7 +20,7 @@ Sir details two primary methods for preparing alkanes. The first is the Hydrogen
 So basically, remembering the specific catalysts is mandatory! For hydrogenation, if you write the equation but forget to write "$Ni, 250^\circ C$" over the arrow, the examiner will deduct marks. The catalyst is what makes the reaction physically possible.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

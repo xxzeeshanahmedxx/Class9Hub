@@ -23,7 +23,7 @@ Sir introduces photosynthesis as the process where plants use sunlight, carbon d
 Honestly, memorizing the balanced chemical equation of photosynthesis is non-negotiable for board exams. Also remember that oxygen released during photosynthesis comes from water, not from carbon dioxide.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

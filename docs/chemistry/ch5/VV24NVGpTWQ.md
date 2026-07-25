@@ -19,7 +19,7 @@ Sir explains that chemical reactions are not just about making new substances; t
 So basically, the golden rule of energetics is: "Breaking breaks you (takes energy), making makes you rich (releases energy)." Always remember that bonds don't just magically break; you have to supply heat or light to snap them apart.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

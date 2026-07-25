@@ -20,7 +20,7 @@ Sir explains that HTML is static. To make a website "think" (like calculating a 
 Listen carefully here: JavaScript is Case-Sensitive! If you create a variable named `score` and later try to print `Score` (with a capital S), the code will crash. You must type the exact same casing every time.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

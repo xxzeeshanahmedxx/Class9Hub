@@ -19,7 +19,7 @@ The instructor defines troubleshooting as the systematic process of finding the 
 Pro tip: Examiners often ask for the "first step" in troubleshooting. Always choose the most basic physical check: verify the power supply and cables. Do not jump to "reinstalling Windows" if the monitor is simply unplugged!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

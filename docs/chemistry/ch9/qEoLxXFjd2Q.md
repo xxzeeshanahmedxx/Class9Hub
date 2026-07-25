@@ -20,7 +20,7 @@ He reviews macroscopic traits. Metals are generally hard solids with metallic lu
 So basically, examiners love testing the exceptions! Always remember that Mercury is the liquid metal, Bromine is the liquid non-metal, and Graphite is the rule-breaking non-metal that conducts electricity. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

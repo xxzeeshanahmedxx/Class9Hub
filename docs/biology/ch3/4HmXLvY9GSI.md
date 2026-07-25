@@ -20,7 +20,7 @@ The instructor explains that the cell wall is a rigid, non-living protective lay
 Honestly, the chemical composition of the cell wall is the most frequently tested MCQ in this section. You guys must remember: Plants = Cellulose, Fungi = Chitin, Bacteria = Peptidoglycan (Murein). Mixing these up will cost you marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The teacher demonstrates how to systematically split a force vector into its per
 Actually, Calculator errors are the most common mistake here. Make sure you ensure their calculator is in "Degree" mode. Additionally, forgetting to square the components before adding them under the square root will ruin the final answer.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

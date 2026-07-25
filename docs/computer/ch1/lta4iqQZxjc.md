@@ -19,7 +19,7 @@ The instructor demonstrates how to write Boolean expressions from word problems.
 So basically, filling out the initial columns of a truth table correctly is critical. For 2 variables (A, B), column A should be $0,0,1,1$ and column B should be $0,1,0,1$. This ensures you cover all four possible combinations without missing any.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

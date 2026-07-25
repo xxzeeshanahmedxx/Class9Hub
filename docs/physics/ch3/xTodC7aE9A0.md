@@ -19,7 +19,7 @@ Sir reinforces the standard structure: Data, Required, Formula, and Solution. Th
 Well, Make sure you not mix up Mass ($m$) and Weight ($W$) in numericals. If a problem states "A body of weight 20N," do NOT plug 20 into the mass variable in $F=ma$. You must divide 20 by 10 (gravity) to get 2kg first.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

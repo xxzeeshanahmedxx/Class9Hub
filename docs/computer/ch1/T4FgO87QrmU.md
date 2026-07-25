@@ -21,7 +21,7 @@ The instructor defines Analog signals (wich fluctuate continuously like a sound 
 Look, the contrast between analog and digital is heavily tested. Use a clock as an example: an analog clock has hands that sweep continuously through every fraction of a second. A digital clock jumps instantly from 12:00 to 12:01. Digital is discrete; analog is continuous.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

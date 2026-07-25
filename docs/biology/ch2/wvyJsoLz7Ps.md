@@ -20,7 +20,7 @@ Sir defines Biodiversity as the variety of organisms present in different ecosys
 Listen carefully here: Make sure you know the exact definitions of flora and fauna. confusing these two in an mcq is a very common mistake. a simple trick: 'fauna' sounds like 'fawn' (a baby deer), which is an animal.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

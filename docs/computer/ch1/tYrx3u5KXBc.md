@@ -20,7 +20,7 @@ The teacher explains that a system does not exist in isolation. The "Environment
 Look, the direction of the buses is a favorite MCQ. You must memorize that the Address Bus is uni-directional (only goes from CPU to Memory), while the Data bus is bi-directional because data goes back and forth.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

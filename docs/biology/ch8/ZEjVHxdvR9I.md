@@ -24,7 +24,7 @@ Sir systematically compares the two processes. **Photosynthesis:** Occurs in chl
 Honestly, this comparison is one of the most asked questions in board exams. make sure you can list the differences in a table: location, energy requirement, raw materials, products, and significance.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

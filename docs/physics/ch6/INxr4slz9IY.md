@@ -20,7 +20,7 @@ Sir states Hooke’s Law: Within the elastic limit, the Strain produced in a bod
 Honestly, The phrase "within the elastic limit" must always be included when writing the definition of Hooke's Law in an exam. Without that phrase, the law is scientifically incorrect.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

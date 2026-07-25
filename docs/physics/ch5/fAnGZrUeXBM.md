@@ -19,7 +19,7 @@ Sir states the law clearly: Energy cannot be created or destroyed; it can only b
 Look, The mathematical relationship (Loss in P.E. = Gain in K.E.) is the secret to solving complex free-fall numericals rapidly. Setting $mgh = \frac{1}{2}mv^2$ allows you to calculate final velocity without needing the time of fall.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

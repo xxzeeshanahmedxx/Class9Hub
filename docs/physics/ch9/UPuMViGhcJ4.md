@@ -18,7 +18,7 @@ The teacher answers the textbook's conceptual queries and MCQs. The questions fo
 Look, As this chapter contains no mathematical numericals, exam questions will be entirely subjective or multiple-choice. Memorizing the definitions of the branches of physics and the steps of the scientific method guarantees full marks for this unit.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

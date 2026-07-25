@@ -21,7 +21,7 @@ He introduces "Valency" as the combining capacity of an element (its charge as a
 Honestly, ignoring the "cancel out" rule is the most common mistake. If you criss-cross Calcium ($+2$) and Carbonate ($-2$) and write $Ca_2(CO_3)_2$, it is wrong. Ionic formulas must be empirical (simplest ratio), so it must be simplified to $CaCO_3$.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

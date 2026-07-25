@@ -21,7 +21,7 @@ Sir outlines the four fundamental forces: Gravitational, Electromagnetic, Strong
 Actually, It is a common exam trick: Gravity is the weakest force in the universe, despite being responsible for holding planets in orbit. The Strong Nuclear force is the strongest but has the shortest range.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

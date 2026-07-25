@@ -20,7 +20,7 @@ The instructor uses the Stomach as the primary example of an organ. Sir explains
 Honestly, the breakdown of the stomach's tissues is a guaranteed long question! You must be able to list at least the Epithelial (secretion of enzymes/acid) and Smooth Muscle (churning food) tissues to prove you understand how an organ is constructed from smaller parts.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

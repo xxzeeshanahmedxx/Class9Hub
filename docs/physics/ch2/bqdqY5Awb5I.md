@@ -20,7 +20,7 @@ Sir defines mechanics and divides it into Kinematics and Dynamics. Kinematics fo
 So basically, Always remember that kinematics ignores force and mass. It is purely about describing paths, speeds, and times mathematically.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

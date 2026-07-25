@@ -20,7 +20,7 @@ The instructor defines Lysosomes as single-membrane sacs containing powerful, hi
 Honestly, the term "Suicide Bag" is the key to identifying Lysosomes in MCQs. Examiners will ask "Which organelle is responsible for autolysis or cell suicide?" You must select Lysosome because of its powerful digestive enzymes.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

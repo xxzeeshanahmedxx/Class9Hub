@@ -19,7 +19,7 @@ The teacher demonstrates how to magnetize a steel bar using the "Stroking Method
 Look, The difference between AC and DC is critical here. Exam questions often ask how to magnetize and demagnetize electrically. You MUST specify Direct Current (DC) for magnetization and Alternating Current (AC) for demagnetization.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -18,7 +18,7 @@ Our teacher reviews Newton's laws, friction, and momentum by answering the textb
 So basically, Memorizing the textbook answers is less important than understanding the *why*. When a conceptual question asks why passengers fall forward when a bus stops, students must explicitly use the keyword "Inertia of motion" to score full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

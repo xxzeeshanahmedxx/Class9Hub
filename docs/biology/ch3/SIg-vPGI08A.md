@@ -20,7 +20,7 @@ The instructor defines the cell as the structural and functional unit of all liv
 Pro tip: Make sure you remember the three postulates of the cell theory perfectly. if a board question asks for the contribution of schleiden and schwann, you must associate them with establishing that all plants and animals are composed of these microscopic building blocks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -22,7 +22,7 @@ Sir walks through the two-step process of Protein Synthesis. **Step 1 is Transcr
 Honestly, getting Transcription and Translation mixed up is a classic error. Remember: Transcription happens FIRST inside the nucleus (writing the script). Translation happens SECOND at the ribosome (translating the script into a physical protein).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

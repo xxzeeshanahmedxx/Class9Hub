@@ -21,7 +21,7 @@ The instructor breaks networks down into three primary types: LAN, MAN, and WAN.
 To be fair, examiners love asking for real-world examples to differentiate these networks. Remember: A school computer lab is a LAN. A city's cable TV network is a MAN. The global Internet is a WAN.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

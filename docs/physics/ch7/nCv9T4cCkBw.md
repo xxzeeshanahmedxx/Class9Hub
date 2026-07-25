@@ -21,7 +21,7 @@ Our teacher describes the Seebeck effect: when two different metal wires are joi
 Honestly, The rapid response time is the thermocouple's biggest advantage. Because the metal junction is tiny, it takes only milliseconds to heat up, making it perfect for measuring rapidly changing temperatures in physics experiments.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

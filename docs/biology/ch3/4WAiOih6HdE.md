@@ -20,7 +20,7 @@ Sir explains that Italian physician Camillo Golgi discovered this organelle. It 
 Look, the sequence of transport is a highly favored conceptual question. Remember the flow: Ribosome (makes protein) $\rightarrow$ Rough ER (modifies protein) $\rightarrow$ Golgi Apparatus (packages protein) $\rightarrow$ Vesicle (ships protein out of the cell).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The instructor reviews the four major classes of biomolecules (Carbs, Proteins, 
 Listen carefully here: If a long question asks you to "Write a note on Nucleic Acids," you cannot just write about DNA. You MUST dedicate half of your answer to RNA, highlighting its single-stranded structure and its role in translating the DNA code into proteins.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

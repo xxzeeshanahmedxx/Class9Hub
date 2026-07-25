@@ -20,7 +20,7 @@ The instructor walks through the machine cycle. **Fetch:** The Control Unit (CU)
 Listen carefully here: You must know the exact order of the cycle (Fetch $\rightarrow$ Decode $\rightarrow$ Execute). Furthermore, examiners love asking about the Program Counter. Remember that it holds the *address* of the *next* instruction, not the current one.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

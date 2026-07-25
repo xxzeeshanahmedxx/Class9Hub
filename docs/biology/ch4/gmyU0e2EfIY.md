@@ -21,7 +21,7 @@ The instructor explains that cells have genetic "checkpoints." If a cell mutates
 Look, the definition of Metastasis is incredibly important for exams. It is the defining feature of a malignant (cancerous) tumor. You must describe it as the "spreading of disease from one organ to another."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ The instructor draws the distinct shapes for the AND gate (looks like a 'D'), th
 Honestly, You guys must practice drawing the gates! confusing the d-shape of the and gate with the curved-shield shape of the or gate will cause you to fail logic diagram questions entirely. memorize the shapes perfectly.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

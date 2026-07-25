@@ -20,7 +20,7 @@ Sir defines acceleration as the rate of change of velocity. If a car speeds up, 
 Pro tip: Make sure you memorize the unit (m/s²) and remember that when brakes are applied, the final velocity ($v_f$) is smaller than the initial velocity ($v_i$), mathematically resulting in a negative acceleration.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

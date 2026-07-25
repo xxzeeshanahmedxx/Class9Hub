@@ -20,7 +20,7 @@ The teacher guides students through problems involving stretching wires and spri
 So basically, The arithmetic involving negative exponents is brutal in these questions. A wire area is often on the order of $10^{-6} \text{ m}^2$. Make sure you practice using the exponent (EXP or EE) button on their scientific calculators to avoid massive decimal errors.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

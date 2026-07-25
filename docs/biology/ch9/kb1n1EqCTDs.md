@@ -20,7 +20,7 @@ Sir systematically goes through every exercise question. MCQs are solved with re
 Make sure you can draw a neat labeled diagram of the stomatal apparatus showing guard cells, nucleus, chloroplasts, and the stomatal pore. this diagram appears frequently in board exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

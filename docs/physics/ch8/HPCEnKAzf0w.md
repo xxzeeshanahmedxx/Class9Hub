@@ -23,7 +23,7 @@ The teacher demonstrates that passing an electric current through a wire creates
 Honestly, The "Soft Iron Core" is a heavily tested concept. Make sure you state that soft iron is used because it magnetizes instantly when the current is on, and demagnetizes completely the moment the current is off, allowing the electromagnet to drop its load.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The instructor highlights that computers are central to modern businesses, hospi
 Honestly, the concept of "Downtime" is a great keyword to use in subjective answers. Explain that the primary goal of troubleshooting in a business environment is to "minimize downtime and ensure continuous productivity."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

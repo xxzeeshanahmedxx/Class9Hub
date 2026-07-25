@@ -19,7 +19,7 @@ The instructor groups Protista, Fungi, Plantae, and Animalia together under Euka
 To be fair, you must understand the distinction between Domains and Kingdoms. Eukarya is a Domain. The exam might ask, "Which Domain contains the Kingdom Fungi?" The answer is Eukarya, because fungi have a true nucleus.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

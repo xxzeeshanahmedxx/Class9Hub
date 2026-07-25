@@ -20,7 +20,7 @@ The teacher discusses **Question 3 (i,ii)** in the context of Exercise 11.1 of C
 Pay close attention to the method and reasoning shown in this lecture. Understanding the underlying principle is more important than memorizing steps. Practice similar problems from your textbook to reinforce the concept.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

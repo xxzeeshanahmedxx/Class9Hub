@@ -20,7 +20,7 @@ The instructor details several prominent careers. Medicine and Surgery (MBBS) is
 So basically, if asked about Agriculture, you must differentiate it from Animal Husbandry. Agriculture deals with crops (wheat, rice) AND animals, whereas Animal Husbandry is strictly focused on the breeding and care of domestic livestock.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

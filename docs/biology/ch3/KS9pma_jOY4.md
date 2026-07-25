@@ -19,7 +19,7 @@ The instructor describes the ER as a network of interconnected channels extendin
 Pro tip: Examiners always ask for the function of the Smooth ER. Do not just say "transport." You must mention "Lipid Synthesis" and "Detoxification of harmful chemicals" to secure full marks for this specific organelle.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

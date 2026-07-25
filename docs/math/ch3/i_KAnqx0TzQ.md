@@ -20,7 +20,7 @@ The teacher works through Question 3,4,5,6,7 of Exercise 3.3 in detail. Each par
 Follow along with your notebook. Pause the video after each step and try to solve it yourself before watching the next step. This active learning approach will help you retain the method for exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

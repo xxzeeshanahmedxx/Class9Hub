@@ -19,7 +19,7 @@ Our teacher defines energy as the capacity of a body to do work. A moving object
 Actually, The mathematical relationship between velocity and kinetic energy is heavily tested. Because velocity is squared in the formula, a small increase in speed results in a massive increase in destructive energy, which is why high-speed car crashes are so fatal.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

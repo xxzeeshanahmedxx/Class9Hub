@@ -18,7 +18,7 @@ The teacher reviews the definitions of reversible/irreversible reactions and dyn
 Pro tip: When drawing the Rate vs Time graph for a long question, ensure the curve for the Forward Reaction starts high (at the y-axis) and goes down, while the Reverse Reaction curve starts at zero (origin) and goes up, until they perfectly merge into a single horizontal line.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

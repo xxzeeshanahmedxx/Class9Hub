@@ -20,7 +20,7 @@ Sir defines Potential Energy (P.E.) as stored energy. The lecture focuses primar
 Well, Gravitational Potential Energy is always relative to a reference point (usually the ground, where $h=0$ and therefore $P.E.=0$). The higher an object is lifted, the more energy it stores mathematically.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ Sir provides visual examples for each type. Translatory motion involves moving i
 Pro tip: Students often confuse circular motion (a type of translatory motion where the object moves along a circular path) with rotatory motion (where the object itself spins on its own axis). Distinguishing these two is a frequent exam question.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

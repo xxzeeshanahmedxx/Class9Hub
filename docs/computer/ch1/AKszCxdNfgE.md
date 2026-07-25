@@ -20,7 +20,7 @@ Sir explains that Boolean algebra only has three basic operations: AND, OR, and 
 To be fair, you must memorize the symbols for the Boolean operators! If an exam asks you to write "A AND B", you must write $A \cdot B$. If you write $A + B$, the examiner will mark it as an OR operation, which is completely different.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor explains that a Dry Run is a manual, paper-and-pencil simulation 
 Honestly, examiners love giving you a small piece of pseudocode and asking you to dry run it. You MUST draw the trace table and write down the changing value of the variables at every single step. If you skip steps and just write the final answer, you will lose marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

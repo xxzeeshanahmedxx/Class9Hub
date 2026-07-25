@@ -22,7 +22,7 @@ The instructor explains that ATP is a nucleotide composed of Adenine (a nitrogen
 Pro tip: The structure of ATP (adenine + ribose + 3 phosphates) is a common exam question. remember that the bonds between the second and third phosphate groups store the most energy.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

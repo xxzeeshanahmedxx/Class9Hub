@@ -22,7 +22,7 @@ The instructor explains two models of enzyme action: the Lock and Key model and 
 Pro tip: The steps of enzyme action (E + S → ES → E + P) must be memorized perfectly. board exam short questions frequently ask you to label the enzyme, substrate, and active site in a diagram.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

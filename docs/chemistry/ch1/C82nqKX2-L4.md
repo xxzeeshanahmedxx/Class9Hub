@@ -21,7 +21,7 @@ The teacher defines an Element as a substance made of only one type of atom. A C
 Pro tip: The most critical difference is that a compound has a *fixed ratio by mass*, while a mixture does not. You can mix a little salt or a lot of salt in water to make a mixture, but H₂O must always have exactly two hydrogens to one oxygen to be water.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

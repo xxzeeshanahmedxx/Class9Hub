@@ -20,7 +20,7 @@ The teacher reinforces that chemical properties are dictated entirely by the out
 Honestly, the reason for similar group properties is a classic short-answer question. You must state clearly: "Elements in the same group have the same number of valence electrons, and therefore exhibit similar chemical reactivity."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

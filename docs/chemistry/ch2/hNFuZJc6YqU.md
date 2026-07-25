@@ -19,7 +19,7 @@ Our teacher solves the textbook MCQs, explaining the physical reasoning behind a
 Pro tip: When asked to compare Rutherford and Bohr, always make a T-chart. Focus on the core difference: Rutherford suggested continuous spiraling orbits, while Bohr proved orbits are fixed (quantized) energy levels. Highlighting "Quantized Energy" secures full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

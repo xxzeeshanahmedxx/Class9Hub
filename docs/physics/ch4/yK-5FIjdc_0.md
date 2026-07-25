@@ -21,7 +21,7 @@ Our teacher defines parallel forces as forces acting in lines parallel to each o
 Pro tip: Make sure you recognize that forces do not have to be linear to be added. Understanding how to graphically add vectors using the Head-to-Tail rule is crucial for visualizing unbalanced forces.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

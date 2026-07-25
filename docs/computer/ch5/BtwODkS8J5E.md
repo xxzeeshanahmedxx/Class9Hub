@@ -20,7 +20,7 @@ Sir introduces the two mandatory software programs for web development: a Text E
 Look, the file extension rule is critical for your practical exams. If you type perfect HTML code but save the file as `index.txt` instead of `index.html`, the browser will just display raw code instead of rendering a website. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

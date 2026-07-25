@@ -20,7 +20,7 @@ Sir defines allotropy as the existence of an element in more than one physical f
 Well, you guys must remember that while the physical properties of allotropes vary wildly, their chemical properties remain identical. If you burn a diamond or a lump of graphite in oxygen, both will produce pure Carbon Dioxide (CO₂).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

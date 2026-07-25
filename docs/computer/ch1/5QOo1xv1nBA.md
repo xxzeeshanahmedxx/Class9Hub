@@ -20,7 +20,7 @@ Sir explains that before Von Neumann, computers had to be physically re-wired to
 Actually, drawing the block diagram is mandatory for long questions. You must be able to draw the CPU block (containing CU and ALU), the Memory block, and the arrows (buses) connecting them to the Input/Output blocks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The teacher uses practical examples: a sharp knife cuts easily, while a blunt kn
 Actually, Pressure is a scalar quantity. Even though it is derived from a vector (Force), pressure acts in all directions within fluids, so it does not have a single directional vector.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

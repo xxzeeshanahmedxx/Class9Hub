@@ -20,7 +20,7 @@ The teacher contrasts Inorganic Chemistry (studying non-carbon elements) with Or
 Look, you must be able to link practical examples to the correct branch. If an exam asks about the manufacturing of fertilizers, you should instantly know it belongs to Industrial Chemistry. If it asks about testing water quality, that's Environmental and Analytical Chemistry.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

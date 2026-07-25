@@ -20,7 +20,7 @@ The teacher defines a Brønsted-Lowry Acid as a substance that DONATES a proton 
 Look, identifying conjugate pairs is critical here. When an acid donates a proton, it becomes a "conjugate base." When a base accepts a proton, it becomes a "conjugate acid." Examiners frequently ask you to label these pairs in a given chemical equation.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

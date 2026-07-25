@@ -23,7 +23,7 @@ Our teacher explains that experimental error is the difference between a measure
 Actually, Always check an instrument for zero error before beginning an experiment. Remember the rule: "Zero Correction is the negative of Zero Error." If the error is +0.02, the correction applied to the final reading must be -0.02.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

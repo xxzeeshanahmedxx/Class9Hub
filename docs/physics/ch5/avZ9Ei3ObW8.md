@@ -21,7 +21,7 @@ Our teacher clearly defines the two categories. Non-renewable sources (fossil fu
 So basically, Memorizing the lists is essential for MCQs. Students should also understand the concept that hydroelectric dams use Gravitational Potential Energy (water stored high up) converting into Kinetic Energy to spin generators.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

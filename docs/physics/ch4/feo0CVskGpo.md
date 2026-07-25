@@ -19,7 +19,7 @@ Sir tackles problems involving spanners, steering wheels (couples), and balanced
 Look, Forgetting to convert centimeters to meters is a fatal error in these numericals. A moment arm given as "15 cm" MUST be written as "0.15 m" in the equation, otherwise the calculated torque will be wildly incorrect.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

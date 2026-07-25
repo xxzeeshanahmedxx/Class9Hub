@@ -22,7 +22,7 @@ The teacher defines force as an agent that produces or tends to produce motion, 
 Look, Force doesn't always cause movement; it "tends to" cause it. Pushing a concrete wall is applying a force, even if the wall doesn't move.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Sir explains that whenever you put energy (Input) into a machine, you get useful
 Honestly, You guys must remember that the Output can *never* be greater than the Input, as that would violate the Law of Conservation of Energy. If calculating an efficiency greater than 100%, the math is incorrect.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

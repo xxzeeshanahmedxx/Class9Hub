@@ -21,7 +21,7 @@ The instructor describes the structure of the nucleus: it is surrounded by a dou
 Actually, the difference between Chromatin and Chromosomes is a classic trick question. You must explain that they are the exact same material (DNA + protein). "Chromatin" is the loose, uncoiled form during normal cell life, while "Chromosomes" are the tightly packed, visible X-shapes that form ONLY during cell division.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

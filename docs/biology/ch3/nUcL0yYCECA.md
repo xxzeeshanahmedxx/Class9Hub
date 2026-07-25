@@ -23,7 +23,7 @@ The instructor creates a T-chart contrasting the two kingdoms. Plant cells have 
 Honestly, you guys must memorize this exact table. "Differentiate between a Plant and Animal cell" is arguably the most common long-question in 9th class biology. Listing these five points clearly will guarantee you maximum marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

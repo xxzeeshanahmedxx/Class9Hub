@@ -20,7 +20,7 @@ The teacher explains what happens when a net force *is* applied: the object acce
 Look, The definition of one Newton ($1 \text{ N} = 1 \text{ kg}\cdot\text{m/s}^2$) is a guaranteed exam question. Furthermore, $F$ in the equation represents the *Net* Force, not just any single applied force.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

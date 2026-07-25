@@ -20,7 +20,7 @@ Our teacher tells us that a Molecular Formula shows the exact, actual number of 
 Pro tip: You guys must remember that ionic compounds do not have molecular formulas. an examiner will trap you by asking for the molecular formula of sodium chloride. you must confidently state that because it is a 3d ionic lattice, $nacl$ is strictly an empirical formula unit.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

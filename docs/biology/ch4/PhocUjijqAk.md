@@ -21,7 +21,7 @@ Sir explains that if a human sperm (46 chromosomes) merged with an egg (46), the
 Listen carefully here: Crossing Over is the absolute most important event in Meiosis. If an exam asks why you don't look exactly like your siblings, you must explain that "Crossing over during Prophase I of Meiosis creates new, unique genetic combinations in every gamete."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

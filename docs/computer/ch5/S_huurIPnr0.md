@@ -21,7 +21,7 @@ The instructor introduces the Image tag (`<img>`) and explains its required Attr
 To be fair, confusing `src` and `href` is the most common student error. Remember: `src` (source) is strictly used for Images. `href` (hypertext reference) is strictly used for Links. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

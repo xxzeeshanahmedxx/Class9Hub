@@ -19,7 +19,7 @@ When adding scalars, we use simple arithmetic (2+2=4). But for vectors, directio
 Well, Make sure you practice drawing the Head-to-Tail rule using a ruler and protractor. The direction of the resultant vector is always from the start point to the final end point.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

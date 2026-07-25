@@ -20,7 +20,7 @@ The instructor defines a computer network as two or more computers connected tog
 Listen carefully here: Make sure you remember the primary purpose of a network: "resource sharing". if an exam asks for the biggest advantage of networking in an office, you must explicitly mention that it reduces hardware costs by allowing all employees to share a single peripheral device.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

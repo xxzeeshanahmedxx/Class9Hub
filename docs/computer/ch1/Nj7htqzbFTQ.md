@@ -20,7 +20,7 @@ The instructor divides software into two main categories: System Software and Ap
 Honestly, the distinction between the two is heavily tested. If an exam asks you to classify "Device Drivers", you must put them under System Software, because they directly control hardware components like printers and graphics cards.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

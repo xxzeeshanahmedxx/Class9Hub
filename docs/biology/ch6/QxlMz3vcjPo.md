@@ -22,7 +22,7 @@ Sir defines lipids as a diverse group of naturally occurring organic compounds t
 Listen carefully here: The building blocks of lipids are a guaranteed short question. Do NOT confuse them with proteins! You must state that a standard lipid (triglyceride) is built from "Fatty Acids and Glycerol."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

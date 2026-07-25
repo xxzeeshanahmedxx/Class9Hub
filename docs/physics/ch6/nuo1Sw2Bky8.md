@@ -21,7 +21,7 @@ The teacher states the law: Pressure applied anywhere to an enclosed fluid is tr
 So basically, Pascal's law multiplies *Force*, not *Work*. The small piston must be pushed down a very long distance to move the large piston up just a tiny bit. Energy is still perfectly conserved.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

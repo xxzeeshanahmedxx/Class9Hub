@@ -20,7 +20,7 @@ The instructor explains that studying 2 million species of animals individually 
 Look, distinguishing between Taxonomy and Systematics is a guaranteed short-answer question. You must explicitly state that Systematics includes the *evolutionary history* (phylogeny) of the organism, whereas Taxonomy is just the naming and grouping part.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

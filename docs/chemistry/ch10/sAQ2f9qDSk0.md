@@ -20,7 +20,7 @@ Sir introduces the Greenhouse Effect. The Earth's atmosphere contains greenhouse
 Actually, Make sure you distinguish between the natural greenhouse effect and global warming. examiners often ask for the primary greenhouse gas responsible for global warming; you must confidently answer carbon dioxide (co₂).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

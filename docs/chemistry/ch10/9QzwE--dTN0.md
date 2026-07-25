@@ -20,7 +20,7 @@ Look, You must remember the chemical equation for the catalytic converter. it tu
 ightarrow 2CO_2 + N_2$. Examiners love asking how this device neutralizes two highly toxic gases into relatively safe, naturally occurring atmospheric gases.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

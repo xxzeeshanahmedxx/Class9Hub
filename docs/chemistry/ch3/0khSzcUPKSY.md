@@ -20,7 +20,7 @@ Sir explains the Octet Rule and the Duplet Rule. Atoms are naturally unstable un
 So basically, always link chemical bonding to the "Noble Gas Configuration." If an exam asks why Sodium reacts so violently with Chlorine, you must explain that Sodium desperately wants to lose its 1 extra electron, and Chlorine desperately wants to gain 1, so they can both achieve a stable octet.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

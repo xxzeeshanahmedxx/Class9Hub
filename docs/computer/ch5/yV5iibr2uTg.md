@@ -20,7 +20,7 @@ Sir explains the basic syntax of CSS, which is completely different from HTML. A
 Look, the semicolon (`;`) is the equivalent of a full stop in CSS. If you forget to put a semicolon at the end of a value (e.g., writing `color: blue` instead of `color: blue;`), the browser will crash the CSS and the style will not apply!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

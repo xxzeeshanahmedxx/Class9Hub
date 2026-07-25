@@ -22,7 +22,7 @@ Our teacher begins with older tools like the simple beam balance used by shopkee
 Well, The most common mistake is confusing mass and weight. The Physical Balance measures mass (in grams/kilograms) by comparing it directly to standard masses, completely independent of local gravity.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -23,7 +23,7 @@ Sir provides a complete ATP count. **Glycolysis:** Produces 2 ATP (net) and 2 NA
 Well, the ATP count is a common numerical question. remember the breakdown: glycolysis gives 2 ATP, krebs cycle gives 2 ATP, and the majority comes from the electron transport chain.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

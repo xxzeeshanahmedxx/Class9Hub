@@ -19,7 +19,7 @@ The instructor provides a Boolean expression (e.g., $F = A \cdot B + ar{C}$) an
 Actually, neatness is critical here. If your lines cross over each other messily, the examiner cannot tell which input goes to which gate. Draw large, clear gate symbols and straight lines.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

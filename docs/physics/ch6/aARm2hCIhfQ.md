@@ -20,7 +20,7 @@ Sir defines Density as the mass of a substance per unit volume. It is a measure 
 Honestly, Unit conversion is critical here. Converting g/cm³ to the standard SI unit of kg/m³ requires multiplying by 1000. Students really need to ensure their units match before comparing densities in numerical problems.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

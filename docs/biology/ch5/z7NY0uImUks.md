@@ -19,7 +19,7 @@ Sir defines an emergent property as a characteristic that a complex system has, 
 Look, the definition here is a favorite conceptual question. You must use the phrase "The whole is greater than the sum of its parts." Using the heart cell vs. pumping heart example is the best way to secure full marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

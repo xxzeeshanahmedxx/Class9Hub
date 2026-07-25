@@ -19,7 +19,7 @@ The teacher explains that atoms are too small to count individually. Just like w
 Pro tip: You guys must memorize the exact value: $6.022 \times 10^{23}$. be very careful with the positive exponent! also, remember that avogadro's number applies to *anything*—you could theoretically have a mole of apples, but it is practically used only for subatomic particles.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

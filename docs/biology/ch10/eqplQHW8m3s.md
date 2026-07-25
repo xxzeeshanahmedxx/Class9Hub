@@ -24,7 +24,7 @@ Sir introduces the concept of **Alternation of Generations**: plants alternate b
 Pro tip: The alternation of generations can be confusing. focus on the key rule: sporophyte is 2n and produces spores; gametophyte is n and produces gametes. The fusion of gametes makes the next sporophyte.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

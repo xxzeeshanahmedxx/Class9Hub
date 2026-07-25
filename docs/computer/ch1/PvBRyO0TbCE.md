@@ -19,7 +19,7 @@ Sir introduces the Laws of Boolean Algebra (like Commutative, Associative, and D
 Listen carefully here: De Morgan's Laws are the most important formulas in this chapter. Remember the rhyme "Break the line, change the sign." When you break a long NOT bar over two variables, you MUST change the AND ($\cdot$) to an OR ($+$), or vice versa.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

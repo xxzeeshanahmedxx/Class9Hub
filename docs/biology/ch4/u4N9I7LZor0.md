@@ -19,7 +19,7 @@ The instructor highlights two core points. First: Maintenance of the Chromosome 
 So basically, if asked for the significance of meiosis in an essay, you MUST use the two major headings: "Maintenance of Chromosome Number in Next Generation" and "Production of Genetic Variations." This structured answer proves you understand both the mathematics and the evolutionary purpose of the division.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

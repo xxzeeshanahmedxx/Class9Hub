@@ -20,7 +20,7 @@ The instructor explains that digital maintenance is just as important as physica
 To be fair, examiners love the difference between Antivirus and a Firewall. Remember: Antivirus acts like a doctor finding and killing sickness *inside* the computer. A Firewall acts like a security guard standing at the *door* (network connection), preventing bad traffic from entering in the first place.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

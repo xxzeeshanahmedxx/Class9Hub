@@ -19,7 +19,7 @@ Sir explains that chemistry isn't just about mixing chemicals in a lab; it's the
 To be fair, Make sure you understand the sequence of the syllabus. you guys must realize that skipping chapters in chemistry is dangerous because every new topic heavily relies on the foundation built in the previous chapter. for example, you can't understand bonding without first mastering atomic structure.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

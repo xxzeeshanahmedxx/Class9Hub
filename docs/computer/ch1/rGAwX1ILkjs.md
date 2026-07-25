@@ -20,7 +20,7 @@ The instructor reviews the absolute basics: distinguishing between Hardware (the
 Pro tip: Make sure you guys don't mix up hardware and software in exams. a classic trap is asking whether the "operating system" is hardware or software. it is software! even though it controls the hardware, you cannot physically touch it.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

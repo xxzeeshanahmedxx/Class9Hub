@@ -20,7 +20,7 @@ The instructor defines the cytoplasm as the jelly-like, semi-transparent substan
 So basically, if an exam asks for the functions of the cytoplasm, you must list two things: First, it acts as a site for biochemical reactions (like glycolysis). Second, it holds and protects the cell organelles.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

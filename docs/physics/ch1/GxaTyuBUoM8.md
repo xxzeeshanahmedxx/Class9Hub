@@ -20,7 +20,7 @@ The teacher uses practical examples to distinguish the two. Precision refers to 
 Pro tip: Make sure you remember the golden rule: Precision is linked to absolute uncertainty (least count), while accuracy is linked to relative/fractional uncertainty. You can improve precision by using a better instrument, but you improve accuracy by careful experimental procedure and calibration.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

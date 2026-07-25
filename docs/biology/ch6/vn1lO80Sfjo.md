@@ -20,7 +20,7 @@ The instructor breaks down the name: "Carbo" (Carbon) and "Hydrate" (Water, $H_2
 Look, categorizing glucose vs. starch is a guaranteed board question. You must explicitly state that Glucose is a simple Monosaccharide (instant energy), while Starch is a massive Polysaccharide used by plants to *store* energy long-term.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

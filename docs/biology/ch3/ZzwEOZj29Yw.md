@@ -19,7 +19,7 @@ The instructor reviews the specific functions of every major organelle, ensuring
 Actually, drawing diagrams is the secret to high marks in this chapter. If a long question asks you to describe the fluid mosaic model or the structure of a mitochondrion, you MUST draw and label the diagram. A perfect written description without a diagram will often lose points in board exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

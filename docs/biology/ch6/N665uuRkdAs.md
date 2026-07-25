@@ -23,7 +23,7 @@ The instructor highlights three major structural differences. First, RNA is usua
 To be fair, "Differentiate between DNA and RNA" is a highly favored long question. You must draw a comparison table listing the differences in the Sugar type, the Number of Strands, and the presence of Uracil instead of Thymine.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

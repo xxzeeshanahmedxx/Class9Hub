@@ -24,7 +24,7 @@ The instructor sets up a comparative table. Mitosis occurs in somatic (body) cel
 Actually, drawing a T-chart like the one above is the absolute best way to answer this question in a board exam. Writing long paragraphs usually results in missed points. Ensure you explicitly contrast the chromosome numbers ($2n$ vs $1n$).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

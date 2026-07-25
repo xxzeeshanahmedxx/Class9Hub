@@ -19,7 +19,7 @@ Our teacher tackles complex scenarios, such as trains decelerating and objects t
 Pro tip: The strategic selection of the formula is the hardest part. Students should remember to list the variables they have ($v_i, a, S$) and look for the equation that contains only one unknown variable.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

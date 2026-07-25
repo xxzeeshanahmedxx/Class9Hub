@@ -19,7 +19,7 @@ Sir states the two golden rules for maximizing stability: keeping the Centre of 
 Honestly, Exam questions often ask for real-life applications. Mentioning the low CG of a Formula 1 car or the heavy bottom of a table lamp are excellent, high-scoring examples to justify the physics of stability.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

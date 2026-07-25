@@ -21,7 +21,7 @@ The teacher demonstrates how writing zeros for large astronomical distances or m
 Look, You guys must practice decimal placement. The most common mistake in exams is writing a number like $34.5 \times 10^3$, wich is incorrect because the decimal must be after the first digit ($3.45 \times 10^4$).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

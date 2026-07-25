@@ -21,7 +21,7 @@ The instructor explains that while the universe has over 100 elements, life is p
 So basically, Make sure you remember the "chonps" elements. a frequent mcq asks which elements constitute the vast majority of biological mass. you must identify carbon, hydrogen, oxygen, and nitrogen as the absolute primary building blocks of life.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

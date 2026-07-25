@@ -20,7 +20,7 @@ The instructor contrasts stem cells with specialized cells. A nerve cell is stuc
 Look, understanding the medical potential of stem cells is key. If an exam asks for the future applications of stem cell research, you should mention "Regenerative Medicine—using stem cells to repair damaged heart tissue after a heart attack or replacing damaged nerve cells to cure paralysis."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

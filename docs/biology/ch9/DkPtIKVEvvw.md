@@ -24,7 +24,7 @@ Sir defines transpiration as the evaporation of water from plant surfaces, mainl
 Pro tip: The cohesion-tension theory is an important exam topic. Remember the three key properties: cohesion, adhesion, and tension. Without these, water could not reach the top of tall trees.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

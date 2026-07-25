@@ -20,7 +20,7 @@ Sir introduces three crucial terms: System, Surrounding, and Boundary. The Syste
 Look, identifying the system correctly is critical for exam questions. If a piece of zinc is dropped into acid in a test tube, the zinc and acid are the System. The test tube, the air, and the lab bench are all the Surroundings!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ The instructor outlines three absolute rules. First, the Genus name must ALWAYS 
 Pro tip: Writing the name correctly in your board exam is critical. If you write "Homo Sapiens" (with a capital S) or fail to underline it when writing by hand, the examiner will mark it completely wrong due to a syntax error. Capitalize the first letter, lowercase the second word, and underline both separately!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

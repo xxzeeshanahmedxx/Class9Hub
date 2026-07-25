@@ -21,7 +21,7 @@ Our teacher begins by showing a standard Meter Rule, explaining that it is exact
 So basically, Make sure you memorize the least count of the meter rule (1 mm). It is a frequent multiple-choice question (MCQ) in 9th class exams. Additionally, understanding parallax error is vital for laboratory practicals.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

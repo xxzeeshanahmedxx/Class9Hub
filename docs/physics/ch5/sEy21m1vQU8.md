@@ -20,7 +20,7 @@ Our teacher systematically compares various sources. Fossil fuels are cheap and 
 Honestly, Conceptual questions in board exams heavily feature this topic. Make sure you be able to list at least two distinct advantages and two distinct disadvantages for solar, wind, and fossil fuels to score full marks on essay questions.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

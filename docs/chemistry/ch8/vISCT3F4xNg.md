@@ -20,7 +20,7 @@ Our teacher reminds students that Metals want to *lose* electrons (Electropositi
 Well, understanding that reactivity has two definitions is crucial. For metals, being "reactive" means losing electrons easily (so reactivity increases *down* the group). For non-metals (like Halogens), being "reactive" means grabbing electrons fiercely (so reactivity increases *up* the group). 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The teacher works through the MCQs, focusing heavily on identifying the visual h
 Actually, the "Acid into Water" rule is the most universally tested lab safety question. You must remember the phrase "Always Do As You Oughta, Add Acid Into Wata." Adding water to concentrated acid causes an immediate, violent boil that shatters glass.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

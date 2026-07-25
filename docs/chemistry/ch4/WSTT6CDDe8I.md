@@ -21,7 +21,7 @@ The teacher defines a chemical reaction as the process where old bonds break and
 Honestly, trying to balance an equation by changing the small subscript numbers is the most fatal mistake in chemistry. Always use the large coefficients in front of the entire molecule. Start balancing the most complex molecule first, and leave single elements (like $O_2$ or $H_2$) for last.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

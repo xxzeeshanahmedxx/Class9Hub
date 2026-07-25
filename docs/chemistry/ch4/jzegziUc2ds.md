@@ -21,7 +21,7 @@ Sir defines Molar Mass as the mass of one mole of a substance, expressed in gram
 Well, calculating the Molar Mass correctly is step zero. If you miscalculate the molar mass of $H_2SO_4$ cuz you forgot to multiply Oxygen's mass (16) by 4, the entire mole calculation that follows will be completely wrong. Always double-check your addition!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

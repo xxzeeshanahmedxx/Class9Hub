@@ -20,7 +20,7 @@ He states that clean air is a homogeneous mixture (mostly 78% Nitrogen and 21% O
 Honestly, the difference between primary and secondary pollutants is a guaranteed exam question. Memorize the definitions and at least one example of each: $SO_2$ is primary, but when it turns into $H_2SO_4$ (acid rain), it becomes secondary.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

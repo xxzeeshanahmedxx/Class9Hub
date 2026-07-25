@@ -20,7 +20,7 @@ The instructor introduces Horticulture (the art of garden cultivation), Forestry
 To be fair, Biotechnology is the most important career to memorize for modern exams. You must mention that biotechnologists manipulate microorganisms to create beneficial products for mankind.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

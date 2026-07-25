@@ -19,7 +19,7 @@ The teacher demonstrates the Spring Balance, explaining that it operates on Hook
 Well, The Spring Balance is the classic exception in measuring tools. You guys must remember that it measures weight (vector) in Newtons, unlike a physical beam balance that measures mass (scalar) in kilograms.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

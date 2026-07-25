@@ -19,7 +19,7 @@ The teacher works through the textbook queries, focusing heavily on matching pol
 Pro tip: Examiners love testing the difference between Global Warming (caused by $CO_2$ trapping heat) and Ozone Depletion (caused by CFCs destroying the UV shield). Do not mix these two up! They are entirely different environmental issues with different chemical causes.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

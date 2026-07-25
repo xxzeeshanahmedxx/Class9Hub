@@ -20,7 +20,7 @@ The instructor clarifies that you cannot use the same rules to send an email as 
 Well, matching the acronym to its function is critical for exams. If a question asks "Which protocol is used by web browsers to display websites?", you must select HTTP. If it asks about "uploading a document to a server," select FTP.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

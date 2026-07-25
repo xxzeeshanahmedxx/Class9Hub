@@ -25,7 +25,7 @@ Sir describes several artificial propagation techniques. **Cutting:** A piece of
 Pro tip: Grafting is a very important exam topic. Understand the terms scion and rootstock, and know why the cambium layers must be aligned (they need to heal together for vascular connection).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

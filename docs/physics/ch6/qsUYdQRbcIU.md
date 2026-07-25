@@ -21,7 +21,7 @@ ho g$ (if gas side is lower).
 Well, A manometer does not directly give the absolute pressure. It gives the *difference* in pressure ($\Delta P$). Make sure you remember to add the atmospheric pressure back in if calculating total absolute pressure.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The teacher plots Time on the x-axis and Speed on the y-axis. Our teacher reveal
 Pro tip: Do not confuse the graphs! A horizontal line on a *distance-time* graph means the object is stopped. But a horizontal line on a *speed-time* graph means the object is moving constantly without accelerating. Furthermore, finding distance via the area under the graph is a guaranteed exam question.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

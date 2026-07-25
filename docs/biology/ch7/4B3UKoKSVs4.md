@@ -23,7 +23,7 @@ Sir discusses various industries that rely on enzymes. In the food industry, enz
 Listen carefully here: The industrial uses of enzymes frequently appear in long questions. Make sure you can list at least three industries and name the specific enzyme used in each.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

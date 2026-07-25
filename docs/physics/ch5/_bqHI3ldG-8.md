@@ -18,7 +18,7 @@ The teacher tackles problems involving objects falling from a height. The teache
 Well, The shortcut $v = \sqrt{2gh}$ is an incredibly powerful tool. It proves mathematically that without air resistance, a heavy bowling ball and a light feather dropped from the same height will hit the ground at the exact same speed.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -19,7 +19,7 @@ Our teacher works through advanced scenarios involving objects hanging from stri
 Actually, The strategic choice of the pivot point makes these problems much easier. By placing the mathematical pivot exactly where an unknown force acts, that force gets multiplied by zero length, temporarily removing it from the equation so you can solve for the other unknowns.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

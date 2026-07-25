@@ -20,7 +20,7 @@ Our teacher defines Periods as the 7 horizontal rows and Groups as the 18 vertic
 So basically, if you know an element's position, you know its structure. An element in Period 3, Group 17 has exactly 3 electron shells and 7 valence electrons. This mapping trick saves immense time during exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

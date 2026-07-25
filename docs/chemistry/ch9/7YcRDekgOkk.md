@@ -19,7 +19,7 @@ Sir reviews the specific behaviors of the Alkali Metals, Halogens, and Noble Gas
 Actually, when asked to compare properties in an exam, always use a T-chart format. Writing paragraphs makes it hard for the examiner to award points. List Malleability, Ductility, Conductivity, and State side-by-side for Metals and Non-Metals.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

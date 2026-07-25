@@ -22,7 +22,7 @@ Sir explains Whittaker's basis for classification: cellular structure (prokaryot
 Honestly, you must memorize the basis of Whittaker's system. If an exam asks "On what basis did Whittaker classify organisms?", you must clearly state: 1. Cellular organization (prokaryotic/eukaryotic/uni/multicellular) and 2. Principal modes of nutrition.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor defines a Function as a block of code designed to perform a parti
 To be fair, Make sure you understand the difference between *defining* a function and *calling* it. just writing the function block does nothing. you must actually write `sayhello();` elsewhere in the script, or attach it to an html button, to make the code run.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

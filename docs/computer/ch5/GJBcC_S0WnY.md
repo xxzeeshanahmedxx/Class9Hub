@@ -19,7 +19,7 @@ The instructor demonstrates the Heading tags (`<h1>` to `<h6>`), explaining that
 Listen carefully here: Tag nesting must be done in the correct order! The tag opened last must be closed first. Example: `<b><i>Text</i></b>` is correct. `<b><i>Text</b></i>` is completely wrong and will cause rendering issues.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

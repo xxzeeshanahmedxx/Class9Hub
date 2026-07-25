@@ -20,7 +20,7 @@ He distinguishes between Intramolecular forces (the strong covalent bonds holdin
 Honestly, Hydrogen Bonding is the absolute most important IMF for exams. You must memorize the "FON" rule: Hydrogen bonding ONLY happens when H is directly attached to Fluorine, Oxygen, or Nitrogen. If H is attached to Carbon (like in Methane), there is NO hydrogen bonding.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

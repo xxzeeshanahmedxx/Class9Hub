@@ -20,7 +20,7 @@ Sir defines a "System" as a set of interacting or interdependent components form
 So basically, the concept of "interdependence" is the key takeaway. In a long-answer question, explain that a high-end processor is completely useless if the RAM is broken. The components rely on each other to function.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

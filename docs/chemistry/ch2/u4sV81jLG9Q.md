@@ -21,7 +21,7 @@ Sir describes Eugen Goldstein's discovery of positive rays (canal rays) in the d
 Well, Make sure you remember the names of the scientists and their discoveries for mcqs. j.j. thomson discovered the electron, goldstein/rutherford identified the proton, and chadwick discovered the neutron. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

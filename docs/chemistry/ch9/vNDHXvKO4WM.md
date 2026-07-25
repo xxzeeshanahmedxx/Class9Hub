@@ -20,7 +20,7 @@ Our teacher describes Transition Metals (d-block) as the "typical" metals (Iron,
 Pro tip: The term "inert" is heavily associated with noble gases. if an exam asks why argon doesn't react with anything, you must explain that it has 8 valence electrons, meaning its octet is complete, rendering it chemically stable and inert.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

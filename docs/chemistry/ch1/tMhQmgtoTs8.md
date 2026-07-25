@@ -19,7 +19,7 @@ Sir explains that increasing the temperature increases the kinetic energy of the
 Honestly, the gas exception is a favorite board exam trick. While heating helps dissolve solids, heating a liquid makes it *harder* to keep gases dissolved. This is why aquatic life struggles in unusually warm lake water—the dissolved oxygen escapes!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

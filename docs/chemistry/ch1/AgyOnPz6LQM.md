@@ -19,7 +19,7 @@ Our teacher breaks down the definition of chemistry into four pillars: compositi
 Listen carefully here: Students really need to memorize the exact definition of organic chemistry. it is specifically the study of hydrocarbons and their derivatives. confusing it with inorganic chemistry is a very common mistake in board exams.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

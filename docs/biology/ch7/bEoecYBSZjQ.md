@@ -19,7 +19,7 @@ Sir goes through every exercise question step by step. MCQs are solved with expl
 Make sure you practice drawing the graph of enzyme activity versus temperature and pH. these diagrams carry marks in the board exam and a neat, well-labeled graph can earn you full credit.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

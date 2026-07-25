@@ -20,7 +20,7 @@ Sir explains that real-world data is messy. Organizing involves putting data int
 To be fair, understanding the difference between Sorting and Filtering is a common subjective question. Sorting changes the *order* of the data (A to Z). Filtering temporarily *removes* data that doesn't meet a specific criteria.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ Our teacher tells us that instead of using grams to weigh an atom (which results
 So basically, the standard reference element is ALWAYS Carbon-12. Knowing that 1 amu = $1.66 \times 10^{-24} \text{ g}$ is also a very frequent MCQ. Furthermore, understand that relative atomic mass is an *average* of isotopes.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

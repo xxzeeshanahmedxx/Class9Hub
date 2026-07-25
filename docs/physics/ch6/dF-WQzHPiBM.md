@@ -20,7 +20,7 @@ The teacher defines atmospheric pressure as the pressure exerted by the weight o
 Actually, Make sure you understand why atmospheric pressure doesn't crush human bodies. The reason is that our internal bodily fluids (blood) exert an outward pressure that exactly balances the inward atmospheric pressure. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

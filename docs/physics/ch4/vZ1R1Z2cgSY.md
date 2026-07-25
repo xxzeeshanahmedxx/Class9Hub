@@ -18,7 +18,7 @@ Sir walks through the conceptual queries, explaining how to deduce the right ans
 Pro tip: When answering conceptual questions about torque, always explicitly mention the "Moment Arm." Explaining that an action is easier because it "increases the moment arm, thereby increasing the torque for the same force" guarantees maximum marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

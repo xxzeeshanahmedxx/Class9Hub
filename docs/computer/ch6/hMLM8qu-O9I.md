@@ -20,7 +20,7 @@ The instructor explains the golden rule of computer science: "Garbage In, Garbag
 Honestly, the "Garbage In, Garbage Out" (GIGO) concept is the most important takeaway here. Examiners may ask why pre-processing is necessary. You must explain that machine learning algorithms are blind; they will confidently calculate incorrect predictions if fed dirty, uncleaned data.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

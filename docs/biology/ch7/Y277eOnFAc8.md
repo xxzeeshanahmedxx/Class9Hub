@@ -23,7 +23,7 @@ Sir explains two main types of inhibition. **Competitive Inhibition:** An inhibi
 So basically, the difference between competitive and non-competitive inhibition is a board favorite. Remember: competitive = same seat, fight for it; non-competitive = broken lock, no key works.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

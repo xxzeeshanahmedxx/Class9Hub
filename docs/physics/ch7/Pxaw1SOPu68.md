@@ -18,7 +18,7 @@ Our teacher works through the conceptual questions, requiring students to synthe
 Pro tip: Examiners often test the difference between heat and temperature in conceptual questions. You guys must always remember that two objects can be at the exact same temperature, but the one with the larger mass contains significantly more total thermal heat energy.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

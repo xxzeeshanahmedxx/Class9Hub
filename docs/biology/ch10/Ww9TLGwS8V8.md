@@ -26,7 +26,7 @@ Sir explains that after pollination, the pollen grain germinates on the stigma. 
 Honestly, "double fertilization" is a unique concept you must remember. Most students remember only that sperm fuses with egg, but forget about the second fusion with polar nuclei. Both fusions are part of double fertilization.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

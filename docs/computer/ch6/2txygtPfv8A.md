@@ -20,7 +20,7 @@ The instructor explains that looking at a spreadsheet with 10,000 rows of sales 
 So basically, choosing the *wrong* chart is a common exam trick. If an exam asks how to display "temperature changes from Monday to Sunday," you must select a Line Graph, NOT a Pie chart. Time-based trends are almost always Line Graphs.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

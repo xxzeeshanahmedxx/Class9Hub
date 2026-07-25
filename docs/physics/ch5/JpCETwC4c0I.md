@@ -19,7 +19,7 @@ Sir demonstrates how to parse problems that provide Input Power and Useful Outpu
 Well, When solving for velocity using Kinetic Energy, do not forget to take the square root at the very end of the calculation. Many students calculate $v^2$ correctly but forget the final square root step, losing marks.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

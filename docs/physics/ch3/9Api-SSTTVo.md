@@ -21,7 +21,7 @@ The teacher explains that friction arises due to microscopic roughness (hills an
 Actually, Friction is heavily dependent on the Normal Force. The heavier an object is, the harder the surfaces press together, making the cold welds stronger and thus increasing friction. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

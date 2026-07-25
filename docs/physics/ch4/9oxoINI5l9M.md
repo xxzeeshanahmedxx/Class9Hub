@@ -21,7 +21,7 @@ The teacher uses visual props. **Stable Equilibrium:** If tilted, the object's C
 Honestly, The behavior of the CG is heavily tested in subjective questions. Make sure you be able to draw simple diagrams showing how the vertical line of weight shifts outside the object's base to cause toppling in unstable equilibrium.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

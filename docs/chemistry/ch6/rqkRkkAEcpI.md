@@ -20,7 +20,7 @@ Sir explains that when a reversible reaction starts, the forward reaction is fas
 So basically, "Equal Rates, Constant Concentrations." The speed of both reactions must be exactly equal, but the *amounts* of reactants and products do not have to be equal—they just have to stop changing. This is a very common MCQ trap!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -24,7 +24,7 @@ The instructor introduces two types of lists: Unordered Lists (`<ul>`) which use
 So basically, examiners will test if you know the hierarchy. You cannot just write text directly inside a `<ul>` tag. The text MUST be wrapped in an `<li>` tag first. Writing `<ul>Apples</ul>` is invalid HTML.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

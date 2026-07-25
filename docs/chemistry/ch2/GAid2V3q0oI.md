@@ -21,7 +21,7 @@ Sir defines the Atomic Number ($Z$) as the total number of protons in the nucleu
 Well, do not confuse the two numbers! The Atomic Number ($Z$) is usually the smaller number and defines the element. The Mass Number ($A$) is the larger number. Knowing the formula $n = A - Z$ is essential for solving numericals in this chapter.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

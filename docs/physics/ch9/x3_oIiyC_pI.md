@@ -21,7 +21,7 @@ Our teacher categorizes physics into Classical Physics (pre-20th century) and Mo
 Pro tip: Questions regarding the branches of physics are very common MCQs. Make sure you be able to match the branch with its definition (e.g., identifying that the study of falling objects belongs to Mechanics, while studying a telescope belongs to Optics).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

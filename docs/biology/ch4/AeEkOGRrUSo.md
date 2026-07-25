@@ -22,7 +22,7 @@ The instructor divides Mitosis into Karyokinesis (division of the nucleus) and C
 Pro tip: The mnemonic **PMAT** (Prophase, Metaphase, Anaphase, Telophase) is essential for remembering the correct sequence. Furthermore, examiners frequently ask what happens during Metaphase. You must describe the chromosomes aligning at the "equator" or "center" of the cell.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

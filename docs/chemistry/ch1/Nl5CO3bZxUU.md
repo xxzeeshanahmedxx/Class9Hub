@@ -23,7 +23,7 @@ Our teacher creates a mental comparative table. Elements are the purest basic bu
 Actually, drawing a comparison table is the absolute best way to answer this in an exam. Writing out paragraphs often leads to missed points. If asked to differentiate between a compound and a mixture, draw a T-chart and list these exact contrasting points.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -20,7 +20,7 @@ The instructor details the biographies and major works of three prominent scient
 Honestly, matching the scientist to their famous book is a guaranteed MCQ. You must memorize that Abdul Malik Asmai wrote *Al-Wahoosh* and Jabir Bin Hayan wrote *Al-Nabatat*. 
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

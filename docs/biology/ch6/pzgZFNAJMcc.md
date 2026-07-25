@@ -20,7 +20,7 @@ Sir introduces the Watson and Crick Double Helix Model. DNA is composed of two l
 Look, the Base Pairing Rule is absolutely vital. If an exam gives you one strand of DNA that reads "A-A-C-T-G", you must be able to write the complementary strand by applying the rule: "T-T-G-A-C". Remembering that A goes with T, and C goes with G is mandatory.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

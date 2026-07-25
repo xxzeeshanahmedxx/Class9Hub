@@ -20,7 +20,7 @@ The teacher introduces "overlapping" fields. When physics principles are applied
 So basically, Students really need to be able to define the interdisciplinary branches. A classic exam question will ask to name the branch of science that deals with the physical properties of the Earth—the correct answer is Geophysics.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

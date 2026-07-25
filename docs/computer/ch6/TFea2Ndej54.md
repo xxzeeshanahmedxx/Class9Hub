@@ -21,7 +21,7 @@ Sir defines data as raw, unorganized facts and figures. To process data, a compu
 Honestly, the String concatenation trap is heavily tested. Remember that if a number is inside quotes (like "10"), the computer treats it as a word, not a mathematical number.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

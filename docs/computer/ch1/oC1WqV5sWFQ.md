@@ -21,7 +21,7 @@ Sir explains that humans use the Decimal system (Base 10) because we have 10 fin
 To be fair, memorizing the Hexadecimal alphabet ($A=10$ to $F=15$) is mandatory. If you are asked to convert the Hex number 'C' into decimal, you must instantly know it equals 12.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

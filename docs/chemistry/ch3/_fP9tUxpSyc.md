@@ -20,7 +20,7 @@ He introduces Electronegativity (the power of an atom to attract shared electron
 Actually, remembering the Delta ($\delta$) symbol is crucial. You must use $\delta^+$ and $\delta^-$ to show *partial* charges in polar bonds. If you use a full $+$ or $-$ sign, the examiner will mark it wrong because full charges only exist in Ionic bonds, not covalent ones!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

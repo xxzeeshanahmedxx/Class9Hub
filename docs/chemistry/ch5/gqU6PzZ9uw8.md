@@ -19,7 +19,7 @@ Our teacher tells us that it is impossible to measure the *absolute* total energ
 To be fair, Make sure you remember the order of the formula: it is always products minus reactants. if you do reactants minus products, your positive/negative sign will be backwards, and your entire thermodynamic analysis will be incorrect.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

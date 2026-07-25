@@ -20,7 +20,7 @@ Mass is the amount of matter in a body and is constant everywhere in the univers
 Actually, Weight is a force. It must always be measured in Newtons in physics, even though we use "kg" in daily life. This distinction is crucial for all dynamics numericals.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

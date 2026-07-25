@@ -25,7 +25,7 @@ Sir explains that spores are specialized reproductive cells that can develop int
 Pro tip: The key advantage of spore formation is that spores can survive extreme conditions and produce large numbers of offspring quickly. This is often compared to seed reproduction.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

@@ -21,7 +21,7 @@ The instructor outlines the steps: Recognizing the biological problem, making Ob
 Listen carefully here: You guys must memorize the exact order of the steps. Furthermore, examiners love asking why quantitative observations are superior. You must answer: "Because they are measurable, invariable, and can be recorded in numbers."
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

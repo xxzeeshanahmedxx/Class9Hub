@@ -19,7 +19,7 @@ Our teacher explains that beam balances and physical balances (mechanical) measu
 Pro tip: While electronic balances give a reading in kilograms, their internal mechanism technically measures force (weight) and divides by $g$. Therefore, they must be calibrated to local gravity to be perfectly accurate.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

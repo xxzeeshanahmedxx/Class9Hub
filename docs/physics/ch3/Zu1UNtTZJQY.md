@@ -21,7 +21,7 @@ The teacher explains that a rolling wheel experiences Rolling Friction, which is
 Pro tip: Terminal velocity is a perfect example of Newton's First Law. Even though the object is falling, because the downward weight equals the upward air friction, the net force is zero, and it falls at a constant, uniform speed.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

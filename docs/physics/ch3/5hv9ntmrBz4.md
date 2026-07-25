@@ -20,7 +20,7 @@ The teacher defines Momentum as the "quantity of motion" contained in a body, ma
 Honestly, Understanding the relationship between Force and Momentum is vital: Force is the *rate of change* of momentum ($F = \frac{\Delta p}{t}$). This is actually the original, more accurate form of Newton's Second Law.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

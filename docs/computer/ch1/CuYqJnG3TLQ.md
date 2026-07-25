@@ -22,7 +22,7 @@ The instructor details the rules of Binary Addition. While $0+0=0$ and $1+0=1$ a
 Honestly, rule number 5 is where most students fail. If you are adding a column that has two 1s plus a carried 1 from the previous column ($1+1+1$), the answer is 1, and you carry a 1 to the next column. Practice this specifically!
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

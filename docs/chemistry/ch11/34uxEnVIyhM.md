@@ -20,7 +20,7 @@ The teacher defines Alkanes as hydrocarbons where all carbon atoms are bonded by
 Look, you must memorize the general formula $C_nH_{2n+2}$. Examiners will give you an unknown molecule like $C_5H_{12}$ and ask you to identify its family. By seeing that $12 = (2 	imes 5) + 2$, you can instantly prove it is an alkane (Pentane).
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

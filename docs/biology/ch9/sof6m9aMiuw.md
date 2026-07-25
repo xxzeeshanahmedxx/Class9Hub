@@ -24,7 +24,7 @@ Sir explains that **Nitrogen** is a key component of proteins, nucleic acids (DN
 Pro tip: The specific deficiency symptoms of nitrogen vs. magnesium is a common exam comparison. remember: nitrogen = uniform yellowing; magnesium = yellow between veins, veins stay green.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

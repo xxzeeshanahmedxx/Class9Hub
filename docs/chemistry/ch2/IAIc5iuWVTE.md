@@ -21,7 +21,7 @@ Our teacher tells us that unstable isotopes (radioisotopes) emit radiation as th
 Honestly, you must memorize which specific isotope is used for which task. An MCQ asking "Which isotope is used to treat the thyroid gland?" is incredibly common, and you must confidently select Iodine-131 over Cobalt-60.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

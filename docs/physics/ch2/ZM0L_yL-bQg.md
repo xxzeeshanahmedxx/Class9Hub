@@ -20,7 +20,7 @@ Sir introduces Gravitational Acceleration ($g$). When an object is falling freel
 Look, The sign convention for $g$ is critical for numericals. Always use $-10 \text{ m/s}^2$ when calculating an object moving upwards. Additionally, remembering that initial velocity ($v_i$) is zero when an object is dropped from a height simplifies many problems.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 

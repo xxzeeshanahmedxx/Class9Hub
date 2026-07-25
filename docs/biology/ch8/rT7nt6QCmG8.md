@@ -19,7 +19,7 @@ Sir goes through all exercise questions systematically. MCQs are explained with 
 Make sure you can draw neat diagrams of the chloroplast and mitochondrion with all parts labeled. these diagrams carry high marks and are frequently tested in both subjective and objective papers.
 
 ## Textbook, Notes, and Practice Links
-- Textbook Chapter: [{info['subjectTitle']} Chapter {info['chapterNumber']} Textbook]({info['textbookUrl']})
+- Textbook: [{info['subjectTitle']} Full Textbook]({info['textbookUrl']})
 - Video Notes: [Notes for this Lecture]({info['notesUrl']})
 - Practice Questions: [Practice Questions for this Chapter]({info['exerciseUrl']})
 
