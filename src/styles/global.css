@@ -1,4 +1,4 @@
-﻿@import "tailwindcss";
+@import "tailwindcss";
 @import "@fontsource/dm-serif-display/latin-400.css";
 @import "@fontsource/dm-sans/latin-400.css";
 @import "@fontsource/dm-sans/latin-500.css";
@@ -87,13 +87,17 @@
 }
 
 body {
-  background: var(--page-bg);
+  background: linear-gradient(to bottom, #d4edda 0%, #ffffff 100%);
   color: var(--text-primary);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   overflow-x: hidden;
+}
+
+.dark body {
+  background: var(--page-bg);
 }
 
 a,
