@@ -39,7 +39,11 @@ const chUrl = `/${video.subjectId}/${video.chapterId}/`;
 // Look up summary from eagerly-loaded modules
 const summaryKey = `/docs/${video.subjectId}/${video.chapterId}/${video.videoId}.md`;
 const rawSummary = summaryModules[summaryKey] || null;
-const summaryHtml = rawSummary ? mdToHtml(rawSummary) : null;
+const summaryHtml = rawSummary ? mdToHtml(rawSummary, {
+  subjectTitle: subject?.title || video.subjectTitle,
+  chapterNumber: video.chapterNumber,
+  textbookUrl: subject?.pdfUrl || '',
+}) : null;
 
 // Start offset: 7s for all subjects except computer & math
 const startOffset = (video.subjectId !== 'computer' && video.subjectId !== 'math') ? 7 : 0;

@@ -1,4 +1,4 @@
-export function mdToHtml(md) {
+export function mdToHtml(md, context = {}) {
   if (!md) return '';
   let html = '';
   const lines = md.split('\n');
@@ -7,7 +7,12 @@ export function mdToHtml(md) {
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
 
-    // Skip template variable lines like {info['...']}
+    // Resolve template variables {info['key']} with context values
+    line = line.replace(/\{info\['(.+?)'\]\}/g, (_, key) => {
+      return context[key] !== undefined ? context[key] : `{info['${key}']}`;
+    });
+
+    // Skip lines still containing unresolved template variables
     if (line.includes("{info['") || line.trim() === '---' || line.trim() === '* * *') continue;
 
     // Headings
@@ -64,6 +69,8 @@ function escapeHtml(text) {
 
 function formatInline(text) {
   text = escapeHtml(text);
+  // Markdown links [text](url)
+  text = text.replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer" class="font-medium underline-offset-2 hover:opacity-80 transition-opacity" style="color: var(--accent); text-decoration: underline; text-underline-offset: 2px;">$1</a>');
   // Bold
   text = text.replace(/\*\*(.+?)\*\*/g, '<strong class="font-semibold" style="color: var(--text-primary);">$1</strong>');
   // Italic
