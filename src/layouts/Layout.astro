@@ -1,4 +1,4 @@
----
+﻿---
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -20,7 +20,7 @@ export interface Props {
 }
 
 const { title, subtitle, accent, backUrl, canonical, showPWA, noHeader, breadcrumbs } = Astro.props;
-const pageTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`;
+const pageTitle = title === SITE_NAME ? title : `${title} Â· ${SITE_NAME}`;
 const pageDesc = Astro.props.desc || DEFAULT_DESC;
 const siteUrl = SITE_URL;
 const ogImage = OG_IMAGE;
@@ -28,7 +28,7 @@ const themeColor = accent || '#07070d';
 ---
 
 <!doctype html>
-<html lang="en" class="scroll-smooth dark">
+<html lang="en" class="scroll-smooth">
   <head>
     <meta charset="utf-8" />
     <meta name="google-site-verification" content="9wMIiVm55vRQLteCGqw9691RYnVIVzSzlrZRvj8tupQ" />
@@ -41,7 +41,7 @@ const themeColor = accent || '#07070d';
     <link rel="canonical" href={canonical || Astro.url.href} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <script is:inline>
-      (function(){var k='c9-theme',h=document.documentElement,s=localStorage.getItem(k),p=window.matchMedia('(prefers-color-scheme:dark)').matches;if(s==='dark'||(!s&&p))h.classList.add('dark');else h.classList.remove('dark')})();
+      (function(){var k='c9-theme',h=document.documentElement,s=localStorage.getItem(k);if(s==='dark')h.classList.add('dark');else h.classList.remove('dark')})();
     </script>
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -97,7 +97,7 @@ const themeColor = accent || '#07070d';
     </script>
   </head>
   <body class="min-h-screen flex flex-col">
-    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[60] focus:px-4 focus:py-2 focus:rounded-lg focus:font-body focus:text-sm focus:font-medium" style="background: var(--card-bg); color: var(--text-primary); border: 2px solid var(--accent, #8cb4ff);">
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[60] focus:px-4 focus:py-2 focus:rounded-lg focus:font-body focus:text-sm focus:font-medium" style="background: var(--card-bg); color: var(--text-primary); border: 2px solid var(--accent, #2d5a7b);">
       Skip to main content
     </a>
     {!noHeader && <Header title={title} subtitle={subtitle} backUrl={backUrl} accent={accent} />}
@@ -147,7 +147,7 @@ const themeColor = accent || '#07070d';
 
     <style is:global>
       html.urdu { direction: rtl; }
-      html.urdu .gradient-brand { background: linear-gradient(135deg, #a78bfa, #8cb4ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+      
     </style>
 
     <script>

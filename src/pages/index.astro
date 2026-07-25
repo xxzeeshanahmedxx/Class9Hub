@@ -1,14 +1,12 @@
----
+﻿---
 import Layout from '../layouts/Layout.astro';
 import SubjectCard from '../components/SubjectCard.astro';
 import BentoHero from '../components/BentoHero.astro';
-import ContinueStudying from '../components/ContinueStudying.astro';
 import subjects from '../data/subjects.json';
 import { getData } from '../lib/data.js';
 import { SITE_URL } from '../lib/constants';
-import { videoSlug } from '../lib/slugify';
 
-// Build subject data with chapter/video counts and topic ranges
+// Build subject data with chapter/video counts
 const subjectCards = subjects.map(s => {
   const data = getData(s.id);
   const chapters = data.chapters;
@@ -25,52 +23,8 @@ const subjectCards = subjects.map(s => {
       videoCount += ch.videos.length;
     }
   }
-  // Derive topic range from first and last chapter
-  const first = chapters[0]?.title || '';
-  const last = chapters[chapters.length - 1]?.title || '';
-  const topicRange = first && last && first !== last ? `${first} → ${last}` : first;
-  return { ...s, chapterCount, videoCount, topicRange };
+  return { ...s, chapterCount, videoCount };
 });
-
-// Get recently added videos (last 6 from all subjects)
-const recentVideos: Array<{ subjectId: string; subjectTitle: string; accent: string; videoId: string; title: string; chapter: string; duration: string; slug: string }> = [];
-for (const s of subjects) {
-  const data = getData(s.id);
-  for (const ch of data.chapters) {
-    const chNum = ch.number || ch.chapterNumber || '';
-    if (ch.sections) {
-      for (const sec of ch.sections) {
-        for (const v of sec.videos || []) {
-          recentVideos.push({
-            subjectId: s.id,
-            subjectTitle: s.title,
-            accent: s.accent,
-            videoId: v.videoId,
-            title: v.title,
-            chapter: ch.title,
-            duration: v.duration,
-            slug: videoSlug(s.id, chNum, v.title),
-          });
-        }
-      }
-    } else if (ch.videos) {
-      for (const v of ch.videos) {
-        recentVideos.push({
-          subjectId: s.id,
-          subjectTitle: s.title,
-          accent: s.accent,
-          videoId: v.videoId,
-          title: v.title,
-          chapter: ch.title,
-          duration: v.duration,
-          slug: videoSlug(s.id, chNum, v.title),
-        });
-      }
-    }
-  }
-}
-// Take last 6
-const latestVideos = recentVideos.slice(-6).reverse();
 ---
 
 <Layout
@@ -86,7 +40,7 @@ const latestVideos = recentVideos.slice(-6).reverse();
   <section class="pt-4 pb-10 sm:pb-14">
     <div class="flex items-end justify-between mb-6">
       <div>
-        <h2 class="text-[22px] sm:text-[24px] font-bold tracking-tight" style="color: var(--text-primary);">Browse Subjects</h2>
+        <h2 class="text-[22px] sm:text-[24px] font-normal tracking-tight" style="font-family: var(--font-display); color: var(--text-primary);">Browse Subjects</h2>
         <p class="text-[13px] mt-0.5" style="color: var(--text-muted);">All {subjects.length} Punjab Board subjects, chapter by chapter</p>
       </div>
     </div>
@@ -99,74 +53,8 @@ const latestVideos = recentVideos.slice(-6).reverse();
             accent={s.accent}
             chapterCount={s.chapterCount}
             videoCount={s.videoCount}
-            topicRange={s.topicRange}
           />
         </div>
-      ))}
-    </div>
-  </section>
-
-  <!-- Continue Studying -->
-  <ContinueStudying />
-
-  <!-- Recently Added -->
-  <section class="pt-10 sm:pt-14 pb-8 sm:pb-12">
-    <div class="flex items-end justify-between mb-6">
-      <div>
-        <h2 class="text-[22px] sm:text-[24px] font-bold tracking-tight" style="color: var(--text-primary);">Recently Added</h2>
-        <p class="text-[13px] mt-0.5" style="color: var(--text-muted);">Fresh lectures from across all subjects</p>
-      </div>
-      <a href="/search/" class="text-[14px] font-semibold flex items-center gap-1 transition-all duration-200" style="color: var(--accent);" aria-label="See all videos">
-        See all
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M5 12h14"/><path d="M12 5l7 7-7 7"/></svg>
-      </a>
-    </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-      {latestVideos.map((v, i) => (
-        <a
-          href={`/watch/${v.slug}/`}
-          class={`group video-card relative rounded-2xl overflow-hidden transition-all duration-300 anim d${i + 1}`}
-          style="background: var(--card-bg); border: 1px solid var(--border); box-shadow: var(--shadow-card);"
-          aria-label={`${v.title} — ${v.subjectTitle}`}
-        >
-          <!-- Thumbnail -->
-          <div class="relative aspect-video overflow-hidden">
-            <img
-              src={`https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`}
-              alt={v.title}
-              class="absolute inset-0 w-full h-full object-cover"
-              loading="lazy"
-              decoding="async"
-            />
-            <!-- Duration badge -->
-            <span
-              class="absolute bottom-2 right-2 font-mono text-[11px] font-semibold px-1.5 py-0.5 rounded"
-              style="background: rgba(0,0,0,.75); color: #fff; backdrop-filter: blur(4px); border: 1px solid rgba(255,255,255,.08);"
-            >{v.duration}</span>
-            <!-- Play overlay -->
-            <div class="absolute inset-0 flex items-center justify-center transition-all duration-200" style="background: rgba(0,0,0,0);">
-              <div class="w-10 h-10 rounded-full flex items-center justify-center opacity-0 scale-75 transition-all duration-300" style="background: rgba(255,255,255,.9); box-shadow: 0 4px 16px rgba(0,0,0,.3);">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-left: 2px; color: #111;"><polygon points="6,3 20,12 6,21"/></svg>
-              </div>
-            </div>
-          </div>
-
-          <!-- Body -->
-          <div class="p-3 sm:p-4">
-            <div
-              class="inline-flex items-center gap-1.5 text-[11px] font-semibold px-2 py-0.5 rounded-full mb-2"
-              style={`background: ${v.accent}15; color: ${v.accent}; border: 1px solid ${v.accent}25;`}
-            >
-              {v.subjectTitle}
-            </div>
-            <h3 class="text-[14px] sm:text-[15px] font-semibold leading-snug mb-1 line-clamp-2" style="color: var(--text-primary);">
-              {v.title}
-            </h3>
-            <div class="flex items-center gap-2 text-[12px]" style="color: var(--text-muted);">
-              <span>{v.chapter}</span>
-            </div>
-          </div>
-        </a>
       ))}
     </div>
   </section>
@@ -186,21 +74,29 @@ const latestVideos = recentVideos.slice(-6).reverse();
     });
   </script>
 
-  <style is:global>
-    /* Video card hover effects */
-    @media (hover: hover) {
-      .video-card:hover {
-        transform: translateY(-4px);
-        box-shadow: var(--shadow-hover);
-        border-color: var(--border-hover);
+  <!-- Progress indicator script -->
+  <script is:inline>
+    (function() {
+      var RECENT_KEY = 'c9-recent';
+      var recent = [];
+      try { recent = JSON.parse(localStorage.getItem(RECENT_KEY) || '[]'); } catch(e) {}
+
+      // Group by subject, get last watched per subject
+      var lastBySubject = {};
+      for (var i = 0; i < recent.length; i++) {
+        var item = recent[i];
+        lastBySubject[item.subject] = item;
       }
-      .video-card:hover .aspect-video > div:last-child {
-        background: rgba(0,0,0,.2);
-      }
-      .video-card:hover .aspect-video > div:last-child > div {
-        opacity: 1;
-        transform: scale(1);
-      }
-    }
-  </style>
+
+      // Populate progress indicators
+      document.querySelectorAll('.subject-progress').forEach(function(el) {
+        var subjectId = el.getAttribute('data-subject');
+        var item = lastBySubject[subjectId];
+        if (item) {
+          el.innerHTML = '<span style="color: var(--accent);">Continue &rarr;</span> <span style="color: var(--text-muted);">' + item.title + '</span>';
+          el.classList.remove('hidden');
+        }
+      });
+    })();
+  </script>
 </Layout>

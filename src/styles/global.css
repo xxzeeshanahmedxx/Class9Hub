@@ -1,37 +1,35 @@
-@import "tailwindcss";
-@import "@fontsource/inter/latin-400.css";
-@import "@fontsource/inter/latin-500.css";
-@import "@fontsource/inter/latin-600.css";
-@import "@fontsource/inter/latin-700.css";
-@import "@fontsource/inter/latin-800.css";
+﻿@import "tailwindcss";
+@import "@fontsource/dm-serif-display/latin-400.css";
+@import "@fontsource/dm-sans/latin-400.css";
+@import "@fontsource/dm-sans/latin-500.css";
+@import "@fontsource/dm-sans/latin-600.css";
+@import "@fontsource/dm-sans/latin-700.css";
 @import "@fontsource/jetbrains-mono/latin-400.css";
 @import "@fontsource/jetbrains-mono/latin-600.css";
-@import "@fontsource/plus-jakarta-sans/latin-700.css";
-@import "@fontsource/plus-jakarta-sans/latin-800.css";
 
 /* ───────────────────────────────────────────────
    Design Tokens — Light Theme (default)
    ─────────────────────────────────────────────── */
 :root {
-  --font-display: "Plus Jakarta Sans", -apple-system, system-ui, sans-serif;
-  --font-body: Inter, -apple-system, system-ui, sans-serif;
+  --font-display: "DM Serif Display", Georgia, "Times New Roman", serif;
+  --font-body: "DM Sans", -apple-system, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
 
-  --page-bg: #f8f9fc;
+  --page-bg: #f8f7f5;
   --surface: #ffffff;
   --card-bg: #ffffff;
-  --card-hi: #f3f4f6;
-  --text-primary: #111827;
-  --text-secondary: #4b5563;
-  --text-muted: #9ca3af;
-  --text-dim: #d1d5db;
-  --border: #e2e6ee;
-  --border-hover: #c7cdd9;
-  --accent: #6366f1;
-  --accent2: #8b5cf6;
-  --accent-light: #a5b4fc;
-  --header-bg: rgba(255, 255, 255, 0.85);
-  --overlay: rgba(0, 0, 0, 0.6);
+  --card-hi: #f3f2ef;
+  --text-primary: #1a1a2e;
+  --text-secondary: #4a4a68;
+  --text-muted: #8a8aa0;
+  --text-dim: #c0bfba;
+  --border: #e8e7e4;
+  --border-hover: #d0cfc8;
+  --accent: #2d5a7b;
+  --accent2: #4a7a9b;
+  --accent-light: #b8d4e8;
+  --header-bg: rgba(248, 247, 245, 0.85);
+  --overlay: rgba(0, 0, 0, 0.5);
 
   --radius-sm: 6px;
   --radius-md: 8px;
@@ -39,9 +37,9 @@
   --radius-xl: 14px;
   --radius-2xl: 16px;
 
-  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.04);
-  --shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
-  --shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.1);
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.08);
   --glow: 0 0 0 1px rgba(0, 0, 0, 0.03);
 
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
@@ -54,25 +52,25 @@
 .dark {
   color-scheme: dark;
 
-  --page-bg: #08090f;
-  --surface: #0e1019;
-  --card-bg: #171a28;
-  --card-hi: #1c2035;
-  --text-primary: #f0f1f5;
-  --text-secondary: #9ca0b8;
-  --text-muted: #5e6382;
-  --text-dim: #3d4160;
-  --border: #222640;
-  --border-hover: #333a5c;
-  --accent: #7c6aff;
-  --accent2: #a78bfa;
-  --accent-light: #a5b4fc;
-  --header-bg: rgba(8, 9, 15, 0.75);
+  --page-bg: #0f1118;
+  --surface: #161822;
+  --card-bg: #1c1f2e;
+  --card-hi: #22263a;
+  --text-primary: #e8e7f0;
+  --text-secondary: #a0a0b8;
+  --text-muted: #6a6a82;
+  --text-dim: #3a3a52;
+  --border: #2a2d40;
+  --border-hover: #3a3e58;
+  --accent: #5b8fb9;
+  --accent2: #7aafcf;
+  --accent-light: #b8d4e8;
+  --header-bg: rgba(15, 17, 24, 0.85);
   --overlay: rgba(0, 0, 0, 0.75);
 
-  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.03);
-  --shadow-hover: 0 4px 20px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.04);
-  --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.5);
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.02);
+  --shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.03);
+  --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.4);
   --glow: 0 0 0 1px rgba(255, 255, 255, 0.06);
 }
 
@@ -84,7 +82,7 @@
 }
 
 *:focus-visible {
-  outline: 2px solid var(--accent, #6366f1);
+  outline: 2px solid var(--accent, #2d5a7b);
   outline-offset: 2px;
 }
 
@@ -98,18 +96,6 @@ body {
   overflow-x: hidden;
 }
 
-/* Grain overlay */
-body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 9999;
-  opacity: 0.025;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  background-size: 128px;
-}
-
 a,
 button {
   -webkit-touch-callout: none;
@@ -118,13 +104,6 @@ button {
 
 img {
   content-visibility: auto;
-}
-
-/* ───────────────────────────────────────────────
-   Brand Gradient
-   ─────────────────────────────────────────────── */
-.gradient-brand {
-  background: linear-gradient(135deg, var(--accent, #6366f1), var(--accent2, #a78bfa));
 }
 
 /* ───────────────────────────────────────────────
@@ -154,66 +133,6 @@ img {
 ::-webkit-scrollbar-thumb {
   background: var(--border);
   border-radius: 2px;
-}
-
-/* ───────────────────────────────────────────────
-   Subject Gradient Tokens
-   ─────────────────────────────────────────────── */
-.s-math {
-  --s-from: #312e81;
-  --s-via: #4338ca;
-  --s-to: #6366f1;
-  --s-glow: rgba(99, 102, 241, 0.35);
-  --s-text: #a5b4fc;
-  --s-gradient: linear-gradient(140deg, #312e81 0%, #3b33b0 30%, #4338ca 55%, #5550d8 80%, #6366f1 100%);
-}
-.s-physics {
-  --s-from: #042f2e;
-  --s-via: #0f766e;
-  --s-to: #14b8a6;
-  --s-glow: rgba(20, 184, 166, 0.3);
-  --s-text: #5eead4;
-  --s-gradient: linear-gradient(140deg, #042f2e 0%, #0a5450 30%, #0f766e 55%, #119a8f 80%, #14b8a6 100%);
-}
-.s-chemistry {
-  --s-from: #082f49;
-  --s-via: #0369a1;
-  --s-to: #38bdf8;
-  --s-glow: rgba(56, 189, 248, 0.3);
-  --s-text: #7dd3fc;
-  --s-gradient: linear-gradient(140deg, #082f49 0%, #044d75 30%, #0369a1 55%, #1d8fd4 80%, #38bdf8 100%);
-}
-.s-biology {
-  --s-from: #052e16;
-  --s-via: #15803d;
-  --s-to: #4ade80;
-  --s-glow: rgba(74, 222, 128, 0.3);
-  --s-text: #86efac;
-  --s-gradient: linear-gradient(140deg, #052e16 0%, #0d5e2b 30%, #15803d 55%, #2ca05c 80%, #4ade80 100%);
-}
-.s-computer {
-  --s-from: #2e1065;
-  --s-via: #6d28d9;
-  --s-to: #a78bfa;
-  --s-glow: rgba(167, 139, 250, 0.3);
-  --s-text: #c4b5fd;
-  --s-gradient: linear-gradient(140deg, #2e1065 0%, #4c1d95 30%, #6d28d9 55%, #8b5cf6 80%, #a78bfa 100%);
-}
-.s-urdu {
-  --s-from: #451a03;
-  --s-via: #b45309;
-  --s-to: #fbbf24;
-  --s-glow: rgba(251, 191, 36, 0.25);
-  --s-text: #fde68a;
-  --s-gradient: linear-gradient(140deg, #451a03 0%, #7c3706 30%, #b45309 55%, #d48a15 80%, #fbbf24 100%);
-}
-.s-english {
-  --s-from: #450a0a;
-  --s-via: #b91c1c;
-  --s-to: #f87171;
-  --s-glow: rgba(248, 113, 113, 0.3);
-  --s-text: #fca5a5;
-  --s-gradient: linear-gradient(140deg, #450a0a 0%, #7f1212 30%, #b91c1c 55%, #dc3030 80%, #f87171 100%);
 }
 
 /* ───────────────────────────────────────────────

@@ -1,4 +1,4 @@
----
+﻿---
 export interface Props {
   videoId: string;
   title: string;
@@ -14,7 +14,7 @@ const {
   title,
   subtitle,
   duration,
-  accent = '#8cb4ff',
+  accent = '#2d5a7b',
   index = 99,
   slug = '',
 } = Astro.props;
@@ -47,21 +47,10 @@ const href = slug ? `/watch/${slug}/` : `https://www.youtube.com/watch?v=${video
         {duration}
       </span>
     )}
-    <!-- Play overlay -->
-    <div class="absolute inset-0 flex items-center justify-center transition-all duration-200">
-      <div
-        class="w-11 h-11 rounded-full flex items-center justify-center opacity-0 scale-75 transition-all duration-300"
-        style="background: rgba(255,255,255,.9); box-shadow: 0 4px 16px rgba(0,0,0,.3);"
-      >
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" style="margin-left: 2px; color: #111;">
-          <polygon points="6,3 20,12 6,21"/>
-        </svg>
-      </div>
-    </div>
   </div>
 
   <div class="px-4 pb-4 pt-3">
-    <h3 class="text-[14px] sm:text-[15px] font-semibold leading-snug line-clamp-2 mb-0.5" style="color: var(--text-primary);">
+    <h3 class="text-[14px] sm:text-[15px] font-semibold leading-snug line-clamp-2 mb-0.5" style="color: var(--text-primary); font-family: var(--font-body);">
       {title}
     </h3>
     {subtitle && (
@@ -70,30 +59,13 @@ const href = slug ? `/watch/${slug}/` : `https://www.youtube.com/watch?v=${video
       </p>
     )}
   </div>
-
-  <!-- Accent inset border glow on hover -->
-  <div
-    class="absolute inset-0 rounded-2xl pointer-events-none opacity-0 transition-opacity duration-300"
-    style={`box-shadow: inset 0 0 0 1px ${accent};`}
-  />
 </a>
 
 <style is:global>
   @media (hover: hover) {
     .video-card:hover {
-      transform: translateY(-4px);
+      transform: translateY(-3px);
       box-shadow: var(--shadow-hover);
-      border-color: var(--border-hover);
-    }
-    .video-card:hover .absolute.inset-0.rounded-2xl.pointer-events-none {
-      opacity: 1;
-    }
-    .video-card:hover > div:first-child > div:last-child > div {
-      opacity: 1;
-      transform: scale(1);
-    }
-    .video-card:hover > div:first-child > div:last-child {
-      background: rgba(0,0,0,.15);
     }
   }
 </style>

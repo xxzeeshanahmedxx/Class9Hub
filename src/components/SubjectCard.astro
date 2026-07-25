@@ -1,4 +1,4 @@
----
+﻿---
 export interface Props {
   id: string;
   title: string;
@@ -9,8 +9,6 @@ export interface Props {
 }
 
 const { id, title, accent, chapterCount, videoCount, topicRange } = Astro.props;
-
-const subjectClass = `s-${id}`;
 
 const lucideSvgs: Record<string, string> = {
   physics: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="24" height="24"><circle cx="12" cy="12" r="1"/><path d="M20.2 20.2c2.04-2.03.02-7.36-4.5-11.9-4.54-4.52-9.87-6.54-11.9-4.5-2.04 2.03-.02 7.36 4.5 11.9 4.54 4.52 9.87 6.54 11.9 4.5Z"/><path d="M15.7 15.7c4.52-4.54 6.54-9.87 4.5-11.9-2.03-2.04-7.36-.02-11.9 4.5-4.52 4.54-6.54 9.87-4.5 11.9 2.03 2.04 7.36.02 11.9-4.5Z"/></svg>`,
@@ -25,89 +23,46 @@ const lucideSvgs: Record<string, string> = {
 
 <a
   href={`/${id}/`}
-  class={`group relative rounded-2xl overflow-hidden block active:scale-[0.97] transition-all duration-300 touch-min ${subjectClass}`}
+  class="group relative rounded-2xl overflow-hidden block active:scale-[0.97] transition-all duration-300 touch-min"
   aria-label={title}
   style={`
     min-height: 180px;
-    background: var(--s-gradient);
-    border: 1px solid rgba(255,255,255,0.08);
+    background: ${accent}0D;
+    border-left: 3px solid ${accent};
   `}
 >
-  <!-- Bottom gradient overlay for text readability -->
-  <div class="absolute inset-0" style="background: linear-gradient(180deg, transparent 15%, rgba(0,0,0,0.5) 100%); z-index: 1;"></div>
-
-  <!-- Chapter count pill (top-left) -->
-  {chapterCount && (
-    <div
-      class="absolute top-4 left-4 z-10 text-[11px] font-semibold uppercase tracking-[0.4px] px-2.5 py-1 rounded-full"
-      style="background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: rgba(255,255,255,0.9);"
-    >
-      {chapterCount} ch
-    </div>
-  )}
-
-  <!-- Frosted icon (top-right) -->
+  <!-- Icon (top-right) -->
   <div
-    class="absolute top-4 right-4 z-10 w-11 h-11 rounded-xl flex items-center justify-center transition-transform duration-300"
-    style="background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1);"
+    class="absolute top-4 right-4 z-10 w-10 h-10 rounded-xl flex items-center justify-center transition-transform duration-300"
+    style={`color: ${accent};`}
   >
-    <span class="text-white" set:html={lucideSvgs[id] || ''} />
+    <span set:html={lucideSvgs[id] || ''} />
   </div>
 
   <!-- Content (bottom) -->
   <div class="absolute bottom-0 left-0 right-0 p-4 z-10">
-    <h3 class="text-[18px] font-bold tracking-tight text-white" style="text-shadow: 0 2px 8px rgba(0,0,0,0.4);">
+    <h3 class="text-[18px] font-normal tracking-tight mb-1" style="font-family: var(--font-display); color: var(--text-primary);">
       {title}
     </h3>
-  </div>
-
-  <!-- Video count (bottom-right) -->
-  {videoCount && (
-    <div
-      class="absolute bottom-4 right-4 z-10 font-mono text-[11px] font-medium"
-      style="color: rgba(255,255,255,0.5);"
-    >
-      {videoCount} videos
+    <div class="flex items-center gap-3 text-[12px]" style="color: var(--text-muted);">
+      {chapterCount && <span>{chapterCount} chapters</span>}
+      {videoCount && <span>{videoCount} videos</span>}
     </div>
-  )}
-
-  <!-- Hover glow -->
-  <div
-    class="absolute inset-0 rounded-2xl opacity-0 transition-opacity duration-300 pointer-events-none"
-    style={`box-shadow: inset 0 0 0 1px rgba(255,255,255,0.15);`}
-  ></div>
+    <!-- Progress indicator (populated by JS) -->
+    <div class="subject-progress mt-2 hidden" data-subject={id}></div>
+  </div>
 </a>
 
 <style is:global>
   @media (hover: hover) {
-    .s-math:hover,
-    .s-physics:hover,
-    .s-chemistry:hover,
-    .s-biology:hover,
-    .s-computer:hover,
-    .s-urdu:hover,
-    .s-english:hover {
-      transform: translateY(-5px) scale(1.01);
-      box-shadow: 0 12px 48px var(--s-glow);
-      border-color: rgba(255,255,255,0.15);
+    a[href^="/"]:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--shadow-hover);
     }
-    .s-math:hover > div:last-child,
-    .s-physics:hover > div:last-child,
-    .s-chemistry:hover > div:last-child,
-    .s-biology:hover > div:last-child,
-    .s-computer:hover > div:last-child,
-    .s-urdu:hover > div:last-child,
-    .s-english:hover > div:last-child {
-      opacity: 1;
-    }
-    .s-math:hover .w-11,
-    .s-physics:hover .w-11,
-    .s-chemistry:hover .w-11,
-    .s-biology:hover .w-11,
-    .s-computer:hover .w-11,
-    .s-urdu:hover .w-11,
-    .s-english:hover .w-11 {
-      transform: scale(1.12) rotate(-5deg);
-    }
+  }
+  .subject-progress {
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 500;
   }
 </style>

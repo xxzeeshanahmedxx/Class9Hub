@@ -1,4 +1,4 @@
----
+﻿---
 export interface Props {
   number: number;
   title: string;
@@ -8,7 +8,7 @@ export interface Props {
   accent?: string;
 }
 
-const { number, title, count, label, href, accent = '#8cb4ff' } = Astro.props;
+const { number, title, count, label, href, accent = '#2d5a7b' } = Astro.props;
 
 // Format number with leading zero for single digits
 const displayNum = number < 10 ? `0${number}` : `${number}`;
@@ -22,7 +22,7 @@ const displayNum = number < 10 ? `0${number}` : `${number}`;
 >
   <!-- Left accent bar (hidden until hover) -->
   <div
-    class="absolute left-0 top-0 bottom-0 w-[3px] rounded-l-2xl opacity-0 transition-opacity duration-200"
+    class="absolute left-0 top-0 bottom-0 w-[3px] rounded-l-2xl"
     style={`background: ${accent};`}
   ></div>
 
